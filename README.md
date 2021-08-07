@@ -54,8 +54,8 @@ language : is 'pt' for Portuguese and 'es' for Spanish
 
 The annotation files will be in './evaluation/NEL/multi_ont/<language>' directory
 
-## 4-Evaluation
-Evaluate the performance of the ICERL system 
+# 4-Evaluation
+## Evaluate the performance of the ICERL system 
 ```
 python3 evaluation_pt_es.py
 ```
