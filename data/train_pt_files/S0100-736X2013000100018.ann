@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 3 13 11	neoplasias
+T1	11	neoplasias	['8960/3', '8960/3', '8970/3', '9500/3', '8000/0', '8000/3', '8000/6', '8820/0', '9073/1', '9562', '9362/3', '8971/3']
+T2	MORFOLOGIA_NEOPLASIA 236 272 41	carcinoma mamário pouco diferenciado
+T2	41	carcinoma mamário pouco diferenciado	['2320', '8574/3', '8095/3', '31595', '2320', '8020/3', '31588', '3965', '31587', '8430/3', '8317/3', '9243/3', '9372/3', '8110/3', '57577', '31806', '55837', '8981/3', '2335', '31597', '8331/3', '31596']
+T3	MORFOLOGIA_NEOPLASIA 810 827 61	carcinoma de alto
+T3	61	carcinoma de alto	['2320', '2320', '8095/3', '31595', '8050/3', '8586/3', '8145/3', '8510/3', '8010/6', '8010/9', '8010/3', '8042/3', '38036', '2329', '2339', '2334', '31590', '31589', '2319', '2165', '8333/3']
+T4	MORFOLOGIA_NEOPLASIA 849 872 62	carcinoma adenoescamoso
+T4	62	carcinoma adenoescamoso	['8560/3', '31598', '31598']

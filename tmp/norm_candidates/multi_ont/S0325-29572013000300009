@@ -1,0 +1,37 @@
+ENTITY	text:carcinoma invasor	normalName:carcinoma_invasor	predictedType:MOR_NEO	q:true	qid:Q755	docId:S0325-29572013000300009	origText:carcinoma invasor	url:NaN
+CANDIDATE	id:83373	inCount:0	outCount:1	links:	url:8337/3	name:Carcinoma insular	normalName:carcinoma_insular	normalWikiTitle:carcinoma_insular	predictedType:MOR_NEO
+CANDIDATE	id:85303	inCount:0	outCount:1	links:	url:8530/3	name:Carcinoma inflamatorio	normalName:carcinoma_inflamatorio	normalWikiTitle:carcinoma_inflamatorio	predictedType:MOR_NEO
+CANDIDATE	id:80109	inCount:0	outCount:1	links:	url:8010/9	name:Carcinomatosis	normalName:carcinomatosis	normalWikiTitle:carcinomatosis	predictedType:MOR_NEO
+CANDIDATE	id:80102	inCount:0	outCount:1	links:	url:8010/2	name:Carcinoma in situ, SAI	normalName:carcinoma_in_situ,_sai	normalWikiTitle:carcinoma_in_situ,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80103	inCount:0	outCount:1	links:	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82303	inCount:0	outCount:1	links:	url:8230/3	name:Carcinoma slido, SAI	normalName:carcinoma_slido,_sai	normalWikiTitle:carcinoma_slido,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80513	inCount:0	outCount:1	links:	url:8051/3	name:Carcinoma verrugoso, SAI	normalName:carcinoma_verrugoso,_sai	normalWikiTitle:carcinoma_verrugoso,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84803	inCount:0	outCount:1	links:	url:8480/3	name:Adenocarcinoma mucinoso	normalName:adenocarcinoma_mucinoso	normalWikiTitle:adenocarcinoma_mucinoso	predictedType:MOR_NEO
+CANDIDATE	id:85043	inCount:0	outCount:1	links:	url:8504/3	name:Carcinoma intraqustico, SAI	normalName:carcinoma_intraqustico,_sai	normalWikiTitle:carcinoma_intraqustico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80503	inCount:0	outCount:1	links:	url:8050/3	name:Carcinoma papilar, SAI	normalName:carcinoma_papilar,_sai	normalWikiTitle:carcinoma_papilar,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80102	inCount:0	outCount:1	links:	url:8010/2	name:Carcinoma no invasor, SAI	normalName:carcinoma_no_invasor,_sai	normalWikiTitle:carcinoma_no_invasor,_sai	predictedType:MOR_NEO
+CANDIDATE	id:7000	inCount:4	outCount:1	links:	url:C7A.0	name:Tumores carcinoides malignos	normalName:tumores_carcinoides_malignos	normalWikiTitle:tumores_carcinoides_malignos	predictedType:MOR_NEO
+CANDIDATE	id:5	inCount:4	outCount:1	links:	url:D05	name:Carcinoma in situ de mama	normalName:carcinoma_in_situ_de_mama	normalWikiTitle:carcinoma_in_situ_de_mama	predictedType:MOR_NEO
+CANDIDATE	id:701	inCount:0	outCount:1	links:	url:D07.1	name:Carcinoma in situ de vulva	normalName:carcinoma_in_situ_de_vulva	normalWikiTitle:carcinoma_in_situ_de_vulva	predictedType:MOR_NEO
+CANDIDATE	id:201	inCount:0	outCount:1	links:	url:D02.1	name:Carcinoma in situ de tráquea	normalName:carcinoma_in_situ_de_tráquea	normalWikiTitle:carcinoma_in_situ_de_tráquea	predictedType:MOR_NEO
+CANDIDATE	id:702	inCount:0	outCount:1	links:	url:D07.2	name:Carcinoma in situ de vagina	normalName:carcinoma_in_situ_de_vagina	normalWikiTitle:carcinoma_in_situ_de_vagina	predictedType:MOR_NEO
+CANDIDATE	id:57577	inCount:0	outCount:2	links:	url:57577	name:carcinoma nasofaríngeo	normalName:carcinoma_nasofaríngeo	normalWikiTitle:carcinoma_nasofaríngeo	predictedType:MOR_NEO
+CANDIDATE	id:2330	inCount:4	outCount:1	links:	url:2330	name:carcinoma in situ	normalName:carcinoma_in_situ	normalWikiTitle:carcinoma_in_situ	predictedType:MOR_NEO
+CANDIDATE	id:2334	inCount:0	outCount:2	links:	url:2334	name:carcinoma papilar	normalName:carcinoma_papilar	normalWikiTitle:carcinoma_papilar	predictedType:MOR_NEO
+CANDIDATE	id:2320	inCount:19	outCount:1	links:	url:2320	name:carcinoma	normalName:carcinoma	normalWikiTitle:carcinoma	predictedType:MOR_NEO
+CANDIDATE	id:31596	inCount:0	outCount:1	links:	url:31596	name:carcinoma embrionario	normalName:carcinoma_embrionario	normalWikiTitle:carcinoma_embrionario	predictedType:MOR_NEO
+CANDIDATE	id:2271	inCount:0	outCount:1	links:	url:2271	name:carbocianinas	normalName:carbocianinas	normalWikiTitle:carbocianinas	predictedType:MOR_NEO
+CANDIDATE	id:31582	inCount:1	outCount:2	links:	url:31582	name:carcinoma verrugoso	normalName:carcinoma_verrugoso	normalWikiTitle:carcinoma_verrugoso	predictedType:MOR_NEO
+CANDIDATE	id:31589	inCount:0	outCount:2	links:	url:31589	name:carcinoma medular	normalName:carcinoma_medular	normalWikiTitle:carcinoma_medular	predictedType:MOR_NEO
+CANDIDATE	id:31590	inCount:0	outCount:3	links:	url:31590	name:carcinoma lobular	normalName:carcinoma_lobular	normalWikiTitle:carcinoma_lobular	predictedType:MOR_NEO
+CANDIDATE	id:31806	inCount:0	outCount:2	links:	url:31806	name:adenocarcinoma mucinoso	normalName:adenocarcinoma_mucinoso	normalWikiTitle:adenocarcinoma_mucinoso	predictedType:MOR_NEO
+CANDIDATE	id:2330	inCount:4	outCount:1	links:	url:2330	name:Carcinoma Preinvasor	normalName:carcinoma_preinvasor	normalWikiTitle:carcinoma_preinvasor	predictedType:MOR_NEO
+CANDIDATE	id:2330	inCount:4	outCount:1	links:	url:2330	name:Carcinoma no Invasor	normalName:carcinoma_no_invasor	normalWikiTitle:carcinoma_no_invasor	predictedType:MOR_NEO
+CANDIDATE	id:2330	inCount:4	outCount:1	links:	url:2330	name:carcinoma no invasor	normalName:carcinoma_no_invasor	normalWikiTitle:carcinoma_no_invasor	predictedType:MOR_NEO
+CANDIDATE	id:2330	inCount:4	outCount:1	links:	url:2330	name:carcinoma preinvasor	normalName:carcinoma_preinvasor	normalWikiTitle:carcinoma_preinvasor	predictedType:MOR_NEO
+CANDIDATE	id:2330	inCount:4	outCount:1	links:	url:2330	name:Carcinoma Preinvasivo	normalName:carcinoma_preinvasivo	normalWikiTitle:carcinoma_preinvasivo	predictedType:MOR_NEO
+CANDIDATE	id:2330	inCount:4	outCount:1	links:	url:2330	name:Carcinoma no Invasivo	normalName:carcinoma_no_invasivo	normalWikiTitle:carcinoma_no_invasivo	predictedType:MOR_NEO
+CANDIDATE	id:2330	inCount:4	outCount:1	links:	url:2330	name:carcinoma no invasivo	normalName:carcinoma_no_invasivo	normalWikiTitle:carcinoma_no_invasivo	predictedType:MOR_NEO
+CANDIDATE	id:2330	inCount:4	outCount:1	links:	url:2330	name:carcinoma preinvasivo	normalName:carcinoma_preinvasivo	normalWikiTitle:carcinoma_preinvasivo	predictedType:MOR_NEO
+CANDIDATE	id:55556	inCount:0	outCount:3	links:	url:55556	name:Adenocarcinoma Preinvasor	normalName:adenocarcinoma_preinvasor	normalWikiTitle:adenocarcinoma_preinvasor	predictedType:MOR_NEO
+CANDIDATE	id:55556	inCount:0	outCount:3	links:	url:55556	name:Adenocarcinoma no Invasor	normalName:adenocarcinoma_no_invasor	normalWikiTitle:adenocarcinoma_no_invasor	predictedType:MOR_NEO

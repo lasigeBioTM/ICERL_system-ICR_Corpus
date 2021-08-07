@@ -1,0 +1,95 @@
+ENTITY	text:metástasis vertebrales por tumor	normalName:metástasis_vertebrales_por_tumor	predictedType:MOR_NEO	q:true	qid:Q1156	docId:S1808-18512017000300231	origText:metástasis vertebrales por tumor	url:NaN
+CANDIDATE	id:89506	inCount:0	outCount:1	links:	url:8950/6	name:Tumor mlleriano mixto, metstasis	normalName:tumor_mlleriano_mixto,_metstasis	normalWikiTitle:tumor_mlleriano_mixto,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:90816	inCount:0	outCount:1	links:	url:9081/6	name:Teratocarcinoma, metstasis	normalName:teratocarcinoma,_metstasis	normalWikiTitle:teratocarcinoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:95206	inCount:0	outCount:1	links:	url:9520/6	name:Tumor neurognico olfatorio, metstasis	normalName:tumor_neurognico_olfatorio,_metstasis	normalWikiTitle:tumor_neurognico_olfatorio,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:93626	inCount:0	outCount:1	links:93626	url:9362/6	name:Pineoblastoma, metstasis	normalName:pineoblastoma,_metstasis	normalWikiTitle:pineoblastoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:93646	inCount:0	outCount:1	links:	url:9364/6	name:Tumor neuroectodrmico perifrico, metstasis	normalName:tumor_neuroectodrmico_perifrico,_metstasis	normalWikiTitle:tumor_neuroectodrmico_perifrico,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:95086	inCount:0	outCount:1	links:	url:9508/6	name:Tumor teratoide / rabdoide atpico, metstasis	normalName:tumor_teratoide_/_rabdoide_atpico,_metstasis	normalWikiTitle:tumor_teratoide_/_rabdoide_atpico,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:95226	inCount:0	outCount:1	links:	url:9522/6	name:Neuroblastoma olfatorio, metstasis	normalName:neuroblastoma_olfatorio,_metstasis	normalWikiTitle:neuroblastoma_olfatorio,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:89606	inCount:0	outCount:1	links:89606	url:8960/6	name:Nefroblastoma, SAI, metstasis	normalName:nefroblastoma,_sai,_metstasis	normalWikiTitle:nefroblastoma,_sai,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:89716	inCount:0	outCount:1	links:89716	url:8971/6	name:Pancreatoblastoma, metstasis	normalName:pancreatoblastoma,_metstasis	normalWikiTitle:pancreatoblastoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:95006	inCount:0	outCount:1	links:	url:9500/6	name:Neuroblastoma, SAI, metstasis	normalName:neuroblastoma,_sai,_metstasis	normalWikiTitle:neuroblastoma,_sai,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:4900	inCount:7	outCount:1	links:	url:C49.A	name:Tumor estromal gastrointestinal	normalName:tumor_estromal_gastrointestinal	normalWikiTitle:tumor_estromal_gastrointestinal	predictedType:MOR_NEO
+CANDIDATE	id:49005	inCount:0	outCount:1	links:	url:C49.A5	name:Tumor estromal gastrointestinal de recto	normalName:tumor_estromal_gastrointestinal_de_recto	normalWikiTitle:tumor_estromal_gastrointestinal_de_recto	predictedType:MOR_NEO
+CANDIDATE	id:7008	inCount:0	outCount:1	links:	url:C7A.8	name:Otros tumores neuroendocrinos malignos	normalName:otros_tumores_neuroendocrinos_malignos	normalWikiTitle:otros_tumores_neuroendocrinos_malignos	predictedType:MOR_NEO
+CANDIDATE	id:26	inCount:4	outCount:1	links:	url:D26	name:Otros tumores benignos de útero	normalName:otros_tumores_benignos_de_útero	normalWikiTitle:otros_tumores_benignos_de_útero	predictedType:MOR_NEO
+CANDIDATE	id:49002	inCount:0	outCount:1	links:	url:C49.A2	name:Tumor estromal gastrointestinal de estómago	normalName:tumor_estromal_gastrointestinal_de_estómago	normalWikiTitle:tumor_estromal_gastrointestinal_de_estómago	predictedType:MOR_NEO
+CANDIDATE	id:21052	inCount:0	outCount:1	links:	url:21052	name:seudotumor cerebral	normalName:seudotumor_cerebral	normalWikiTitle:seudotumor_cerebral	predictedType:MOR_NEO
+CANDIDATE	id:52213	inCount:0	outCount:2	links:	url:52213	name:ATPasas transportadoras de arsenitos	normalName:atpasas_transportadoras_de_arsenitos	normalWikiTitle:atpasas_transportadoras_de_arsenitos	predictedType:MOR_NEO
+CANDIDATE	id:54790	inCount:0	outCount:1	links:	url:54790	name:homeostasis telomérica	normalName:homeostasis_telomérica	normalWikiTitle:homeostasis_telomérica	predictedType:MOR_NEO
+CANDIDATE	id:317	inCount:0	outCount:1	links:	url:317	name:tumor de restos suprarrenales	normalName:tumor_de_restos_suprarrenales	normalWikiTitle:tumor_de_restos_suprarrenales	predictedType:MOR_NEO
+CANDIDATE	id:13512	inCount:1	outCount:1	links:13512	url:13512	name:osteofitosis vertebral	normalName:osteofitosis_vertebral	normalWikiTitle:osteofitosis_vertebral	predictedType:MOR_NEO
+CANDIDATE	id:1676	inCount:0	outCount:1	links:	url:1676	name:colestasis extrahepática	normalName:colestasis_extrahepática	normalWikiTitle:colestasis_extrahepática	predictedType:MOR_NEO
+CANDIDATE	id:27798	inCount:0	outCount:1	links:	url:27798	name:espacio muerto respiratorio	normalName:espacio_muerto_respiratorio	normalWikiTitle:espacio_muerto_respiratorio	predictedType:MOR_NEO
+CANDIDATE	id:28618	inCount:12	outCount:5	links:	url:28618	name:estadísticas vitales	normalName:estadísticas_vitales	normalWikiTitle:estadísticas_vitales	predictedType:MOR_NEO
+CANDIDATE	id:53067	inCount:0	outCount:2	links:53067	url:53067	name:osteoartritis vertebral	normalName:osteoartritis_vertebral	normalWikiTitle:osteoartritis_vertebral	predictedType:MOR_NEO
+CANDIDATE	id:26949	inCount:0	outCount:2	links:26949	url:26949	name:metástasis mórbida	normalName:metástasis_mórbida	normalWikiTitle:metástasis_mórbida	predictedType:MOR_NEO
+CANDIDATE	id:13514	inCount:0	outCount:1	links:	url:13514	name:estenosis vertebral	normalName:estenosis_vertebral	normalWikiTitle:estenosis_vertebral	predictedType:MOR_NEO
+CANDIDATE	id:13507	inCount:1	outCount:1	links:	url:13507	name:Lesiones Vertebrales	normalName:lesiones_vertebrales	normalWikiTitle:lesiones_vertebrales	predictedType:MOR_NEO
+CANDIDATE	id:13507	inCount:1	outCount:1	links:	url:13507	name:lesiones vertebrales	normalName:lesiones_vertebrales	normalWikiTitle:lesiones_vertebrales	predictedType:MOR_NEO
+CANDIDATE	id:9555	inCount:5	outCount:1	links:9555	url:9555	name:metástasis tumoral	normalName:metástasis_tumoral	normalWikiTitle:metástasis_tumoral	predictedType:MOR_NEO
+CANDIDATE	id:31181	inCount:0	outCount:2	links:	url:31181	name:Photoreceptor Cells, Invertebrate	normalName:photoreceptor_cells,_invertebrate	normalWikiTitle:photoreceptor_cells,_invertebrate	predictedType:MOR_NEO
+CANDIDATE	id:36227	inCount:28	outCount:1	links:	url:36227	name:Proteínas Supresoras de Metástasis	normalName:proteínas_supresoras_de_metástasis	normalWikiTitle:proteínas_supresoras_de_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:36227	inCount:28	outCount:1	links:	url:36227	name:proteínas supresoras de metástasis	normalName:proteínas_supresoras_de_metástasis	normalWikiTitle:proteínas_supresoras_de_metástasis	predictedType:MOR_NEO
+ENTITY	text:metástasis	normalName:metástasis	predictedType:MOR_NEO	q:true	qid:Q1156	docId:S1808-18512017000300231	origText:metástasis	url:NaN
+CANDIDATE	id:90646	inCount:0	outCount:1	links:	url:9064/6	name:Germinoma , metstasis	normalName:germinoma_,_metstasis	normalWikiTitle:germinoma_,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:88956	inCount:0	outCount:1	links:	url:8895/6	name:Miosarcoma, metstasis	normalName:miosarcoma,_metstasis	normalWikiTitle:miosarcoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:88006	inCount:0	outCount:1	links:	url:8800/6	name:Sarcoma, SAI, metstasis	normalName:sarcoma,_sai,_metstasis	normalWikiTitle:sarcoma,_sai,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:88406	inCount:0	outCount:2	links:	url:8840/6	name:Mixosarcoma, metstasis	normalName:mixosarcoma,_metstasis	normalWikiTitle:mixosarcoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:93706	inCount:0	outCount:1	links:	url:9370/6	name:Cordoma, SAI, metstasis	normalName:cordoma,_sai,_metstasis	normalWikiTitle:cordoma,_sai,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:94426	inCount:0	outCount:1	links:	url:9442/6	name:Gliosarcoma, metstasis	normalName:gliosarcoma,_metstasis	normalWikiTitle:gliosarcoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:89336	inCount:0	outCount:1	links:	url:8933/6	name:Adenosarcoma, metstasis	normalName:adenosarcoma,_metstasis	normalWikiTitle:adenosarcoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:90606	inCount:0	outCount:1	links:	url:9060/6	name:Disgerminoma, metstasis	normalName:disgerminoma,_metstasis	normalWikiTitle:disgerminoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:90616	inCount:0	outCount:1	links:	url:9061/6	name:Seminoma, SAI, metstasis	normalName:seminoma,_sai,_metstasis	normalWikiTitle:seminoma,_sai,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:90726	inCount:0	outCount:1	links:90726	url:9072/6	name:Poliembrioma , metstasis	normalName:poliembrioma_,_metstasis	normalWikiTitle:poliembrioma_,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:5	outCount:1	links:	url:C45	name:Mesotelioma	normalName:mesotelioma	normalWikiTitle:mesotelioma	predictedType:MOR_NEO
+CANDIDATE	id:96	inCount:16	outCount:1	links:	url:C00-C96	name:NEOPLASIAS MALIGNAS 	normalName:neoplasias_malignas_	normalWikiTitle:neoplasias_malignas_	predictedType:MOR_NEO
+CANDIDATE	id:2202	inCount:0	outCount:1	links:	url:C22.2	name:Hepatoblastoma	normalName:hepatoblastoma	normalWikiTitle:hepatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:47001	inCount:0	outCount:1	links:	url:D47.01	name:Mastocitosis cutánea	normalName:mastocitosis_cutánea	normalWikiTitle:mastocitosis_cutánea	predictedType:MOR_NEO
+CANDIDATE	id:3	inCount:10	outCount:1	links:	url:D03	name:Melanoma in situ	normalName:melanoma_in_situ	normalWikiTitle:melanoma_in_situ	predictedType:MOR_NEO
+CANDIDATE	id:9555	inCount:5	outCount:1	links:9555	url:9555	name:metástasis	normalName:metástasis	normalWikiTitle:metástasis	predictedType:MOR_NEO
+ENTITY	text:tumor	normalName:tumor	predictedType:MOR_NEO	q:true	qid:Q1156	docId:S1808-18512017000300231	origText:tumor	url:NaN
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:0	outCount:1	links:	url:9365/3	name:Tumor de Askin	normalName:tumor_de_askin	normalWikiTitle:tumor_de_askin	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:87110	inCount:0	outCount:1	links:	url:8711/0	name:Tumor glmico, SAI	normalName:tumor_glmico,_sai	normalWikiTitle:tumor_glmico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80901	inCount:0	outCount:1	links:	url:8090/1	name:Tumor basocelular	normalName:tumor_basocelular	normalWikiTitle:tumor_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:81623	inCount:0	outCount:1	links:	url:8162/3	name:Tumor de Klatskin	normalName:tumor_de_klatskin	normalWikiTitle:tumor_de_klatskin	predictedType:MOR_NEO
+CANDIDATE	id:89723	inCount:0	outCount:1	links:	url:8972/3	name:Blastoma pulmonar	normalName:blastoma_pulmonar	normalWikiTitle:blastoma_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:89351	inCount:0	outCount:1	links:	url:8935/1	name:Tumor estromal, SAI	normalName:tumor_estromal,_sai	normalWikiTitle:tumor_estromal,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:	url:9090/0	name:Estruma ovrico, SAI	normalName:estruma_ovrico,_sai	normalWikiTitle:estruma_ovrico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81023	inCount:0	outCount:1	links:	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:80001	inCount:0	outCount:1	links:	url:8000/1	name:Tumor, SAI	normalName:tumor,_sai	normalWikiTitle:tumor,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81030	inCount:0	outCount:1	links:	url:8103/0	name:Tumor pilar	normalName:tumor_pilar	normalWikiTitle:tumor_pilar	predictedType:MOR_NEO
+CANDIDATE	id:4704	inCount:0	outCount:1	links:	url:D47.4	name:Osteomielofibrosis	normalName:osteomielofibrosis	normalWikiTitle:osteomielofibrosis	predictedType:MOR_NEO
+CANDIDATE	id:7000	inCount:4	outCount:1	links:	url:C7A.0	name:Tumores carcinoides malignos	normalName:tumores_carcinoides_malignos	normalWikiTitle:tumores_carcinoides_malignos	predictedType:MOR_NEO
+CANDIDATE	id:9003	inCount:3	outCount:1	links:	url:C90.3	name:Plasmocitoma solitario	normalName:plasmocitoma_solitario	normalWikiTitle:plasmocitoma_solitario	predictedType:MOR_NEO
+CANDIDATE	id:2501	inCount:0	outCount:1	links:	url:D25.1	name:Leiomioma intramural de útero	normalName:leiomioma_intramural_de_útero	normalWikiTitle:leiomioma_intramural_de_útero	predictedType:MOR_NEO
+CANDIDATE	id:3000	inCount:4	outCount:1	links:	url:D3A.0	name:Tumores carcinoides benignos	normalName:tumores_carcinoides_benignos	normalWikiTitle:tumores_carcinoides_benignos	predictedType:MOR_NEO
+CANDIDATE	id:9562	inCount:18	outCount:3	links:	url:9562	name:tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:MOR_NEO
+ENTITY	text:metástasis de columna vertebral	normalName:metástasis_de_columna_vertebral	predictedType:MOR_NEO	q:true	qid:Q1156	docId:S1808-18512017000300231	origText:metástasis de columna vertebral	url:NaN
+CANDIDATE	id:90726	inCount:0	outCount:1	links:90726	url:9072/6	name:Poliembrioma , metstasis	normalName:poliembrioma_,_metstasis	normalWikiTitle:poliembrioma_,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:93626	inCount:0	outCount:1	links:93626	url:9362/6	name:Pineoblastoma, metstasis	normalName:pineoblastoma,_metstasis	normalWikiTitle:pineoblastoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:91936	inCount:0	outCount:1	links:	url:9193/6	name:Osteosarcoma peristico, metstasis	normalName:osteosarcoma_peristico,_metstasis	normalWikiTitle:osteosarcoma_peristico,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:90716	inCount:0	outCount:1	links:	url:9071/6	name:Tumor del saco vitelino, metstasis	normalName:tumor_del_saco_vitelino,_metstasis	normalWikiTitle:tumor_del_saco_vitelino,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:91806	inCount:0	outCount:1	links:	url:9180/6	name:Osteosarcoma, SAI, metstasis	normalName:osteosarcoma,_sai,_metstasis	normalWikiTitle:osteosarcoma,_sai,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:94606	inCount:0	outCount:1	links:	url:9460/6	name:Oligodendroblastoma, metstasis	normalName:oligodendroblastoma,_metstasis	normalWikiTitle:oligodendroblastoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:89606	inCount:0	outCount:1	links:89606	url:8960/6	name:Nefroblastoma, SAI, metstasis	normalName:nefroblastoma,_sai,_metstasis	normalWikiTitle:nefroblastoma,_sai,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:89716	inCount:0	outCount:1	links:89716	url:8971/6	name:Pancreatoblastoma, metstasis	normalName:pancreatoblastoma,_metstasis	normalWikiTitle:pancreatoblastoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:90406	inCount:0	outCount:1	links:	url:9040/6	name:Sarcoma sinovial , SAI, metstasis	normalName:sarcoma_sinovial_,_sai,_metstasis	normalWikiTitle:sarcoma_sinovial_,_sai,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:91926	inCount:0	outCount:1	links:	url:9192/6	name:Osteosarcoma paraseo, metstasis	normalName:osteosarcoma_paraseo,_metstasis	normalWikiTitle:osteosarcoma_paraseo,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:1606	inCount:0	outCount:1	links:	url:D16.6	name:Neoplasia benigna de columna vertebral	normalName:neoplasia_benigna_de_columna_vertebral	normalWikiTitle:neoplasia_benigna_de_columna_vertebral	predictedType:MOR_NEO
+CANDIDATE	id:4102	inCount:0	outCount:1	links:	url:C41.2	name:Neoplasia maligna de columna vertebral	normalName:neoplasia_maligna_de_columna_vertebral	normalWikiTitle:neoplasia_maligna_de_columna_vertebral	predictedType:MOR_NEO
+CANDIDATE	id:4501	inCount:0	outCount:1	links:	url:C45.1	name:Mesotelioma de peritoneo	normalName:mesotelioma_de_peritoneo	normalWikiTitle:mesotelioma_de_peritoneo	predictedType:MOR_NEO
+CANDIDATE	id:4500	inCount:0	outCount:1	links:	url:C45.0	name:Mesotelioma de pleura	normalName:mesotelioma_de_pleura	normalWikiTitle:mesotelioma_de_pleura	predictedType:MOR_NEO
+CANDIDATE	id:7801	inCount:0	outCount:1	links:	url:C78.1	name:Neoplasia maligna secundaria de mediastino	normalName:neoplasia_maligna_secundaria_de_mediastino	normalWikiTitle:neoplasia_maligna_secundaria_de_mediastino	predictedType:MOR_NEO
+CANDIDATE	id:13515	inCount:7	outCount:1	links:	url:13515	name:columna vertebral	normalName:columna_vertebral	normalWikiTitle:columna_vertebral	predictedType:MOR_NEO
+CANDIDATE	id:26949	inCount:0	outCount:2	links:26949	url:26949	name:metástasis mórbida	normalName:metástasis_mórbida	normalWikiTitle:metástasis_mórbida	predictedType:MOR_NEO
+CANDIDATE	id:7567	inCount:2	outCount:2	links:	url:7567	name:disco intervertebral	normalName:disco_intervertebral	normalWikiTitle:disco_intervertebral	predictedType:MOR_NEO
+CANDIDATE	id:33863	inCount:0	outCount:1	links:	url:33863	name:manipulación vertebral	normalName:manipulación_vertebral	normalWikiTitle:manipulación_vertebral	predictedType:MOR_NEO
+CANDIDATE	id:34254	inCount:0	outCount:2	links:	url:34254	name:disección de la arteria vertebral	normalName:disección_de_la_arteria_vertebral	normalWikiTitle:disección_de_la_arteria_vertebral	predictedType:MOR_NEO
+CANDIDATE	id:54705	inCount:0	outCount:1	links:	url:54705	name:metastasectomía	normalName:metastasectomía	normalWikiTitle:metastasectomía	predictedType:MOR_NEO
+CANDIDATE	id:13512	inCount:1	outCount:1	links:13512	url:13512	name:osteofitosis vertebral	normalName:osteofitosis_vertebral	normalWikiTitle:osteofitosis_vertebral	predictedType:MOR_NEO
+CANDIDATE	id:9555	inCount:5	outCount:1	links:9555	url:9555	name:metástasis neoplásica	normalName:metástasis_neoplásica	normalWikiTitle:metástasis_neoplásica	predictedType:MOR_NEO
+CANDIDATE	id:13506	inCount:0	outCount:1	links:	url:13506	name:fusión vertebral	normalName:fusión_vertebral	normalWikiTitle:fusión_vertebral	predictedType:MOR_NEO
+CANDIDATE	id:53067	inCount:0	outCount:2	links:53067	url:53067	name:osteoartritis vertebral	normalName:osteoartritis_vertebral	normalWikiTitle:osteoartritis_vertebral	predictedType:MOR_NEO

@@ -1,0 +1,4 @@
+T1	MORFOLOGIA_NEOPLASIA 659 676 61	neoplasia maligna
+T1	61	neoplasia maligna	['8000/3', '8000/3', '9562']
+T2	MORFOLOGIA_NEOPLASIA 1153 1162 91	neoplasia
+T2	91	neoplasia	['8000/3', '8000/3', '9562', '8960/3', '8970/3', '9500/3', '8000/0', '8000/6', '9073/1', '8971/3', '8820/0', '9362/3']

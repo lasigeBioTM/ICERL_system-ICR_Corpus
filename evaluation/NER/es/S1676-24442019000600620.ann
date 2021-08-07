@@ -1,0 +1,5 @@
+T1	MORFOLOGIA_NEOPLASIA 590 602 41	fibroadenoma
+T2	MORFOLOGIA_NEOPLASIA 639 663 42	carcinoma ductal in situ
+T3	MORFOLOGIA_NEOPLASIA 665 703 43	carcinoma invasivo de tipo no especial
+T4	MORFOLOGIA_NEOPLASIA 706 732 44	carcinoma lobular invasivo
+T5	MORFOLOGIA_NEOPLASIA 1251 1259 71	malignas

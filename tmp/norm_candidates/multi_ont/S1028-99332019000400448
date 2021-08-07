@@ -1,0 +1,25 @@
+ENTITY	text:cáncer	normalName:cáncer	predictedType:MOR_NEO	q:true	qid:Q844	docId:S1028-99332019000400448	origText:cáncer	url:NaN
+CANDIDATE	id:80003	inCount:0	outCount:1	links:	url:8000/3	name:Cncer	normalName:cncer	normalWikiTitle:cncer	predictedType:MOR_NEO
+CANDIDATE	id:40	inCount:10	outCount:1	links:	url:C4A	name:Carcinoma de células de Merkel	normalName:carcinoma_de_células_de_merkel	normalWikiTitle:carcinoma_de_células_de_merkel	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:0	outCount:1	links:	url:D45	name:Policitemia vera	normalName:policitemia_vera	normalWikiTitle:policitemia_vera	predictedType:MOR_NEO
+CANDIDATE	id:47002	inCount:0	outCount:1	links:	url:D47.Z2	name:Enfermedad de Castleman	normalName:enfermedad_de_castleman	normalWikiTitle:enfermedad_de_castleman	predictedType:MOR_NEO
+CANDIDATE	id:91	inCount:9	outCount:1	links:	url:C91	name:Leucemia linfoide	normalName:leucemia_linfoide	normalWikiTitle:leucemia_linfoide	predictedType:MOR_NEO
+CANDIDATE	id:22	inCount:9	outCount:1	links:	url:D22	name:Nevus melanocítico	normalName:nevus_melanocítico	normalWikiTitle:nevus_melanocítico	predictedType:MOR_NEO
+CANDIDATE	id:9562	inCount:18	outCount:3	links:	url:9562	name:cáncer	normalName:cáncer	normalWikiTitle:cáncer	predictedType:MOR_NEO
+ENTITY	text:carcinoma epidermoide	normalName:carcinoma_epidermoide	predictedType:MOR_NEO	q:true	qid:Q844	docId:S1028-99332019000400448	origText:carcinoma epidermoide	url:NaN
+CANDIDATE	id:80703	inCount:0	outCount:1	links:	url:8070/3	name:Carcinoma epidermoide, SAI	normalName:carcinoma_epidermoide,_sai	normalWikiTitle:carcinoma_epidermoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84303	inCount:0	outCount:1	links:	url:8430/3	name:Carcinoma mucoepidermoide	normalName:carcinoma_mucoepidermoide	normalWikiTitle:carcinoma_mucoepidermoide	predictedType:MOR_NEO
+CANDIDATE	id:80702	inCount:0	outCount:1	links:	url:8070/2	name:Carcinoma epidermoide in situ, SAI	normalName:carcinoma_epidermoide_in_situ,_sai	normalWikiTitle:carcinoma_epidermoide_in_situ,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80763	inCount:0	outCount:1	links:	url:8076/3	name:Carcinoma epidermoide microinvasor	normalName:carcinoma_epidermoide_microinvasor	normalWikiTitle:carcinoma_epidermoide_microinvasor	predictedType:MOR_NEO
+CANDIDATE	id:84306	inCount:0	outCount:1	links:	url:8430/6	name:Carcinoma mucoepidermoide, metstasis	normalName:carcinoma_mucoepidermoide,_metstasis	normalWikiTitle:carcinoma_mucoepidermoide,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:80753	inCount:0	outCount:1	links:	url:8075/3	name:Carcinoma epidermoide seudoglandular	normalName:carcinoma_epidermoide_seudoglandular	normalWikiTitle:carcinoma_epidermoide_seudoglandular	predictedType:MOR_NEO
+CANDIDATE	id:83143	inCount:0	outCount:1	links:	url:8314/3	name:Carcinoma rico en lpidos	normalName:carcinoma_rico_en_lpidos	normalWikiTitle:carcinoma_rico_en_lpidos	predictedType:MOR_NEO
+CANDIDATE	id:85763	inCount:0	outCount:1	links:	url:8576/3	name:Adenocarcinoma hepatoide	normalName:adenocarcinoma_hepatoide	normalWikiTitle:adenocarcinoma_hepatoide	predictedType:MOR_NEO
+CANDIDATE	id:80783	inCount:0	outCount:1	links:	url:8078/3	name:Carcinoma epidermoide con formacin crnea	normalName:carcinoma_epidermoide_con_formacin_crnea	normalWikiTitle:carcinoma_epidermoide_con_formacin_crnea	predictedType:MOR_NEO
+CANDIDATE	id:80223	inCount:0	outCount:1	links:	url:8022/3	name:Carcinoma pleomorfo	normalName:carcinoma_pleomorfo	normalWikiTitle:carcinoma_pleomorfo	predictedType:MOR_NEO
+CANDIDATE	id:4	inCount:10	outCount:1	links:	url:D04	name:Carcinoma in situ de piel	normalName:carcinoma_in_situ_de_piel	normalWikiTitle:carcinoma_in_situ_de_piel	predictedType:MOR_NEO
+CANDIDATE	id:102	inCount:0	outCount:1	links:	url:D01.2	name:Carcinoma in situ de recto	normalName:carcinoma_in_situ_de_recto	normalWikiTitle:carcinoma_in_situ_de_recto	predictedType:MOR_NEO
+CANDIDATE	id:700	inCount:0	outCount:1	links:	url:D07.0	name:Carcinoma in situ de endometrio	normalName:carcinoma_in_situ_de_endometrio	normalWikiTitle:carcinoma_in_situ_de_endometrio	predictedType:MOR_NEO
+CANDIDATE	id:902	inCount:3	outCount:1	links:	url:D09.2	name:Carcinoma in situ de ojo	normalName:carcinoma_in_situ_de_ojo	normalWikiTitle:carcinoma_in_situ_de_ojo	predictedType:MOR_NEO
+CANDIDATE	id:8	inCount:0	outCount:1	links:	url:D00.08	name:Carcinoma in situ de faringe	normalName:carcinoma_in_situ_de_faringe	normalWikiTitle:carcinoma_in_situ_de_faringe	predictedType:MOR_NEO
+CANDIDATE	id:2337	inCount:3	outCount:2	links:	url:2337	name:carcinoma epidermoide	normalName:carcinoma_epidermoide	normalWikiTitle:carcinoma_epidermoide	predictedType:MOR_NEO

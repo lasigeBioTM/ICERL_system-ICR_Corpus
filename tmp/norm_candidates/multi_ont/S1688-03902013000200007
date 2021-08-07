@@ -1,0 +1,40 @@
+ENTITY	text:leucemia aguda linfoblástica	normalName:leucemia_aguda_linfoblástica	predictedType:MOR_NEO	q:true	qid:Q1058	docId:S1688-03902013000200007	origText:leucemia aguda linfoblástica	url:NaN
+CANDIDATE	id:99103	inCount:0	outCount:1	links:	url:9910/3	name:Leucemia megacarioblstica aguda	normalName:leucemia_megacarioblstica_aguda	normalWikiTitle:leucemia_megacarioblstica_aguda	predictedType:MOR_NEO
+CANDIDATE	id:98323	inCount:0	outCount:1	links:	url:9832/3	name:Leucemia prolinfoctica, SAI	normalName:leucemia_prolinfoctica,_sai	normalWikiTitle:leucemia_prolinfoctica,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98203	inCount:0	outCount:1	links:	url:9820/3	name:Leucemia linfoide, SAI	normalName:leucemia_linfoide,_sai	normalWikiTitle:leucemia_linfoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98113	inCount:0	outCount:1	links:	url:9811/3	name:Leucemia/linfoma linfoblstica tipo B, SAI	normalName:leucemia/linfoma_linfoblstica_tipo_b,_sai	normalWikiTitle:leucemia/linfoma_linfoblstica_tipo_b,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98363	inCount:0	outCount:1	links:	url:9836/3	name:Leucemia linfoblstica de clulas B precursoras	normalName:leucemia_linfoblstica_de_clulas_b_precursoras	normalWikiTitle:leucemia_linfoblstica_de_clulas_b_precursoras	predictedType:MOR_NEO
+CANDIDATE	id:98373	inCount:0	outCount:1	links:	url:9837/3	name:Leucemia linfoblstica de clulas T precursoras	normalName:leucemia_linfoblstica_de_clulas_t_precursoras	normalWikiTitle:leucemia_linfoblstica_de_clulas_t_precursoras	predictedType:MOR_NEO
+CANDIDATE	id:98913	inCount:0	outCount:1	links:	url:9891/3	name:Leucemia monoctica aguda	normalName:leucemia_monoctica_aguda	normalWikiTitle:leucemia_monoctica_aguda	predictedType:MOR_NEO
+CANDIDATE	id:98333	inCount:0	outCount:1	links:	url:9833/3	name:Leucemia prolinfoctica tipo clulas B	normalName:leucemia_prolinfoctica_tipo_clulas_b	normalWikiTitle:leucemia_prolinfoctica_tipo_clulas_b	predictedType:MOR_NEO
+CANDIDATE	id:98343	inCount:0	outCount:1	links:	url:9834/3	name:Leucemia prolinfoctica tipo clulas T	normalName:leucemia_prolinfoctica_tipo_clulas_t	normalWikiTitle:leucemia_prolinfoctica_tipo_clulas_t	predictedType:MOR_NEO
+CANDIDATE	id:98353	inCount:0	outCount:1	links:	url:9835/3	name:Leucemia linfoblstica de clulas precursoras, SAI	normalName:leucemia_linfoblstica_de_clulas_precursoras,_sai	normalWikiTitle:leucemia_linfoblstica_de_clulas_precursoras,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98353	inCount:0	outCount:1	links:	url:9835/3	name:Leucemia linfoblstica, SAI	normalName:leucemia_linfoblstica,_sai	normalWikiTitle:leucemia_linfoblstica,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98353	inCount:0	outCount:1	links:	url:9835/3	name:Leucemia linfoblstica aguda, SAI	normalName:leucemia_linfoblstica_aguda,_sai	normalWikiTitle:leucemia_linfoblstica_aguda,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98203	inCount:0	outCount:1	links:	url:9820/3	name:Leucemia linfoctica, SAI	normalName:leucemia_linfoctica,_sai	normalWikiTitle:leucemia_linfoctica,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98203	inCount:0	outCount:1	links:	url:9820/3	name:Leucemia linftica, SAI	normalName:leucemia_linftica,_sai	normalWikiTitle:leucemia_linftica,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98913	inCount:0	outCount:1	links:	url:9891/3	name:Leucemia monoblstica, SAI	normalName:leucemia_monoblstica,_sai	normalWikiTitle:leucemia_monoblstica,_sai	predictedType:MOR_NEO
+CANDIDATE	id:9100	inCount:3	outCount:1	links:	url:C91.0	name:Leucemia linfoblástica aguda [LLA]	normalName:leucemia_linfoblástica_aguda_[lla]	normalWikiTitle:leucemia_linfoblástica_aguda_[lla]	predictedType:MOR_NEO
+CANDIDATE	id:9402	inCount:3	outCount:1	links:	url:C94.2	name:Leucemia megacarioblástica aguda	normalName:leucemia_megacarioblástica_aguda	normalWikiTitle:leucemia_megacarioblástica_aguda	predictedType:MOR_NEO
+CANDIDATE	id:91	inCount:9	outCount:1	links:	url:C91	name:Leucemia linfoide	normalName:leucemia_linfoide	normalWikiTitle:leucemia_linfoide	predictedType:MOR_NEO
+CANDIDATE	id:9200	inCount:3	outCount:1	links:	url:C92.0	name:Leucemia mieloblástica aguda	normalName:leucemia_mieloblástica_aguda	normalWikiTitle:leucemia_mieloblástica_aguda	predictedType:MOR_NEO
+CANDIDATE	id:91001	inCount:0	outCount:1	links:	url:C91.01	name:Leucemia linfoblástica aguda, en remisión	normalName:leucemia_linfoblástica_aguda,_en_remisión	normalWikiTitle:leucemia_linfoblástica_aguda,_en_remisión	predictedType:MOR_NEO
+CANDIDATE	id:23734	inCount:2	outCount:1	links:	url:23734	name:leucemia prolinfocítica	normalName:leucemia_prolinfocítica	normalWikiTitle:leucemia_prolinfocítica	predictedType:MOR_NEO
+CANDIDATE	id:24408	inCount:0	outCount:1	links:	url:24408	name:leucemia megacarioblástica aguda	normalName:leucemia_megacarioblástica_aguda	normalWikiTitle:leucemia_megacarioblástica_aguda	predictedType:MOR_NEO
+CANDIDATE	id:764	inCount:1	outCount:1	links:	url:764	name:anemia megaloblástica	normalName:anemia_megaloblástica	normalWikiTitle:anemia_megaloblástica	predictedType:MOR_NEO
+CANDIDATE	id:23878	inCount:5	outCount:2	links:	url:23878	name:leucemia linfoide	normalName:leucemia_linfoide	normalWikiTitle:leucemia_linfoide	predictedType:MOR_NEO
+CANDIDATE	id:769	inCount:0	outCount:2	links:	url:769	name:anemia sideroblástica	normalName:anemia_sideroblástica	normalWikiTitle:anemia_sideroblástica	predictedType:MOR_NEO
+CANDIDATE	id:28166	inCount:0	outCount:1	links:	url:28166	name:leucemia monocítica aguda	normalName:leucemia_monocítica_aguda	normalWikiTitle:leucemia_monocítica_aguda	predictedType:MOR_NEO
+CANDIDATE	id:37265	inCount:1	outCount:1	links:	url:37265	name:enfermedad trofoblástica gestacional	normalName:enfermedad_trofoblástica_gestacional	normalWikiTitle:enfermedad_trofoblástica_gestacional	predictedType:MOR_NEO
+CANDIDATE	id:23728	inCount:0	outCount:1	links:	url:23728	name:leucemia mielomonocítica aguda	normalName:leucemia_mielomonocítica_aguda	normalWikiTitle:leucemia_mielomonocítica_aguda	predictedType:MOR_NEO
+CANDIDATE	id:23738	inCount:0	outCount:2	links:	url:23738	name:leucemia prolinfocítica tipo células T	normalName:leucemia_prolinfocítica_tipo_células_t	normalWikiTitle:leucemia_prolinfocítica_tipo_células_t	predictedType:MOR_NEO
+CANDIDATE	id:52569	inCount:0	outCount:2	links:	url:52569	name:leucemia prolinfocítica tipo células B	normalName:leucemia_prolinfocítica_tipo_células_b	normalWikiTitle:leucemia_prolinfocítica_tipo_células_b	predictedType:MOR_NEO
+CANDIDATE	id:52571	inCount:2	outCount:1	links:	url:52571	name:Leucemia Linfoblástica	normalName:leucemia_linfoblástica	normalWikiTitle:leucemia_linfoblástica	predictedType:MOR_NEO
+CANDIDATE	id:52571	inCount:2	outCount:1	links:	url:52571	name:leucemia linfoblástica	normalName:leucemia_linfoblástica	normalWikiTitle:leucemia_linfoblástica	predictedType:MOR_NEO
+CANDIDATE	id:23878	inCount:5	outCount:2	links:	url:23878	name:Leucemia Linfocítica	normalName:leucemia_linfocítica	normalWikiTitle:leucemia_linfocítica	predictedType:MOR_NEO
+CANDIDATE	id:23878	inCount:5	outCount:2	links:	url:23878	name:leucemia linfocítica	normalName:leucemia_linfocítica	normalWikiTitle:leucemia_linfocítica	predictedType:MOR_NEO
+CANDIDATE	id:23710	inCount:2	outCount:1	links:	url:23710	name:Leucemia Linfocítica B	normalName:leucemia_linfocítica_b	normalWikiTitle:leucemia_linfocítica_b	predictedType:MOR_NEO
+CANDIDATE	id:23710	inCount:2	outCount:1	links:	url:23710	name:leucemia linfocítica B	normalName:leucemia_linfocítica_b	normalWikiTitle:leucemia_linfocítica_b	predictedType:MOR_NEO
+CANDIDATE	id:23736	inCount:3	outCount:1	links:	url:23736	name:Leucemia Linfocítica T	normalName:leucemia_linfocítica_t	normalWikiTitle:leucemia_linfocítica_t	predictedType:MOR_NEO
+CANDIDATE	id:23736	inCount:3	outCount:1	links:	url:23736	name:leucemia linfocítica T	normalName:leucemia_linfocítica_t	normalWikiTitle:leucemia_linfocítica_t	predictedType:MOR_NEO
+CANDIDATE	id:52572	inCount:0	outCount:1	links:	url:52572	name:leucemia linfoblástica T aguda	normalName:leucemia_linfoblástica_t_aguda	normalWikiTitle:leucemia_linfoblástica_t_aguda	predictedType:MOR_NEO

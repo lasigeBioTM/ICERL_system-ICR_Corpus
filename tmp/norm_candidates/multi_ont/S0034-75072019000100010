@@ -1,0 +1,34 @@
+ENTITY	text:tumores malignos	normalName:tumores_malignos	predictedType:MOR_NEO	q:true	qid:Q152	docId:S0034-75072019000100010	origText:tumores malignos	url:NaN
+CANDIDATE	id:87422	inCount:0	outCount:1	links:	url:8742/2	name:Lntigo maligno	normalName:lntigo_maligno	normalWikiTitle:lntigo_maligno	predictedType:MOR_NEO
+CANDIDATE	id:90203	inCount:0	outCount:1	links:	url:9020/3	name:Tumor filodes maligno	normalName:tumor_filodes_maligno	normalWikiTitle:tumor_filodes_maligno	predictedType:MOR_NEO
+CANDIDATE	id:93103	inCount:0	outCount:1	links:	url:9310/3	name:Ameloblastoma maligno	normalName:ameloblastoma_maligno	normalWikiTitle:ameloblastoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:80113	inCount:0	outCount:1	links:	url:8011/3	name:Epitelioma maligno	normalName:epitelioma_maligno	normalWikiTitle:epitelioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:81513	inCount:0	outCount:1	links:	url:8151/3	name:Insulinoma maligno	normalName:insulinoma_maligno	normalWikiTitle:insulinoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:81533	inCount:0	outCount:1	links:	url:8153/3	name:Gastrinoma maligno	normalName:gastrinoma_maligno	normalWikiTitle:gastrinoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:87803	inCount:0	outCount:1	links:	url:8780/3	name:Nevus azul maligno	normalName:nevus_azul_maligno	normalWikiTitle:nevus_azul_maligno	predictedType:MOR_NEO
+CANDIDATE	id:90903	inCount:0	outCount:1	links:	url:9090/3	name:Estruma ovrico maligno	normalName:estruma_ovrico_maligno	normalWikiTitle:estruma_ovrico_maligno	predictedType:MOR_NEO
+CANDIDATE	id:92303	inCount:0	outCount:1	links:	url:9230/3	name:Condroblastoma maligno	normalName:condroblastoma_maligno	normalWikiTitle:condroblastoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:93803	inCount:0	outCount:1	links:	url:9380/3	name:Glioma maligno	normalName:glioma_maligno	normalWikiTitle:glioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:5102	inCount:0	outCount:1	links:	url:C51.2	name:Neoplasia maligna de clítoris	normalName:neoplasia_maligna_de_clítoris	normalWikiTitle:neoplasia_maligna_de_clítoris	predictedType:MOR_NEO
+CANDIDATE	id:6903	inCount:3	outCount:1	links:	url:C69.3	name:Neoplasia maligna de coroides	normalName:neoplasia_maligna_de_coroides	normalWikiTitle:neoplasia_maligna_de_coroides	predictedType:MOR_NEO
+CANDIDATE	id:3800	inCount:0	outCount:1	links:	url:C38.0	name:Neoplasia maligna de corazón	normalName:neoplasia_maligna_de_corazón	normalWikiTitle:neoplasia_maligna_de_corazón	predictedType:MOR_NEO
+CANDIDATE	id:16	inCount:9	outCount:1	links:	url:C16	name:Neoplasia maligna de estómago	normalName:neoplasia_maligna_de_estómago	normalWikiTitle:neoplasia_maligna_de_estómago	predictedType:MOR_NEO
+CANDIDATE	id:1700	inCount:0	outCount:1	links:	url:C17.0	name:Neoplasia maligna de duodeno	normalName:neoplasia_maligna_de_duodeno	normalWikiTitle:neoplasia_maligna_de_duodeno	predictedType:MOR_NEO
+CANDIDATE	id:9562	inCount:18	outCount:3	links:	url:9562	name:tumores malignos	normalName:tumores_malignos	normalWikiTitle:tumores_malignos	predictedType:MOR_NEO
+ENTITY	text:carcinoma de células escamosas	normalName:carcinoma_de_células_escamosas	predictedType:MOR_NEO	q:true	qid:Q152	docId:S0034-75072019000100010	origText:carcinoma de células escamosas	url:NaN
+CANDIDATE	id:80523	inCount:0	outCount:1	links:	url:8052/3	name:Carcinoma papilar de clulas escamosas	normalName:carcinoma_papilar_de_clulas_escamosas	normalWikiTitle:carcinoma_papilar_de_clulas_escamosas	predictedType:MOR_NEO
+CANDIDATE	id:80833	inCount:0	outCount:1	links:	url:8083/3	name:Carcinoma basaloide de clulas escamosas	normalName:carcinoma_basaloide_de_clulas_escamosas	normalWikiTitle:carcinoma_basaloide_de_clulas_escamosas	predictedType:MOR_NEO
+CANDIDATE	id:80943	inCount:0	outCount:1	links:	url:8094/3	name:Carcinoma de clulas basales y escamosas	normalName:carcinoma_de_clulas_basales_y_escamosas	normalWikiTitle:carcinoma_de_clulas_basales_y_escamosas	predictedType:MOR_NEO
+CANDIDATE	id:80153	inCount:0	outCount:1	links:	url:8015/3	name:Carcinoma de clulas vidriosas	normalName:carcinoma_de_clulas_vidriosas	normalWikiTitle:carcinoma_de_clulas_vidriosas	predictedType:MOR_NEO
+CANDIDATE	id:80706	inCount:0	outCount:1	links:	url:8070/6	name:Carcinoma metastsico de clulas escamosas, SAI	normalName:carcinoma_metastsico_de_clulas_escamosas,_sai	normalWikiTitle:carcinoma_metastsico_de_clulas_escamosas,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80156	inCount:0	outCount:1	links:	url:8015/6	name:Carcinoma de clulas vidriosas, metstasis	normalName:carcinoma_de_clulas_vidriosas,_metstasis	normalWikiTitle:carcinoma_de_clulas_vidriosas,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:80106	inCount:0	outCount:1	links:	url:8010/6	name:Carcinoma metastsico, SAI	normalName:carcinoma_metastsico,_sai	normalWikiTitle:carcinoma_metastsico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80463	inCount:0	outCount:1	links:	url:8046/3	name:Carcinoma, no de clulas pequeas	normalName:carcinoma,_no_de_clulas_pequeas	normalWikiTitle:carcinoma,_no_de_clulas_pequeas	predictedType:MOR_NEO
+CANDIDATE	id:82143	inCount:0	outCount:1	links:	url:8214/3	name:Carcinoma de clulas parietales	normalName:carcinoma_de_clulas_parietales	normalWikiTitle:carcinoma_de_clulas_parietales	predictedType:MOR_NEO
+CANDIDATE	id:83203	inCount:0	outCount:1	links:	url:8320/3	name:Carcinoma de clulas granulares	normalName:carcinoma_de_clulas_granulares	normalWikiTitle:carcinoma_de_clulas_granulares	predictedType:MOR_NEO
+CANDIDATE	id:440520	inCount:0	outCount:1	links:	url:C44.520	name:Carcinoma de células escamosas de piel anal	normalName:carcinoma_de_células_escamosas_de_piel_anal	normalWikiTitle:carcinoma_de_células_escamosas_de_piel_anal	predictedType:MOR_NEO
+CANDIDATE	id:2200	inCount:0	outCount:1	links:	url:C22.0	name:Carcinoma de células hepáticas	normalName:carcinoma_de_células_hepáticas	normalWikiTitle:carcinoma_de_células_hepáticas	predictedType:MOR_NEO
+CANDIDATE	id:440521	inCount:0	outCount:1	links:	url:C44.521	name:Carcinoma de células escamosas de piel de mama	normalName:carcinoma_de_células_escamosas_de_piel_de_mama	normalWikiTitle:carcinoma_de_células_escamosas_de_piel_de_mama	predictedType:MOR_NEO
+CANDIDATE	id:44002	inCount:0	outCount:1	links:	url:C44.02	name:Carcinoma de células escamosas de piel de labio	normalName:carcinoma_de_células_escamosas_de_piel_de_labio	normalWikiTitle:carcinoma_de_células_escamosas_de_piel_de_labio	predictedType:MOR_NEO
+CANDIDATE	id:440321	inCount:0	outCount:1	links:	url:C44.321	name:Carcinoma de células escamosas de piel de nariz	normalName:carcinoma_de_células_escamosas_de_piel_de_nariz	normalWikiTitle:carcinoma_de_células_escamosas_de_piel_de_nariz	predictedType:MOR_NEO
+CANDIDATE	id:2337	inCount:3	outCount:2	links:	url:2337	name:carcinoma de células escamosas	normalName:carcinoma_de_células_escamosas	normalWikiTitle:carcinoma_de_células_escamosas	predictedType:MOR_NEO

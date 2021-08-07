@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 2 13 11	mesotelioma
+T1	11	mesotelioma	['9562/0', '9562/0', '9501/3', '9050/3', '8580/1', '9050/0', '9055/1', '8830', '8982/0', '8255/1', '8870/0', '8600/0']
+T2	MORFOLOGIA_NEOPLASIA 104 121 21	neoplasia maligna
+T2	21	neoplasia maligna	['8000/3', '8000/3', '9562']
+T3	MORFOLOGIA_NEOPLASIA 916 927 51	mesotelioma
+T3	51	mesotelioma	['9562/0', '9562/0', '9501/3', '9050/3', '8580/1', '9050/0', '9055/1', '8830', '8982/0', '8255/1', '8870/0', '8600/0']
+T4	MORFOLOGIA_NEOPLASIA 942 959 52	neoplasia maligna
+T4	52	neoplasia maligna	['8000/3', '8000/3', '9562']

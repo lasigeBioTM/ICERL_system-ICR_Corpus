@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 529 559 41	carcinoma de células escamosas
+T1	41	carcinoma de células escamosas	['8031/3', '8084/3', '8323/3', '8120/3', '8312/3', '8015/3', '8214/3', '2337', '8034/3', '8074/3', '8320/3', '8084/3']
+T2	MORFOLOGIA_NEOPLASIA 981 995 71	adenocarcinoma
+T2	71	adenocarcinoma	['8211/3', '8262/3', '8440/3', '8160/3', '8140/3', '8933/3', '8333/3', '8410/3', '8401/3', '8413/3', '238', '8262/3']
+T3	MORFOLOGIA_NEOPLASIA 1390 1404 81	adenocarcinoma
+T3	81	adenocarcinoma	['8211/3', '8262/3', '8440/3', '8160/3', '8140/3', '8933/3', '8333/3', '8410/3', '8401/3', '8413/3', '238', '8262/3']
+T4	MORFOLOGIA_NEOPLASIA 1466 1475 82	neoplasia
+T4	82	neoplasia	['8960/3', '8970/3', '9500/3', '8000/0', '8000/3', '8000/6', '9073/1', '8820/0', '9362/3', '8971/3', '9562']
+T5	MORFOLOGIA_NEOPLASIA 1543 1573 83	carcinoma de células escamosas
+T5	83	carcinoma de células escamosas	['8031/3', '8084/3', '8323/3', '8120/3', '8312/3', '8015/3', '8214/3', '2337', '8034/3', '8074/3', '8320/3', '8084/3']

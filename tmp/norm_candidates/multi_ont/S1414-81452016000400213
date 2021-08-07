@@ -1,0 +1,27 @@
+ENTITY	text:neoplásicas de bajo grado	normalName:neoplásicas_de_bajo_grado	predictedType:MOR_NEO	q:true	qid:Q931	docId:S1414-81452016000400213	origText:neoplásicas de bajo grado	url:NaN
+CANDIDATE	id:90623	inCount:0	outCount:1	links:	url:9062/3	name:Seminoma anaplsico	normalName:seminoma_anaplsico	normalWikiTitle:seminoma_anaplsico	predictedType:MOR_NEO
+CANDIDATE	id:88230	inCount:0	outCount:1	links:	url:8823/0	name:Fibroma desmoplsico	normalName:fibroma_desmoplsico	normalWikiTitle:fibroma_desmoplsico	predictedType:MOR_NEO
+CANDIDATE	id:87453	inCount:0	outCount:1	links:	url:8745/3	name:Melanoma desmoplsico, maligno	normalName:melanoma_desmoplsico,_maligno	normalWikiTitle:melanoma_desmoplsico,_maligno	predictedType:MOR_NEO
+CANDIDATE	id:92433	inCount:0	outCount:1	links:	url:9243/3	name:Condrosarcoma desdiferenciado	normalName:condrosarcoma_desdiferenciado	normalWikiTitle:condrosarcoma_desdiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:94713	inCount:0	outCount:1	links:	url:9471/3	name:Meduloblastoma nodular desmoplsico	normalName:meduloblastoma_nodular_desmoplsico	normalWikiTitle:meduloblastoma_nodular_desmoplsico	predictedType:MOR_NEO
+CANDIDATE	id:95233	inCount:0	outCount:1	links:	url:9523/3	name:Neuroepitelioma olfatorio	normalName:neuroepitelioma_olfatorio	normalWikiTitle:neuroepitelioma_olfatorio	predictedType:MOR_NEO
+CANDIDATE	id:91813	inCount:0	outCount:1	links:	url:9181/3	name:Osteosarcoma condroblstico	normalName:osteosarcoma_condroblstico	normalWikiTitle:osteosarcoma_condroblstico	predictedType:MOR_NEO
+CANDIDATE	id:93713	inCount:0	outCount:1	links:	url:9371/3	name:Cordoma condroide	normalName:cordoma_condroide	normalWikiTitle:cordoma_condroide	predictedType:MOR_NEO
+CANDIDATE	id:94013	inCount:0	outCount:1	links:	url:9401/3	name:Astrocitoma anaplsico	normalName:astrocitoma_anaplsico	normalWikiTitle:astrocitoma_anaplsico	predictedType:MOR_NEO
+CANDIDATE	id:80802	inCount:0	outCount:1	links:	url:8080/2	name:Eritroplasia de Queyrat	normalName:eritroplasia_de_queyrat	normalWikiTitle:eritroplasia_de_queyrat	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:	url:8000/6	name:Neoplasia secundaria	normalName:neoplasia_secundaria	normalWikiTitle:neoplasia_secundaria	predictedType:MOR_NEO
+CANDIDATE	id:2203	inCount:0	outCount:1	links:	url:C22.3	name:Angiosarcoma de hígado	normalName:angiosarcoma_de_hígado	normalWikiTitle:angiosarcoma_de_hígado	predictedType:MOR_NEO
+CANDIDATE	id:67	inCount:10	outCount:1	links:	url:C67	name:Neoplasia maligna de vejiga	normalName:neoplasia_maligna_de_vejiga	normalWikiTitle:neoplasia_maligna_de_vejiga	predictedType:MOR_NEO
+CANDIDATE	id:3003	inCount:0	outCount:1	links:	url:D30.3	name:Neoplasia benigna de vejiga	normalName:neoplasia_benigna_de_vejiga	normalWikiTitle:neoplasia_benigna_de_vejiga	predictedType:MOR_NEO
+CANDIDATE	id:46	inCount:9	outCount:1	links:	url:D46	name:Síndromes mielodisplásicos	normalName:síndromes_mielodisplásicos	normalWikiTitle:síndromes_mielodisplásicos	predictedType:MOR_NEO
+CANDIDATE	id:640068	inCount:5	outCount:1	links:	url:C64-C68	name:NEOPLASIAS MALIGNAS DE TRACTO URINARIO 	normalName:neoplasias_malignas_de_tracto_urinario_	normalWikiTitle:neoplasias_malignas_de_tracto_urinario_	predictedType:MOR_NEO
+CANDIDATE	id:9559	inCount:0	outCount:1	links:	url:9559	name:siembra neoplásica	normalName:siembra_neoplásica	normalWikiTitle:siembra_neoplásica	predictedType:MOR_NEO
+CANDIDATE	id:22589	inCount:0	outCount:3	links:	url:22589	name:neoplasias orbitarias	normalName:neoplasias_orbitarias	normalWikiTitle:neoplasias_orbitarias	predictedType:MOR_NEO
+CANDIDATE	id:10229	inCount:9	outCount:3	links:	url:10229	name:neoplasias ováricas	normalName:neoplasias_ováricas	normalWikiTitle:neoplasias_ováricas	predictedType:MOR_NEO
+CANDIDATE	id:22433	inCount:0	outCount:2	links:	url:22433	name:neoplasias del oído	normalName:neoplasias_del_oído	normalWikiTitle:neoplasias_del_oído	predictedType:MOR_NEO
+CANDIDATE	id:1884	inCount:4	outCount:2	links:	url:1884	name:neoplasias óseas	normalName:neoplasias_óseas	normalWikiTitle:neoplasias_óseas	predictedType:MOR_NEO
+CANDIDATE	id:14286	inCount:4	outCount:1	links:	url:14286	name:neoplasias torácicas	normalName:neoplasias_torácicas	normalWikiTitle:neoplasias_torácicas	predictedType:MOR_NEO
+CANDIDATE	id:14995	inCount:2	outCount:2	links:	url:14995	name:neoplasias uterinas	normalName:neoplasias_uterinas	normalWikiTitle:neoplasias_uterinas	predictedType:MOR_NEO
+CANDIDATE	id:1774	inCount:0	outCount:2	links:	url:1774	name:neoplasias de la vejiga	normalName:neoplasias_de_la_vejiga	normalWikiTitle:neoplasias_de_la_vejiga	predictedType:MOR_NEO
+CANDIDATE	id:11426	inCount:2	outCount:2	links:	url:11426	name:neoplasias pleurales	normalName:neoplasias_pleurales	normalWikiTitle:neoplasias_pleurales	predictedType:MOR_NEO
+CANDIDATE	id:11688	inCount:29	outCount:2	links:	url:11688	name:complicaciones del embarazo	normalName:complicaciones_del_embarazo	normalWikiTitle:complicaciones_del_embarazo	predictedType:MOR_NEO

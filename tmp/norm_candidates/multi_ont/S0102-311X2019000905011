@@ -1,0 +1,25 @@
+ENTITY	text:Cáncer	normalName:cáncer	predictedType:MOR_NEO	q:true	qid:Q357	docId:S0102-311X2019000905011	origText:Cáncer	url:NaN
+CANDIDATE	id:80003	inCount:0	outCount:1	links:	url:8000/3	name:Cncer	normalName:cncer	normalWikiTitle:cncer	predictedType:MOR_NEO
+CANDIDATE	id:40	inCount:10	outCount:1	links:	url:C4A	name:Carcinoma de células de Merkel	normalName:carcinoma_de_células_de_merkel	normalWikiTitle:carcinoma_de_células_de_merkel	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:0	outCount:1	links:	url:D45	name:Policitemia vera	normalName:policitemia_vera	normalWikiTitle:policitemia_vera	predictedType:MOR_NEO
+CANDIDATE	id:47002	inCount:0	outCount:1	links:	url:D47.Z2	name:Enfermedad de Castleman	normalName:enfermedad_de_castleman	normalWikiTitle:enfermedad_de_castleman	predictedType:MOR_NEO
+CANDIDATE	id:91	inCount:9	outCount:1	links:91	url:C91	name:Leucemia linfoide	normalName:leucemia_linfoide	normalWikiTitle:leucemia_linfoide	predictedType:MOR_NEO
+CANDIDATE	id:22	inCount:9	outCount:1	links:	url:D22	name:Nevus melanocítico	normalName:nevus_melanocítico	normalWikiTitle:nevus_melanocítico	predictedType:MOR_NEO
+CANDIDATE	id:9562	inCount:18	outCount:3	links:95620	url:9562	name:cáncer	normalName:cáncer	normalWikiTitle:cáncer	predictedType:MOR_NEO
+ENTITY	text:leucemias	normalName:leucemias	predictedType:MOR_NEO	q:true	qid:Q357	docId:S0102-311X2019000905011	origText:leucemias	url:NaN
+CANDIDATE	id:98003	inCount:0	outCount:1	links:	url:9800/3	name:Leucemia, SAI	normalName:leucemia,_sai	normalWikiTitle:leucemia,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98013	inCount:0	outCount:1	links:	url:9801/3	name:Leucemia aguda, SAI	normalName:leucemia_aguda,_sai	normalWikiTitle:leucemia_aguda,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98203	inCount:0	outCount:1	links:	url:9820/3	name:Leucemia linfoide, SAI	normalName:leucemia_linfoide,_sai	normalWikiTitle:leucemia_linfoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98603	inCount:0	outCount:1	links:	url:9860/3	name:Leucemia mieloide, SAI	normalName:leucemia_mieloide,_sai	normalWikiTitle:leucemia_mieloide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:86100	inCount:0	outCount:1	links:	url:8610/0	name:Luteoma, SAI	normalName:luteoma,_sai	normalWikiTitle:luteoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95620	inCount:0	outCount:1	links:9562	url:9562/0	name:Neurotecoma	normalName:neurotecoma	normalWikiTitle:neurotecoma	predictedType:MOR_NEO
+CANDIDATE	id:97423	inCount:0	outCount:1	links:	url:9742/3	name:Leucemia de mastocitos	normalName:leucemia_de_mastocitos	normalWikiTitle:leucemia_de_mastocitos	predictedType:MOR_NEO
+CANDIDATE	id:98703	inCount:0	outCount:1	links:	url:9870/3	name:Leucemia basfila aguda	normalName:leucemia_basfila_aguda	normalWikiTitle:leucemia_basfila_aguda	predictedType:MOR_NEO
+CANDIDATE	id:90723	inCount:0	outCount:1	links:	url:9072/3	name:Poliembrioma	normalName:poliembrioma	normalWikiTitle:poliembrioma	predictedType:MOR_NEO
+CANDIDATE	id:98913	inCount:0	outCount:1	links:	url:9891/3	name:Leucemia monoctica aguda	normalName:leucemia_monoctica_aguda	normalWikiTitle:leucemia_monoctica_aguda	predictedType:MOR_NEO
+CANDIDATE	id:91	inCount:9	outCount:1	links:91	url:C91	name:Leucemia linfoide	normalName:leucemia_linfoide	normalWikiTitle:leucemia_linfoide	predictedType:MOR_NEO
+CANDIDATE	id:92	inCount:10	outCount:1	links:	url:C92	name:Leucemia mieloide	normalName:leucemia_mieloide	normalWikiTitle:leucemia_mieloide	predictedType:MOR_NEO
+CANDIDATE	id:93	inCount:5	outCount:1	links:	url:C93	name:Leucemia monocítica	normalName:leucemia_monocítica	normalWikiTitle:leucemia_monocítica	predictedType:MOR_NEO
+CANDIDATE	id:9403	inCount:3	outCount:1	links:	url:C94.3	name:Leucemia de mastocitos	normalName:leucemia_de_mastocitos	normalWikiTitle:leucemia_de_mastocitos	predictedType:MOR_NEO
+CANDIDATE	id:9400	inCount:3	outCount:1	links:	url:C94.0	name:Leucemia eritroide aguda	normalName:leucemia_eritroide_aguda	normalWikiTitle:leucemia_eritroide_aguda	predictedType:MOR_NEO
+CANDIDATE	id:23872	inCount:9	outCount:3	links:	url:23872	name:leucemias	normalName:leucemias	normalWikiTitle:leucemias	predictedType:MOR_NEO

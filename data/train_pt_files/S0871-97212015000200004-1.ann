@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 142 157 11	adenocarcinomas
+T1	11	adenocarcinomas	['8262/3', '8211/3', '8440/3', '8160/3', '8140/3', '8401/3', '8413/3', '8933/3', '8333/3', '8410/3', '238', '8211/3']
+T2	MORFOLOGIA_NEOPLASIA 201 211 12	neoplasias
+T2	12	neoplasias	['8960/3', '8970/3', '9500/3', '8000/0', '8000/3', '8000/6', '9073/1', '9362/3', '9562', '8971/3', '8820/0']
+T3	MORFOLOGIA_NEOPLASIA 841 855 41	ganglioneuroma
+T3	41	ganglioneuroma	['9490/0', '5870', '5870']

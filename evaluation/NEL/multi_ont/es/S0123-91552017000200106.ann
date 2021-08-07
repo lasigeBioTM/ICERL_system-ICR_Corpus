@@ -1,0 +1,36 @@
+T1	11	cáncer	['9562', '9562', '8000/3']
+#1	AnnotatorNotes T1
+T2	12	cáncer	['9562', '9562', '8000/3']
+#2	AnnotatorNotes T2
+T3	21	cáncer	['9562', '9562', '8000/3']
+#3	AnnotatorNotes T3
+T4	22	cáncer	['9562', '9562', '8000/3']
+#4	AnnotatorNotes T4
+T5	41	cáncer	['9562', '9562', '8000/3']
+#5	AnnotatorNotes T5
+T6	42	cáncer	['9562', '9562', '8000/3']
+#6	AnnotatorNotes T6
+T7	43	cáncer	['9562', '9562', '8000/3']
+#7	AnnotatorNotes T7
+T8	51	cáncer	['9562', '9562', '8000/3']
+#8	AnnotatorNotes T8
+T9	52	cáncer	['9562', '9562', '8000/3']
+#9	AnnotatorNotes T9
+T10	53	cáncer	['9562', '9562', '8000/3']
+#10	AnnotatorNotes T10
+T11	54	cáncer	['9562', '9562', '8000/3']
+#11	AnnotatorNotes T11
+T12	55	cáncer	['9562', '9562', '8000/3']
+#12	AnnotatorNotes T12
+T13	61	cáncer	['9562', '9562', '8000/3']
+#13	AnnotatorNotes T13
+T14	62	cáncer	['9562', '9562', '8000/3']
+#14	AnnotatorNotes T14
+T15	63	cáncer	['9562', '9562', '8000/3']
+#15	AnnotatorNotes T15
+T16	64	cáncer	['9562', '9562', '8000/3']
+#16	AnnotatorNotes T16
+T17	71	cáncer	['9562', '9562', '8000/3']
+#17	AnnotatorNotes T17
+T18	101	maligna	['9562', '9562', '8000/3', '9050/3', '407', '6970', '6398', '8475', '8155/3', '8600/3', '9110/3', '9560/3', '9380/3', '692', '15037', '9530/3', '8812', '8580/3', '412', '455', '29792', '8742/2']
+#18	AnnotatorNotes T18

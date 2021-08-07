@@ -1,0 +1,30 @@
+ENTITY	text:cáncer con metástasis	normalName:cáncer_con_metástasis	predictedType:MOR_NEO	q:true	qid:Q381	docId:S0103-21002009000100015	origText:cáncer con metástasis	url:NaN
+CANDIDATE	id:81606	inCount:0	outCount:1	links:	url:8160/6	name:Colangiocarcinoma, metstasis	normalName:colangiocarcinoma,_metstasis	normalWikiTitle:colangiocarcinoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:89336	inCount:0	outCount:1	links:	url:8933/6	name:Adenosarcoma, metstasis	normalName:adenosarcoma,_metstasis	normalWikiTitle:adenosarcoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:90646	inCount:0	outCount:1	links:	url:9064/6	name:Germinoma , metstasis	normalName:germinoma_,_metstasis	normalWikiTitle:germinoma_,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:83376	inCount:0	outCount:1	links:	url:8337/6	name:Carcinoma insular, metstasis	normalName:carcinoma_insular,_metstasis	normalWikiTitle:carcinoma_insular,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:92206	inCount:0	outCount:1	links:	url:9220/6	name:Condrosarcoma, SAI, metstasis	normalName:condrosarcoma,_sai,_metstasis	normalWikiTitle:condrosarcoma,_sai,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:93716	inCount:0	outCount:1	links:	url:9371/6	name:Cordoma condroide, metstasis	normalName:cordoma_condroide,_metstasis	normalWikiTitle:cordoma_condroide,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:81246	inCount:0	outCount:1	links:	url:8124/6	name:Carcinoma cloacognico, metstasis	normalName:carcinoma_cloacognico,_metstasis	normalWikiTitle:carcinoma_cloacognico,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:82706	inCount:0	outCount:1	links:	url:8270/6	name:Carcinoma cromfobo, metstasis	normalName:carcinoma_cromfobo,_metstasis	normalWikiTitle:carcinoma_cromfobo,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:82806	inCount:0	outCount:1	links:	url:8280/6	name:Carcinoma acidfilo, metstasis	normalName:carcinoma_acidfilo,_metstasis	normalWikiTitle:carcinoma_acidfilo,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:84136	inCount:0	outCount:1	links:	url:8413/6	name:Adenocarcinoma ecrino, metstasis	normalName:adenocarcinoma_ecrino,_metstasis	normalWikiTitle:adenocarcinoma_ecrino,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:2	inCount:0	outCount:1	links:	url:D00.2	name:Carcinoma in situ de estómago	normalName:carcinoma_in_situ_de_estómago	normalWikiTitle:carcinoma_in_situ_de_estómago	predictedType:MOR_NEO
+CANDIDATE	id:705	inCount:0	outCount:1	links:	url:D07.5	name:Carcinoma in situ de próstata	normalName:carcinoma_in_situ_de_próstata	normalWikiTitle:carcinoma_in_situ_de_próstata	predictedType:MOR_NEO
+CANDIDATE	id:47001	inCount:0	outCount:1	links:	url:D47.01	name:Mastocitosis cutánea	normalName:mastocitosis_cutánea	normalWikiTitle:mastocitosis_cutánea	predictedType:MOR_NEO
+CANDIDATE	id:1	inCount:0	outCount:1	links:	url:D00.1	name:Carcinoma in situ de esófago	normalName:carcinoma_in_situ_de_esófago	normalWikiTitle:carcinoma_in_situ_de_esófago	predictedType:MOR_NEO
+CANDIDATE	id:702	inCount:0	outCount:1	links:	url:D07.2	name:Carcinoma in situ de vagina	normalName:carcinoma_in_situ_de_vagina	normalWikiTitle:carcinoma_in_situ_de_vagina	predictedType:MOR_NEO
+CANDIDATE	id:2829	inCount:3	outCount:1	links:	url:2829	name:colestasis	normalName:colestasis	normalWikiTitle:colestasis	predictedType:MOR_NEO
+CANDIDATE	id:6862	inCount:4	outCount:1	links:	url:6862	name:homeostasis	normalName:homeostasis	normalWikiTitle:homeostasis	predictedType:MOR_NEO
+CANDIDATE	id:32700	inCount:0	outCount:1	links:	url:32700	name:leucostasis	normalName:leucostasis	normalWikiTitle:leucostasis	predictedType:MOR_NEO
+CANDIDATE	id:53316	inCount:1	outCount:3	links:	url:53316	name:neurogénesis	normalName:neurogénesis	normalWikiTitle:neurogénesis	predictedType:MOR_NEO
+CANDIDATE	id:3071	inCount:0	outCount:1	links:	url:3071	name:cocarcinogénesis	normalName:cocarcinogénesis	normalWikiTitle:cocarcinogénesis	predictedType:MOR_NEO
+CANDIDATE	id:8384	inCount:0	outCount:1	links:	url:8384	name:metástasis linfática	normalName:metástasis_linfática	normalWikiTitle:metástasis_linfática	predictedType:MOR_NEO
+CANDIDATE	id:10039	inCount:1	outCount:3	links:	url:10039	name:oncocercosis	normalName:oncocercosis	normalWikiTitle:oncocercosis	predictedType:MOR_NEO
+CANDIDATE	id:33912	inCount:0	outCount:1	links:	url:33912	name:condrogénesis	normalName:condrogénesis	normalWikiTitle:condrogénesis	predictedType:MOR_NEO
+CANDIDATE	id:57261	inCount:0	outCount:2	links:	url:57261	name:proteostasis	normalName:proteostasis	normalWikiTitle:proteostasis	predictedType:MOR_NEO
+CANDIDATE	id:3414	inCount:1	outCount:2	links:	url:3414	name:craneosinostosis	normalName:craneosinostosis	normalWikiTitle:craneosinostosis	predictedType:MOR_NEO
+CANDIDATE	id:9555	inCount:5	outCount:1	links:	url:9555	name:metástasis cancerosa	normalName:metástasis_cancerosa	normalWikiTitle:metástasis_cancerosa	predictedType:MOR_NEO
+CANDIDATE	id:55206	inCount:2	outCount:1	links:	url:55206	name:cancerogénesis	normalName:cancerogénesis	normalWikiTitle:cancerogénesis	predictedType:MOR_NEO
+CANDIDATE	id:9555	inCount:5	outCount:1	links:	url:9555	name:Metástasis	normalName:metástasis	normalWikiTitle:metástasis	predictedType:MOR_NEO
+CANDIDATE	id:9555	inCount:5	outCount:1	links:	url:9555	name:metástasis	normalName:metástasis	normalWikiTitle:metástasis	predictedType:MOR_NEO

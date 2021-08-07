@@ -1,0 +1,38 @@
+ENTITY	text:câncer de mama	normalName:câncer_de_mama	predictedType:MOR_NEO	q:true	qid:Q381	docId:S0102-695X2007000400004	origText:câncer de mama	url:NaN
+CANDIDATE	id:91410	inCount:0	outCount:1	links:	url:9141/0	name:Angioceratoma	normalName:angioceratoma	normalWikiTitle:angioceratoma	predictedType:MOR_NEO
+CANDIDATE	id:84030	inCount:0	outCount:1	links:	url:8403/0	name:Espiradenoma crino	normalName:espiradenoma_crino	normalWikiTitle:espiradenoma_crino	predictedType:MOR_NEO
+CANDIDATE	id:84033	inCount:0	outCount:1	links:	url:8403/3	name:Espiradenoma crino maligno	normalName:espiradenoma_crino_maligno	normalWikiTitle:espiradenoma_crino_maligno	predictedType:MOR_NEO
+CANDIDATE	id:88620	inCount:0	outCount:1	links:	url:8862/0	name:Lipoma condride	normalName:lipoma_condride	normalWikiTitle:lipoma_condride	predictedType:MOR_NEO
+CANDIDATE	id:95600	inCount:0	outCount:1	links:	url:9560/0	name:Neurilemoma, SOE	normalName:neurilemoma,_soe	normalWikiTitle:neurilemoma,_soe	predictedType:MOR_NEO
+CANDIDATE	id:95620	inCount:0	outCount:1	links:	url:9562/0	name:Neurotecoma	normalName:neurotecoma	normalWikiTitle:neurotecoma	predictedType:MOR_NEO
+CANDIDATE	id:91210	inCount:0	outCount:1	links:	url:9121/0	name:Hemangioma cavernoso	normalName:hemangioma_cavernoso	normalWikiTitle:hemangioma_cavernoso	predictedType:MOR_NEO
+CANDIDATE	id:88920	inCount:0	outCount:1	links:	url:8892/0	name:Leiomioma celular	normalName:leiomioma_celular	normalWikiTitle:leiomioma_celular	predictedType:MOR_NEO
+CANDIDATE	id:89713	inCount:0	outCount:1	links:	url:8971/3	name:Pancreatoblastoma	normalName:pancreatoblastoma	normalWikiTitle:pancreatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:93713	inCount:0	outCount:1	links:	url:9371/3	name:Cordoma condroide	normalName:cordoma_condroide	normalWikiTitle:cordoma_condroide	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:0	outCount:1	links:	url:8000/3	name:Cncer	normalName:cncer	normalWikiTitle:cncer	predictedType:MOR_NEO
+CANDIDATE	id:99503	inCount:0	outCount:1	links:	url:9950/3	name:Eritremia crnica	normalName:eritremia_crnica	normalWikiTitle:eritremia_crnica	predictedType:MOR_NEO
+CANDIDATE	id:1800	inCount:5	outCount:1	links:	url:D18.0	name:Hemangioma	normalName:hemangioma	normalWikiTitle:hemangioma	predictedType:MOR_NEO
+CANDIDATE	id:9301	inCount:3	outCount:1	links:	url:C93.1	name:Leucemia mielomonocítica crónica	normalName:leucemia_mielomonocítica_crónica	normalWikiTitle:leucemia_mielomonocítica_crónica	predictedType:MOR_NEO
+CANDIDATE	id:5	inCount:4	outCount:1	links:	url:D05	name:Carcinoma in situ de mama	normalName:carcinoma_in_situ_de_mama	normalWikiTitle:carcinoma_in_situ_de_mama	predictedType:MOR_NEO
+CANDIDATE	id:6901	inCount:3	outCount:1	links:	url:C69.1	name:Neoplasia maligna de córnea	normalName:neoplasia_maligna_de_córnea	normalWikiTitle:neoplasia_maligna_de_córnea	predictedType:MOR_NEO
+CANDIDATE	id:9203	inCount:3	outCount:1	links:	url:C92.3	name:Sarcoma mieloide	normalName:sarcoma_mieloide	normalWikiTitle:sarcoma_mieloide	predictedType:MOR_NEO
+CANDIDATE	id:27458	inCount:0	outCount:1	links:	url:27458	name:síntomas de cáncer	normalName:síntomas_de_cáncer	normalWikiTitle:síntomas_de_cáncer	predictedType:MOR_NEO
+CANDIDATE	id:33062	inCount:0	outCount:1	links:	url:33062	name:vacunas del cáncer	normalName:vacunas_del_cáncer	normalWikiTitle:vacunas_del_cáncer	predictedType:MOR_NEO
+CANDIDATE	id:9635	inCount:1	outCount:2	links:	url:9635	name:neurilemoma	normalName:neurilemoma	normalWikiTitle:neurilemoma	predictedType:MOR_NEO
+CANDIDATE	id:4555	inCount:2	outCount:1	links:	url:4555	name:edema	normalName:edema	normalWikiTitle:edema	predictedType:MOR_NEO
+CANDIDATE	id:2555	inCount:4	outCount:2	links:	url:2555	name:ceramidas	normalName:ceramidas	normalWikiTitle:ceramidas	predictedType:MOR_NEO
+CANDIDATE	id:8386	inCount:4	outCount:1	links:	url:8386	name:linfedema	normalName:linfedema	normalWikiTitle:linfedema	predictedType:MOR_NEO
+CANDIDATE	id:9634	inCount:0	outCount:1	links:	url:9634	name:neurilema	normalName:neurilema	normalWikiTitle:neurilema	predictedType:MOR_NEO
+CANDIDATE	id:26314	inCount:0	outCount:1	links:	url:26314	name:Cineria maritima	normalName:cineria_maritima	normalWikiTitle:cineria_maritima	predictedType:MOR_NEO
+CANDIDATE	id:56399	inCount:0	outCount:2	links:	url:56399	name:linfedema del cáncer de mama	normalName:linfedema_del_cáncer_de_mama	normalWikiTitle:linfedema_del_cáncer_de_mama	predictedType:MOR_NEO
+CANDIDATE	id:4517	inCount:3	outCount:1	links:	url:4517	name:Echinodermata	normalName:echinodermata	normalWikiTitle:echinodermata	predictedType:MOR_NEO
+CANDIDATE	id:1968	inCount:8	outCount:2	links:	url:1968	name:Cáncer de Mama	normalName:cáncer_de_mama	normalWikiTitle:cáncer_de_mama	predictedType:MOR_NEO
+CANDIDATE	id:1968	inCount:8	outCount:2	links:	url:1968	name:cáncer de mama	normalName:cáncer_de_mama	normalWikiTitle:cáncer_de_mama	predictedType:MOR_NEO
+CANDIDATE	id:1968	inCount:8	outCount:2	links:	url:1968	name:Cánceres de Mama	normalName:cánceres_de_mama	normalWikiTitle:cánceres_de_mama	predictedType:MOR_NEO
+CANDIDATE	id:1968	inCount:8	outCount:2	links:	url:1968	name:Cáncer de la Mama	normalName:cáncer_de_la_mama	normalWikiTitle:cáncer_de_la_mama	predictedType:MOR_NEO
+CANDIDATE	id:1968	inCount:8	outCount:2	links:	url:1968	name:cáncer de la mama	normalName:cáncer_de_la_mama	normalWikiTitle:cáncer_de_la_mama	predictedType:MOR_NEO
+CANDIDATE	id:1968	inCount:8	outCount:2	links:	url:1968	name:Cáncer Mamario	normalName:cáncer_mamario	normalWikiTitle:cáncer_mamario	predictedType:MOR_NEO
+CANDIDATE	id:1968	inCount:8	outCount:2	links:	url:1968	name:cáncer mamario	normalName:cáncer_mamario	normalWikiTitle:cáncer_mamario	predictedType:MOR_NEO
+CANDIDATE	id:37092	inCount:0	outCount:1	links:	url:37092	name:Cincoenrama	normalName:cincoenrama	normalWikiTitle:cincoenrama	predictedType:MOR_NEO
+CANDIDATE	id:13191	inCount:0	outCount:2	links:	url:13191	name:cáncer del sigma	normalName:cáncer_del_sigma	normalWikiTitle:cáncer_del_sigma	predictedType:MOR_NEO
+CANDIDATE	id:15027	inCount:0	outCount:2	links:	url:15027	name:Cáncer de Vagina	normalName:cáncer_de_vagina	normalWikiTitle:cáncer_de_vagina	predictedType:MOR_NEO

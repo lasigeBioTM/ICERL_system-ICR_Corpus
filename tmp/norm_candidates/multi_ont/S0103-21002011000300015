@@ -1,0 +1,47 @@
+ENTITY	text:neoplasias	normalName:neoplasias	predictedType:MOR_NEO	q:true	qid:Q396	docId:S0103-21002011000300015	origText:neoplasias	url:NaN
+CANDIDATE	id:80000	inCount:0	outCount:1	links:	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:0	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:93623	inCount:0	outCount:1	links:	url:9362/3	name:Pineoblastoma	normalName:pineoblastoma	normalWikiTitle:pineoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:	url:8000/6	name:Neoplasia metastsica	normalName:neoplasia_metastsica	normalWikiTitle:neoplasia_metastsica	predictedType:MOR_NEO
+CANDIDATE	id:95700	inCount:0	outCount:1	links:	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95033	inCount:0	outCount:1	links:	url:9503/3	name:Neuroepitelioma, SAI	normalName:neuroepitelioma,_sai	normalWikiTitle:neuroepitelioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88200	inCount:0	outCount:1	links:	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
+CANDIDATE	id:89603	inCount:0	outCount:1	links:	url:8960/3	name:Nefroblastoma, SAI	normalName:nefroblastoma,_sai	normalWikiTitle:nefroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89713	inCount:0	outCount:1	links:	url:8971/3	name:Pancreatoblastoma	normalName:pancreatoblastoma	normalWikiTitle:pancreatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:95003	inCount:0	outCount:1	links:	url:9500/3	name:Neuroblastoma, SAI	normalName:neuroblastoma,_sai	normalWikiTitle:neuroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:9	inCount:50	outCount:1	links:	url:D00-D09	name:NEOPLASIAS IN SITU 	normalName:neoplasias_in_situ_	normalWikiTitle:neoplasias_in_situ_	predictedType:MOR_NEO
+CANDIDATE	id:96	inCount:16	outCount:1	links:	url:C00-C96	name:NEOPLASIAS MALIGNAS 	normalName:neoplasias_malignas_	normalWikiTitle:neoplasias_malignas_	predictedType:MOR_NEO
+CANDIDATE	id:3000	inCount:3	outCount:1	links:	url:D30.0	name:Neoplasia benigna de riñón	normalName:neoplasia_benigna_de_riñón	normalWikiTitle:neoplasia_benigna_de_riñón	predictedType:MOR_NEO
+CANDIDATE	id:3	inCount:3	outCount:1	links:	url:C03	name:Neoplasia maligna de encía	normalName:neoplasia_maligna_de_encía	normalWikiTitle:neoplasia_maligna_de_encía	predictedType:MOR_NEO
+CANDIDATE	id:502	inCount:0	outCount:1	links:	url:C05.2	name:Neoplasia maligna de úvula	normalName:neoplasia_maligna_de_úvula	normalWikiTitle:neoplasia_maligna_de_úvula	predictedType:MOR_NEO
+CANDIDATE	id:9562	inCount:18	outCount:3	links:	url:9562	name:neoplasias	normalName:neoplasias	normalWikiTitle:neoplasias	predictedType:MOR_NEO
+ENTITY	text:lesiones intraepiteliales de alto grado	normalName:lesiones_intraepiteliales_de_alto_grado	predictedType:MOR_NEO	q:true	qid:Q396	docId:S0103-21002011000300015	origText:lesiones intraepiteliales de alto grado	url:NaN
+CANDIDATE	id:95236	inCount:0	outCount:1	links:	url:9523/6	name:Neuroepitelioma olfatorio, metstasis	normalName:neuroepitelioma_olfatorio,_metstasis	normalWikiTitle:neuroepitelioma_olfatorio,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:95233	inCount:0	outCount:1	links:	url:9523/3	name:Neuroepitelioma olfatorio	normalName:neuroepitelioma_olfatorio	normalWikiTitle:neuroepitelioma_olfatorio	predictedType:MOR_NEO
+CANDIDATE	id:80100	inCount:0	outCount:1	links:	url:8010/0	name:Tumor epitelial benigno	normalName:tumor_epitelial_benigno	normalWikiTitle:tumor_epitelial_benigno	predictedType:MOR_NEO
+CANDIDATE	id:94130	inCount:0	outCount:1	links:	url:9413/0	name:Tumor neuroepitelial disembrioplsico	normalName:tumor_neuroepitelial_disembrioplsico	normalWikiTitle:tumor_neuroepitelial_disembrioplsico	predictedType:MOR_NEO
+CANDIDATE	id:90642	inCount:0	outCount:1	links:	url:9064/2	name:Clulas germinales malignas intratubulares	normalName:clulas_germinales_malignas_intratubulares	normalWikiTitle:clulas_germinales_malignas_intratubulares	predictedType:MOR_NEO
+CANDIDATE	id:90520	inCount:0	outCount:1	links:	url:9052/0	name:Mesotelioma epitelioide benigno	normalName:mesotelioma_epitelioide_benigno	normalWikiTitle:mesotelioma_epitelioide_benigno	predictedType:MOR_NEO
+CANDIDATE	id:89660	inCount:0	outCount:1	links:	url:8966/0	name:Tumor de clulas intersticiales de mdula renal	normalName:tumor_de_clulas_intersticiales_de_mdula_renal	normalWikiTitle:tumor_de_clulas_intersticiales_de_mdula_renal	predictedType:MOR_NEO
+CANDIDATE	id:93400	inCount:0	outCount:1	links:	url:9340/0	name:Tumor odontognico epitelial calcificante	normalName:tumor_odontognico_epitelial_calcificante	normalWikiTitle:tumor_odontognico_epitelial_calcificante	predictedType:MOR_NEO
+CANDIDATE	id:80826	inCount:0	outCount:1	links:	url:8082/6	name:Carcinoma linfoepitelial, metstasis	normalName:carcinoma_linfoepitelial,_metstasis	normalWikiTitle:carcinoma_linfoepitelial,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:89300	inCount:0	outCount:1	links:	url:8930/0	name:Ndulo del estroma endometrial	normalName:ndulo_del_estroma_endometrial	normalWikiTitle:ndulo_del_estroma_endometrial	predictedType:MOR_NEO
+CANDIDATE	id:19	inCount:4	outCount:1	links:	url:D19	name:Neoplasia benigna de tejido mesotelial	normalName:neoplasia_benigna_de_tejido_mesotelial	normalWikiTitle:neoplasia_benigna_de_tejido_mesotelial	predictedType:MOR_NEO
+CANDIDATE	id:1900	inCount:0	outCount:1	links:	url:D19.0	name:Neoplasia benigna de tejido mesotelial de pleura	normalName:neoplasia_benigna_de_tejido_mesotelial_de_pleura	normalWikiTitle:neoplasia_benigna_de_tejido_mesotelial_de_pleura	predictedType:MOR_NEO
+CANDIDATE	id:1804	inCount:0	outCount:1	links:	url:C18.4	name:Neoplasia maligna de colon transverso	normalName:neoplasia_maligna_de_colon_transverso	normalWikiTitle:neoplasia_maligna_de_colon_transverso	predictedType:MOR_NEO
+CANDIDATE	id:640068	inCount:5	outCount:1	links:	url:C64-C68	name:NEOPLASIAS MALIGNAS DE TRACTO URINARIO 	normalName:neoplasias_malignas_de_tracto_urinario_	normalWikiTitle:neoplasias_malignas_de_tracto_urinario_	predictedType:MOR_NEO
+CANDIDATE	id:150026	inCount:12	outCount:1	links:	url:C15-C26	name:NEOPLASIAS MALIGNAS DE ÓRGANOS DIGESTIVOS 	normalName:neoplasias_malignas_de_órganos_digestivos_	normalWikiTitle:neoplasias_malignas_de_órganos_digestivos_	predictedType:MOR_NEO
+CANDIDATE	id:56879	inCount:0	outCount:1	links:	url:56879	name:linfocitos intraepiteliales	normalName:linfocitos_intraepiteliales	normalWikiTitle:linfocitos_intraepiteliales	predictedType:MOR_NEO
+CANDIDATE	id:31574	inCount:0	outCount:1	links:	url:31574	name:neoplasia intraepitelial del cuello uterino	normalName:neoplasia_intraepitelial_del_cuello_uterino	normalWikiTitle:neoplasia_intraepitelial_del_cuello_uterino	predictedType:MOR_NEO
+CANDIDATE	id:22520	inCount:0	outCount:1	links:	url:22520	name:infusiones intraarteriales	normalName:infusiones_intraarteriales	normalWikiTitle:infusiones_intraarteriales	predictedType:MOR_NEO
+CANDIDATE	id:55558	inCount:0	outCount:2	links:	url:55558	name:lesiones intraepiteliales escamosas de cuello uterino	normalName:lesiones_intraepiteliales_escamosas_de_cuello_uterino	normalWikiTitle:lesiones_intraepiteliales_escamosas_de_cuello_uterino	predictedType:MOR_NEO
+CANDIDATE	id:52323	inCount:0	outCount:1	links:	url:52323	name:canales del sodio epiteliales	normalName:canales_del_sodio_epiteliales	normalWikiTitle:canales_del_sodio_epiteliales	predictedType:MOR_NEO
+CANDIDATE	id:31265	inCount:6	outCount:2	links:	url:31265	name:neoplasias neuroepiteliales	normalName:neoplasias_neuroepiteliales	normalWikiTitle:neoplasias_neuroepiteliales	predictedType:MOR_NEO
+CANDIDATE	id:32640	inCount:0	outCount:1	links:	url:32640	name:neoplasia intraepitelial prostática	normalName:neoplasia_intraepitelial_prostática	normalWikiTitle:neoplasia_intraepitelial_prostática	predictedType:MOR_NEO
+CANDIDATE	id:37582	inCount:0	outCount:1	links:	url:37582	name:infusiones intralesionales	normalName:infusiones_intralesionales	normalWikiTitle:infusiones_intralesionales	predictedType:MOR_NEO
+CANDIDATE	id:38426	inCount:3	outCount:3	links:	url:38426	name:células neuroepiteliales	normalName:células_neuroepiteliales	normalWikiTitle:células_neuroepiteliales	predictedType:MOR_NEO
+CANDIDATE	id:38642	inCount:1	outCount:1	links:	url:38642	name:lesiones prenatales	normalName:lesiones_prenatales	normalWikiTitle:lesiones_prenatales	predictedType:MOR_NEO
+CANDIDATE	id:55558	inCount:0	outCount:2	links:	url:55558	name:Lesiones Escamosas Intraepiteliales	normalName:lesiones_escamosas_intraepiteliales	normalWikiTitle:lesiones_escamosas_intraepiteliales	predictedType:MOR_NEO
+CANDIDATE	id:55558	inCount:0	outCount:2	links:	url:55558	name:Lesiones Intraepiteliales Escamosas	normalName:lesiones_intraepiteliales_escamosas	normalWikiTitle:lesiones_intraepiteliales_escamosas	predictedType:MOR_NEO
+CANDIDATE	id:55558	inCount:0	outCount:2	links:	url:55558	name:lesiones intraepiteliales escamosas	normalName:lesiones_intraepiteliales_escamosas	normalWikiTitle:lesiones_intraepiteliales_escamosas	predictedType:MOR_NEO
+CANDIDATE	id:56879	inCount:0	outCount:1	links:	url:56879	name:Células T Intraepiteliales	normalName:células_t_intraepiteliales	normalWikiTitle:células_t_intraepiteliales	predictedType:MOR_NEO

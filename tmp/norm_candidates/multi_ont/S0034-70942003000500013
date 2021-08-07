@@ -1,0 +1,29 @@
+ENTITY	text:metástases	normalName:metástases	predictedType:MOR_NEO	q:true	qid:Q10	docId:S0034-70942003000500013	origText:metástases	url:NaN
+CANDIDATE	id:90646	inCount:0	outCount:1	links:	url:9064/6	name:Germinoma , metstasis	normalName:germinoma_,_metstasis	normalWikiTitle:germinoma_,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:93626	inCount:0	outCount:1	links:	url:9362/6	name:Pineoblastoma, metstasis	normalName:pineoblastoma,_metstasis	normalWikiTitle:pineoblastoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:	url:8000/6	name:Neoplasia metastsica	normalName:neoplasia_metastsica	normalWikiTitle:neoplasia_metastsica	predictedType:MOR_NEO
+CANDIDATE	id:88956	inCount:0	outCount:1	links:	url:8895/6	name:Miosarcoma, metstasis	normalName:miosarcoma,_metstasis	normalWikiTitle:miosarcoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:88006	inCount:0	outCount:1	links:	url:8800/6	name:Sarcoma, SAI, metstasis	normalName:sarcoma,_sai,_metstasis	normalWikiTitle:sarcoma,_sai,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:88406	inCount:0	outCount:2	links:	url:8840/6	name:Mixosarcoma, metstasis	normalName:mixosarcoma,_metstasis	normalWikiTitle:mixosarcoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:93706	inCount:0	outCount:1	links:	url:9370/6	name:Cordoma, SAI, metstasis	normalName:cordoma,_sai,_metstasis	normalWikiTitle:cordoma,_sai,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:94426	inCount:0	outCount:1	links:	url:9442/6	name:Gliosarcoma, metstasis	normalName:gliosarcoma,_metstasis	normalWikiTitle:gliosarcoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:89336	inCount:0	outCount:1	links:	url:8933/6	name:Adenosarcoma, metstasis	normalName:adenosarcoma,_metstasis	normalWikiTitle:adenosarcoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:90606	inCount:0	outCount:1	links:	url:9060/6	name:Disgerminoma, metstasis	normalName:disgerminoma,_metstasis	normalWikiTitle:disgerminoma,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:5	outCount:1	links:	url:C45	name:Mesotelioma	normalName:mesotelioma	normalWikiTitle:mesotelioma	predictedType:MOR_NEO
+CANDIDATE	id:2202	inCount:0	outCount:1	links:	url:C22.2	name:Hepatoblastoma	normalName:hepatoblastoma	normalWikiTitle:hepatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:4500	inCount:0	outCount:1	links:	url:C45.0	name:Mesotelioma de pleura	normalName:mesotelioma_de_pleura	normalWikiTitle:mesotelioma_de_pleura	predictedType:MOR_NEO
+CANDIDATE	id:22	inCount:9	outCount:1	links:	url:D22	name:Nevus melanocítico	normalName:nevus_melanocítico	normalWikiTitle:nevus_melanocítico	predictedType:MOR_NEO
+CANDIDATE	id:9	inCount:50	outCount:1	links:	url:D00-D09	name:NEOPLASIAS IN SITU 	normalName:neoplasias_in_situ_	normalWikiTitle:neoplasias_in_situ_	predictedType:MOR_NEO
+CANDIDATE	id:8846	inCount:7	outCount:1	links:	url:8846	name:metales	normalName:metales	normalWikiTitle:metales	predictedType:MOR_NEO
+CANDIDATE	id:8853	inCount:0	outCount:2	links:	url:8853	name:metafase	normalName:metafase	normalWikiTitle:metafase	predictedType:MOR_NEO
+CANDIDATE	id:6862	inCount:4	outCount:1	links:	url:6862	name:homeostasis	normalName:homeostasis	normalWikiTitle:homeostasis	predictedType:MOR_NEO
+CANDIDATE	id:54705	inCount:0	outCount:1	links:	url:54705	name:metastasectomía	normalName:metastasectomía	normalWikiTitle:metastasectomía	predictedType:MOR_NEO
+CANDIDATE	id:4250	inCount:16	outCount:3	links:	url:4250	name:desastres	normalName:desastres	normalWikiTitle:desastres	predictedType:MOR_NEO
+CANDIDATE	id:5039	inCount:10	outCount:1	links:	url:5039	name:esterasas	normalName:esterasas	normalWikiTitle:esterasas	predictedType:MOR_NEO
+CANDIDATE	id:23375	inCount:0	outCount:1	links:	url:23375	name:metatarso	normalName:metatarso	normalWikiTitle:metatarso	predictedType:MOR_NEO
+CANDIDATE	id:25177	inCount:0	outCount:3	links:	url:25177	name:estanques	normalName:estanques	normalWikiTitle:estanques	predictedType:MOR_NEO
+CANDIDATE	id:36365	inCount:0	outCount:2	links:	url:36365	name:eticistas	normalName:eticistas	normalWikiTitle:eticistas	predictedType:MOR_NEO
+CANDIDATE	id:36734	inCount:0	outCount:1	links:	url:36734	name:Petasites	normalName:petasites	normalWikiTitle:petasites	predictedType:MOR_NEO
+CANDIDATE	id:9555	inCount:5	outCount:1	links:	url:9555	name:Metástasis	normalName:metástasis	normalWikiTitle:metástasis	predictedType:MOR_NEO
+CANDIDATE	id:9555	inCount:5	outCount:1	links:	url:9555	name:metástasis	normalName:metástasis	normalWikiTitle:metástasis	predictedType:MOR_NEO
+CANDIDATE	id:5039	inCount:10	outCount:1	links:	url:5039	name:Esterases	normalName:esterases	normalWikiTitle:esterases	predictedType:MOR_NEO

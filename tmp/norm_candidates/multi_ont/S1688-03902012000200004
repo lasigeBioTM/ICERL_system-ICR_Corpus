@@ -1,0 +1,27 @@
+ENTITY	text:oclusión intestinal maligna	normalName:oclusión_intestinal_maligna	predictedType:MOR_NEO	q:true	qid:Q1051	docId:S1688-03902012000200004	origText:oclusión intestinal maligna	url:NaN
+CANDIDATE	id:97173	inCount:0	outCount:1	links:	url:9717/3	name:Linfoma intestinal de clulas T	normalName:linfoma_intestinal_de_clulas_t	normalWikiTitle:linfoma_intestinal_de_clulas_t	predictedType:MOR_NEO
+CANDIDATE	id:90642	inCount:0	outCount:1	links:	url:9064/2	name:Clulas germinales malignas intratubulares	normalName:clulas_germinales_malignas_intratubulares	normalWikiTitle:clulas_germinales_malignas_intratubulares	predictedType:MOR_NEO
+CANDIDATE	id:81513	inCount:0	outCount:1	links:	url:8151/3	name:Insulinoma maligno	normalName:insulinoma_maligno	normalWikiTitle:insulinoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:97503	inCount:0	outCount:1	links:	url:9750/3	name:Histiocitosis maligna	normalName:histiocitosis_maligna	normalWikiTitle:histiocitosis_maligna	predictedType:MOR_NEO
+CANDIDATE	id:81443	inCount:0	outCount:1	links:	url:8144/3	name:Adenocarcinoma, tipo intestinal	normalName:adenocarcinoma,_tipo_intestinal	normalWikiTitle:adenocarcinoma,_tipo_intestinal	predictedType:MOR_NEO
+CANDIDATE	id:84033	inCount:0	outCount:1	links:	url:8403/3	name:Espiradenoma ecrino maligno	normalName:espiradenoma_ecrino_maligno	normalWikiTitle:espiradenoma_ecrino_maligno	predictedType:MOR_NEO
+CANDIDATE	id:80033	inCount:0	outCount:1	links:	url:8003/3	name:Tumor maligno de clulas gigantes	normalName:tumor_maligno_de_clulas_gigantes	normalWikiTitle:tumor_maligno_de_clulas_gigantes	predictedType:MOR_NEO
+CANDIDATE	id:81446	inCount:0	outCount:1	links:	url:8144/6	name:Adenocarcinoma, tipo intestinal, metstasis	normalName:adenocarcinoma,_tipo_intestinal,_metstasis	normalWikiTitle:adenocarcinoma,_tipo_intestinal,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:80113	inCount:0	outCount:1	links:	url:8011/3	name:Epitelioma maligno	normalName:epitelioma_maligno	normalWikiTitle:epitelioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:81533	inCount:0	outCount:1	links:	url:8153/3	name:Gastrinoma maligno	normalName:gastrinoma_maligno	normalWikiTitle:gastrinoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:8602	inCount:0	outCount:1	links:	url:C86.2	name:Linfoma de células T tipo enteropatía (intestinal)	normalName:linfoma_de_células_t_tipo_enteropatía_(intestinal)	normalWikiTitle:linfoma_de_células_t_tipo_enteropatía_(intestinal)	predictedType:MOR_NEO
+CANDIDATE	id:17	inCount:6	outCount:1	links:	url:C17	name:Neoplasia maligna de intestino delgado	normalName:neoplasia_maligna_de_intestino_delgado	normalWikiTitle:neoplasia_maligna_de_intestino_delgado	predictedType:MOR_NEO
+CANDIDATE	id:4900	inCount:7	outCount:1	links:	url:C49.A	name:Tumor estromal gastrointestinal	normalName:tumor_estromal_gastrointestinal	normalWikiTitle:tumor_estromal_gastrointestinal	predictedType:MOR_NEO
+CANDIDATE	id:3304	inCount:0	outCount:1	links:	url:D33.4	name:Neoplasia benigna de médula espinal	normalName:neoplasia_benigna_de_médula_espinal	normalWikiTitle:neoplasia_benigna_de_médula_espinal	predictedType:MOR_NEO
+CANDIDATE	id:4	inCount:0	outCount:1	links:	url:C00.4	name:Neoplasia maligna de labio inferior, cara interna	normalName:neoplasia_maligna_de_labio_inferior,_cara_interna	normalWikiTitle:neoplasia_maligna_de_labio_inferior,_cara_interna	predictedType:MOR_NEO
+CANDIDATE	id:2965	inCount:0	outCount:1	links:	url:2965	name:Ciona intestinalis	normalName:ciona_intestinalis	normalWikiTitle:ciona_intestinalis	predictedType:MOR_NEO
+CANDIDATE	id:7571	inCount:1	outCount:1	links:	url:7571	name:absorción intestinal	normalName:absorción_intestinal	normalWikiTitle:absorción_intestinal	predictedType:MOR_NEO
+CANDIDATE	id:28923	inCount:0	outCount:1	links:	url:28923	name:adsorción intestinal	normalName:adsorción_intestinal	normalWikiTitle:adsorción_intestinal	predictedType:MOR_NEO
+CANDIDATE	id:19336	inCount:0	outCount:3	links:	url:19336	name:oclusión venosa retiniana	normalName:oclusión_venosa_retiniana	normalWikiTitle:oclusión_venosa_retiniana	predictedType:MOR_NEO
+CANDIDATE	id:5910	inCount:4	outCount:1	links:	url:5910	name:motilidad gastrointestinal	normalName:motilidad_gastrointestinal	normalWikiTitle:motilidad_gastrointestinal	predictedType:MOR_NEO
+CANDIDATE	id:7153	inCount:0	outCount:1	links:	url:7153	name:hipertensión maligna	normalName:hipertensión_maligna	normalWikiTitle:hipertensión_maligna	predictedType:MOR_NEO
+CANDIDATE	id:6623	inCount:3	outCount:2	links:	url:6623	name:hemorragia gastrointestinal	normalName:hemorragia_gastrointestinal	normalWikiTitle:hemorragia_gastrointestinal	predictedType:MOR_NEO
+CANDIDATE	id:11435	inCount:0	outCount:1	links:	url:11435	name:neumatosis cistoide intestinal	normalName:neumatosis_cistoide_intestinal	normalWikiTitle:neumatosis_cistoide_intestinal	predictedType:MOR_NEO
+CANDIDATE	id:7576	inCount:3	outCount:2	links:	url:7576	name:mucosa intestinal	normalName:mucosa_intestinal	normalWikiTitle:mucosa_intestinal	predictedType:MOR_NEO
+CANDIDATE	id:8414	inCount:0	outCount:2	links:	url:8414	name:lisinoalanina	normalName:lisinoalanina	normalWikiTitle:lisinoalanina	predictedType:MOR_NEO
+CANDIDATE	id:2965	inCount:0	outCount:1	links:	url:2965	name:Ciona intestinali	normalName:ciona_intestinali	normalWikiTitle:ciona_intestinali	predictedType:MOR_NEO

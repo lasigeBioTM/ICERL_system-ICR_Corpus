@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 8 22 11	adenocarcinoma
+T1	11	adenocarcinoma	['8440/3', '8440/3', '8262/3', '8211/3', '8160/3', '8140/3', '8933/3', '8333/3', '8410/3', '8401/3', '238', '8413/3']
+T2	MORFOLOGIA_NEOPLASIA 453 462 31	neoplasia
+T2	31	neoplasia	['8960/3', '8960/3', '8970/3', '9500/3', '8000/0', '8000/3', '8000/6', '9073/1', '9362/3', '8971/3', '9562', '8820/0']
+T3	MORFOLOGIA_NEOPLASIA 648 705 41	diagnose de esquerda metástase pulmonar de adenocarcinoma
+T3	41	diagnose de esquerda metástase pulmonar de adenocarcinoma	['8440/3', '8440/3', '9351/1', '8550/3', '8013/3', '57290', '3555', '8098/3', '8094/3', '8551/3', '12098', '57882', '51262', '8560/3', '28623', '8560/0', '16804', '2324', '8161/3', '31598', '9161/0', '55952']

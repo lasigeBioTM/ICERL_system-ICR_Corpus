@@ -1,0 +1,4 @@
+T1	MORFOLOGIA_NEOPLASIA 78 88 11	neoplasias
+T1	11	neoplasias	['8960/3', '8970/3', '9500/3', '8000/0', '8000/3', '8000/6', '9073/1', '9362/3', '9562', '8971/3', '8820/0']
+T2	MORFOLOGIA_NEOPLASIA 1066 1118 101	NIC II ou III foi confirmado por CH II de alto risco
+T2	101	NIC II ou III foi confirmado por CH II de alto risco	['9766/1', '9671/3', '8243/3', '8249/3', '52974', '9413/0', '56514', '9728/3', '29059', '9877', '8381/3', '7593', '38815', '8959/1', '8382/3', '37990', '34583', '19525', '8381/0', '31015', '8243/3']

@@ -1,0 +1,33 @@
+ENTITY	text:neoplasias de vías urinarias	normalName:neoplasias_de_vías_urinarias	predictedType:MOR_NEO	q:true	qid:Q193	docId:S0080-62342008000200006	origText:neoplasias de vías urinarias	url:NaN
+CANDIDATE	id:91351	inCount:0	outCount:1	links:	url:9135/1	name:Angioendotelioma papilar endovascular	normalName:angioendotelioma_papilar_endovascular	normalWikiTitle:angioendotelioma_papilar_endovascular	predictedType:MOR_NEO
+CANDIDATE	id:80153	inCount:0	outCount:1	links:	url:8015/3	name:Carcinoma de clulas vidriosas	normalName:carcinoma_de_clulas_vidriosas	normalWikiTitle:carcinoma_de_clulas_vidriosas	predictedType:MOR_NEO
+CANDIDATE	id:83210	inCount:0	outCount:1	links:	url:8321/0	name:Adenoma de clulas principales	normalName:adenoma_de_clulas_principales	normalWikiTitle:adenoma_de_clulas_principales	predictedType:MOR_NEO
+CANDIDATE	id:84000	inCount:0	outCount:1	links:	url:8400/0	name:Adenoma de las glndulas sudorparas	normalName:adenoma_de_las_glndulas_sudorparas	normalWikiTitle:adenoma_de_las_glndulas_sudorparas	predictedType:MOR_NEO
+CANDIDATE	id:84610	inCount:0	outCount:1	links:	url:8461/0	name:Papiloma de superficie serosa	normalName:papiloma_de_superficie_serosa	normalWikiTitle:papiloma_de_superficie_serosa	predictedType:MOR_NEO
+CANDIDATE	id:85513	inCount:0	outCount:1	links:	url:8551/3	name:Cistadenocarcinoma clulas acinares	normalName:cistadenocarcinoma_clulas_acinares	normalWikiTitle:cistadenocarcinoma_clulas_acinares	predictedType:MOR_NEO
+CANDIDATE	id:82146	inCount:0	outCount:1	links:	url:8214/6	name:Carcinoma de clulas parietales, metstasis	normalName:carcinoma_de_clulas_parietales,_metstasis	normalWikiTitle:carcinoma_de_clulas_parietales,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:87412	inCount:0	outCount:1	links:	url:8741/2	name:Melanosis precancerosa, SAI	normalName:melanosis_precancerosa,_sai	normalWikiTitle:melanosis_precancerosa,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89603	inCount:0	outCount:1	links:	url:8960/3	name:Nefroblastoma, SAI	normalName:nefroblastoma,_sai	normalWikiTitle:nefroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95003	inCount:0	outCount:1	links:	url:9500/3	name:Neuroblastoma, SAI	normalName:neuroblastoma,_sai	normalWikiTitle:neuroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:	url:8000/6	name:Neoplasia secundaria	normalName:neoplasia_secundaria	normalWikiTitle:neoplasia_secundaria	predictedType:MOR_NEO
+CANDIDATE	id:92720	inCount:0	outCount:1	links:	url:9272/0	name:Displasia periapical cementosea	normalName:displasia_periapical_cementosea	normalWikiTitle:displasia_periapical_cementosea	predictedType:MOR_NEO
+CANDIDATE	id:30	inCount:7	outCount:1	links:	url:D30	name:Neoplasia benigna de órganos urinarios	normalName:neoplasia_benigna_de_órganos_urinarios	normalWikiTitle:neoplasia_benigna_de_órganos_urinarios	predictedType:MOR_NEO
+CANDIDATE	id:79052	inCount:0	outCount:1	links:	url:C79.52	name:Neoplasia maligna secundaria de médula ósea	normalName:neoplasia_maligna_secundaria_de_médula_ósea	normalWikiTitle:neoplasia_maligna_secundaria_de_médula_ósea	predictedType:MOR_NEO
+CANDIDATE	id:640068	inCount:5	outCount:1	links:	url:C64-C68	name:NEOPLASIAS MALIGNAS DE TRACTO URINARIO 	normalName:neoplasias_malignas_de_tracto_urinario_	normalWikiTitle:neoplasias_malignas_de_tracto_urinario_	predictedType:MOR_NEO
+CANDIDATE	id:7802	inCount:0	outCount:1	links:	url:C78.2	name:Neoplasia maligna secundaria de pleura	normalName:neoplasia_maligna_secundaria_de_pleura	normalWikiTitle:neoplasia_maligna_secundaria_de_pleura	predictedType:MOR_NEO
+CANDIDATE	id:7906	inCount:3	outCount:1	links:	url:C79.6	name:Neoplasia maligna secundaria de ovario	normalName:neoplasia_maligna_secundaria_de_ovario	normalWikiTitle:neoplasia_maligna_secundaria_de_ovario	predictedType:MOR_NEO
+CANDIDATE	id:22589	inCount:0	outCount:3	links:	url:22589	name:neoplasias orbitarias	normalName:neoplasias_orbitarias	normalWikiTitle:neoplasias_orbitarias	predictedType:MOR_NEO
+CANDIDATE	id:32581	inCount:0	outCount:2	links:	url:32581	name:neoplasias vasculares	normalName:neoplasias_vasculares	normalWikiTitle:neoplasias_vasculares	predictedType:MOR_NEO
+CANDIDATE	id:14995	inCount:2	outCount:2	links:	url:14995	name:neoplasias uterinas	normalName:neoplasias_uterinas	normalWikiTitle:neoplasias_uterinas	predictedType:MOR_NEO
+CANDIDATE	id:15027	inCount:0	outCount:2	links:	url:15027	name:neoplasias vaginales	normalName:neoplasias_vaginales	normalWikiTitle:neoplasias_vaginales	predictedType:MOR_NEO
+CANDIDATE	id:10229	inCount:9	outCount:3	links:	url:10229	name:neoplasias ováricas	normalName:neoplasias_ováricas	normalWikiTitle:neoplasias_ováricas	predictedType:MOR_NEO
+CANDIDATE	id:23845	inCount:1	outCount:1	links:	url:23845	name:neoplasias supratentoriales	normalName:neoplasias_supratentoriales	normalWikiTitle:neoplasias_supratentoriales	predictedType:MOR_NEO
+CANDIDATE	id:10378	inCount:4	outCount:3	links:	url:10378	name:neoplasias pancreáticas	normalName:neoplasias_pancreáticas	normalWikiTitle:neoplasias_pancreáticas	predictedType:MOR_NEO
+CANDIDATE	id:10724	inCount:1	outCount:3	links:	url:10724	name:neoplasias peritoneales	normalName:neoplasias_peritoneales	normalWikiTitle:neoplasias_peritoneales	predictedType:MOR_NEO
+CANDIDATE	id:11426	inCount:2	outCount:2	links:	url:11426	name:neoplasias pleurales	normalName:neoplasias_pleurales	normalWikiTitle:neoplasias_pleurales	predictedType:MOR_NEO
+CANDIDATE	id:14115	inCount:1	outCount:3	links:	url:14115	name:neoplasias testiculares	normalName:neoplasias_testiculares	normalWikiTitle:neoplasias_testiculares	predictedType:MOR_NEO
+CANDIDATE	id:29575	inCount:4	outCount:1	links:	url:29575	name:Neoplasias Urinarias	normalName:neoplasias_urinarias	normalWikiTitle:neoplasias_urinarias	predictedType:MOR_NEO
+CANDIDATE	id:29575	inCount:4	outCount:1	links:	url:29575	name:neoplasias urinarias	normalName:neoplasias_urinarias	normalWikiTitle:neoplasias_urinarias	predictedType:MOR_NEO
+CANDIDATE	id:29575	inCount:4	outCount:1	links:	url:29575	name:Neoplasia Urinaria	normalName:neoplasia_urinaria	normalWikiTitle:neoplasia_urinaria	predictedType:MOR_NEO
+CANDIDATE	id:29575	inCount:4	outCount:1	links:	url:29575	name:neoplasia urinaria	normalName:neoplasia_urinaria	normalWikiTitle:neoplasia_urinaria	predictedType:MOR_NEO
+CANDIDATE	id:29936	inCount:0	outCount:1	links:	url:29936	name:Neoplasia Secundaria	normalName:neoplasia_secundaria	normalWikiTitle:neoplasia_secundaria	predictedType:MOR_NEO

@@ -1,0 +1,4 @@
+T1	MORFOLOGIA_NEOPLASIA 686 704 31	carcinoma escamoso
+T1	31	carcinoma escamoso	['8070/6', '8070/6', '8083/3', '8270/3', '8575/3', '8230/3', '8010/6', '8070/3', '8010/9', '8010/3', '2337', '8075/3']
+T2	MORFOLOGIA_NEOPLASIA 1358 1403 41	carcinoma escamoso moderadamente diferenciado
+T2	41	carcinoma escamoso moderadamente diferenciado	['8070/6', '8070/6', '8076/3', '8012/3', '8013/3', '8574/3', '8020/3', '9372/3', '2184', '9243/3', '8078/3', '23000', '34808', '2320', '8014/3', '22999', '31591', '22833', '10548', '23573', '36357', '2338']

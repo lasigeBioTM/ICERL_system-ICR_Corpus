@@ -1,0 +1,34 @@
+ENTITY	text:implante percutáneo	normalName:implante_percutáneo	predictedType:MOR_NEO	q:true	qid:Q1091	docId:S1688-04202020000100270	origText:implante percutáneo	url:NaN
+CANDIDATE	id:95713	inCount:0	outCount:1	links:	url:9571/3	name:Perineuroma maligno	normalName:perineuroma_maligno	normalWikiTitle:perineuroma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:82710	inCount:0	outCount:1	links:	url:8271/0	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:MOR_NEO
+CANDIDATE	id:87281	inCount:0	outCount:1	links:	url:8728/1	name:Melanocitoma menngeo	normalName:melanocitoma_menngeo	normalWikiTitle:melanocitoma_menngeo	predictedType:MOR_NEO
+CANDIDATE	id:88120	inCount:0	outCount:1	links:	url:8812/0	name:Fibroma peristico	normalName:fibroma_peristico	normalWikiTitle:fibroma_peristico	predictedType:MOR_NEO
+CANDIDATE	id:87412	inCount:0	outCount:1	links:	url:8741/2	name:Melanosis precancerosa, SAI	normalName:melanosis_precancerosa,_sai	normalWikiTitle:melanosis_precancerosa,_sai	predictedType:MOR_NEO
+CANDIDATE	id:91500	inCount:0	outCount:1	links:	url:9150/0	name:Hemangiopericitoma benigno	normalName:hemangiopericitoma_benigno	normalWikiTitle:hemangiopericitoma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:91501	inCount:0	outCount:1	links:	url:9150/1	name:Hemangiopericitoma, SAI	normalName:hemangiopericitoma,_sai	normalWikiTitle:hemangiopericitoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:91503	inCount:0	outCount:1	links:	url:9150/3	name:Hemangiopericitoma maligno	normalName:hemangiopericitoma_maligno	normalWikiTitle:hemangiopericitoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:93630	inCount:0	outCount:1	links:	url:9363/0	name:Tumor neuroectodrmico melantico	normalName:tumor_neuroectodrmico_melantico	normalWikiTitle:tumor_neuroectodrmico_melantico	predictedType:MOR_NEO
+CANDIDATE	id:95410	inCount:0	outCount:1	links:	url:9541/0	name:Neurofibroma melantico	normalName:neurofibroma_melantico	normalWikiTitle:neurofibroma_melantico	predictedType:MOR_NEO
+CANDIDATE	id:4501	inCount:0	outCount:1	links:	url:C45.1	name:Mesotelioma de peritoneo	normalName:mesotelioma_de_peritoneo	normalWikiTitle:mesotelioma_de_peritoneo	predictedType:MOR_NEO
+CANDIDATE	id:22	inCount:9	outCount:1	links:	url:D22	name:Nevus melanocítico	normalName:nevus_melanocítico	normalWikiTitle:nevus_melanocítico	predictedType:MOR_NEO
+CANDIDATE	id:20	inCount:0	outCount:1	links:	url:C20	name:Neoplasia maligna de recto	normalName:neoplasia_maligna_de_recto	normalWikiTitle:neoplasia_maligna_de_recto	predictedType:MOR_NEO
+CANDIDATE	id:4800	inCount:0	outCount:1	links:	url:C48.0	name:Neoplasia maligna de retroperitoneo	normalName:neoplasia_maligna_de_retroperitoneo	normalWikiTitle:neoplasia_maligna_de_retroperitoneo	predictedType:MOR_NEO
+CANDIDATE	id:305	inCount:3	outCount:1	links:	url:D03.5	name:Melanoma in situ de tronco	normalName:melanoma_in_situ_de_tronco	normalWikiTitle:melanoma_in_situ_de_tronco	predictedType:MOR_NEO
+CANDIDATE	id:11916	inCount:37	outCount:2	links:	url:11916	name:prótesis e implantes	normalName:prótesis_e_implantes	normalWikiTitle:prótesis_e_implantes	predictedType:MOR_NEO
+CANDIDATE	id:13942	inCount:2	outCount:1	links:	url:13942	name:simpatectomía	normalName:simpatectomía	normalWikiTitle:simpatectomía	predictedType:MOR_NEO
+CANDIDATE	id:12513	inCount:1	outCount:1	links:	url:12513	name:reimplantación	normalName:reimplantación	normalWikiTitle:reimplantación	predictedType:MOR_NEO
+CANDIDATE	id:31504	inCount:0	outCount:1	links:	url:31504	name:discectomía percutánea	normalName:discectomía_percutánea	normalWikiTitle:discectomía_percutánea	predictedType:MOR_NEO
+CANDIDATE	id:32138	inCount:0	outCount:1	links:	url:32138	name:implantes de Molteno	normalName:implantes_de_molteno	normalWikiTitle:implantes_de_molteno	predictedType:MOR_NEO
+CANDIDATE	id:33881	inCount:0	outCount:1	links:	url:33881	name:implantes orbitarios	normalName:implantes_orbitarios	normalWikiTitle:implantes_orbitarios	predictedType:MOR_NEO
+CANDIDATE	id:11457	inCount:0	outCount:1	links:	url:11457	name:neumoperitoneo	normalName:neumoperitoneo	normalWikiTitle:neumoperitoneo	predictedType:MOR_NEO
+CANDIDATE	id:55490	inCount:0	outCount:1	links:	url:55490	name:núcleo interpeduncular	normalName:núcleo_interpeduncular	normalWikiTitle:núcleo_interpeduncular	predictedType:MOR_NEO
+CANDIDATE	id:14617	inCount:0	outCount:1	links:	url:14617	name:triantereno	normalName:triantereno	normalWikiTitle:triantereno	predictedType:MOR_NEO
+CANDIDATE	id:25819	inCount:0	outCount:1	links:	url:25819	name:lecho filtrante	normalName:lecho_filtrante	normalWikiTitle:lecho_filtrante	predictedType:MOR_NEO
+CANDIDATE	id:4405	inCount:0	outCount:1	links:	url:4405	name:Implante Subcutáneo	normalName:implante_subcutáneo	normalWikiTitle:implante_subcutáneo	predictedType:MOR_NEO
+CANDIDATE	id:4405	inCount:0	outCount:1	links:	url:4405	name:Implantes Subcutáneos	normalName:implantes_subcutáneos	normalWikiTitle:implantes_subcutáneos	predictedType:MOR_NEO
+CANDIDATE	id:4405	inCount:0	outCount:1	links:	url:4405	name:implantes subcutáneos	normalName:implantes_subcutáneos	normalWikiTitle:implantes_subcutáneos	predictedType:MOR_NEO
+CANDIDATE	id:33585	inCount:0	outCount:2	links:	url:33585	name:implante de pene	normalName:implante_de_pene	normalWikiTitle:implante_de_pene	predictedType:MOR_NEO
+CANDIDATE	id:11916	inCount:37	outCount:2	links:	url:11916	name:Implante Protésico	normalName:implante_protésico	normalWikiTitle:implante_protésico	predictedType:MOR_NEO
+CANDIDATE	id:11916	inCount:37	outCount:2	links:	url:11916	name:implante protésico	normalName:implante_protésico	normalWikiTitle:implante_protésico	predictedType:MOR_NEO
+CANDIDATE	id:11916	inCount:37	outCount:2	links:	url:11916	name:Implante Prostético	normalName:implante_prostético	normalWikiTitle:implante_prostético	predictedType:MOR_NEO
+CANDIDATE	id:28907	inCount:0	outCount:1	links:	url:28907	name:implante subperióstico	normalName:implante_subperióstico	normalWikiTitle:implante_subperióstico	predictedType:MOR_NEO

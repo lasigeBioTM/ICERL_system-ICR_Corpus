@@ -1,0 +1,8 @@
+ENTITY	text:neoplasia maligna	normalName:neoplasia_maligna	predictedType:MOR_NEO	q:true	qid:Q943	docId:S1414-81452019000300207	origText:neoplasia maligna	url:NaN
+CANDIDATE	id:80003	inCount:0	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:52	inCount:0	outCount:1	links:	url:C52	name:Neoplasia maligna de vagina	normalName:neoplasia_maligna_de_vagina	normalWikiTitle:neoplasia_maligna_de_vagina	predictedType:MOR_NEO
+CANDIDATE	id:2801	inCount:0	outCount:1	links:	url:D28.1	name:Neoplasia benigna de vagina	normalName:neoplasia_benigna_de_vagina	normalWikiTitle:neoplasia_benigna_de_vagina	predictedType:MOR_NEO
+CANDIDATE	id:9	inCount:50	outCount:1	links:	url:D00-D09	name:NEOPLASIAS IN SITU 	normalName:neoplasias_in_situ_	normalWikiTitle:neoplasias_in_situ_	predictedType:MOR_NEO
+CANDIDATE	id:67	inCount:10	outCount:1	links:	url:C67	name:Neoplasia maligna de vejiga	normalName:neoplasia_maligna_de_vejiga	normalWikiTitle:neoplasia_maligna_de_vejiga	predictedType:MOR_NEO
+CANDIDATE	id:6902	inCount:3	outCount:1	links:	url:C69.2	name:Neoplasia maligna de retina	normalName:neoplasia_maligna_de_retina	normalWikiTitle:neoplasia_maligna_de_retina	predictedType:MOR_NEO
+CANDIDATE	id:9562	inCount:18	outCount:3	links:	url:9562	name:neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO

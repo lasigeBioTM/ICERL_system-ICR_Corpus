@@ -1,0 +1,64 @@
+ENTITY	text:neoplasia de pulmón de células no pequeñas ( NPNPC	normalName:neoplasia_de_pulmón_de_células_no_pequeñas_(_npnpc	predictedType:MOR_NEO	q:true	qid:Q1229	docId:S1983-80422014000300014	origText:neoplasia de pulmón de células no pequeñas ( NPNPC	url:NaN
+CANDIDATE	id:80463	inCount:0	outCount:1	links:	url:8046/3	name:Carcinoma, no de clulas pequeas	normalName:carcinoma,_no_de_clulas_pequeas	normalWikiTitle:carcinoma,_no_de_clulas_pequeas	predictedType:MOR_NEO
+CANDIDATE	id:80466	inCount:0	outCount:1	links:	url:8046/6	name:Carcinoma, no de clulas pequeas, metstasis	normalName:carcinoma,_no_de_clulas_pequeas,_metstasis	normalWikiTitle:carcinoma,_no_de_clulas_pequeas,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:80453	inCount:0	outCount:1	links:	url:8045/3	name:Carcinoma combinado de clulas pequeas	normalName:carcinoma_combinado_de_clulas_pequeas	normalWikiTitle:carcinoma_combinado_de_clulas_pequeas	predictedType:MOR_NEO
+CANDIDATE	id:80456	inCount:0	outCount:1	links:	url:8045/6	name:Carcinoma combinado de clulas pequeas, metstasis	normalName:carcinoma_combinado_de_clulas_pequeas,_metstasis	normalWikiTitle:carcinoma_combinado_de_clulas_pequeas,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:80023	inCount:0	outCount:1	links:	url:8002/3	name:Tumor maligno de clulas pequeas	normalName:tumor_maligno_de_clulas_pequeas	normalWikiTitle:tumor_maligno_de_clulas_pequeas	predictedType:MOR_NEO
+CANDIDATE	id:80413	inCount:0	outCount:1	links:	url:8041/3	name:Carcinoma de clulas pequeas, SAI	normalName:carcinoma_de_clulas_pequeas,_sai	normalWikiTitle:carcinoma_de_clulas_pequeas,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80416	inCount:0	outCount:1	links:	url:8041/6	name:Carcinoma de clulas pequeas, SAI, metstasis	normalName:carcinoma_de_clulas_pequeas,_sai,_metstasis	normalWikiTitle:carcinoma_de_clulas_pequeas,_sai,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:85500	inCount:0	outCount:1	links:	url:8550/0	name:Adenoma de clulas acinosasAdenoma de clulas acnicas	normalName:adenoma_de_clulas_acinosasadenoma_de_clulas_acnicas	normalWikiTitle:adenoma_de_clulas_acinosasadenoma_de_clulas_acnicas	predictedType:MOR_NEO
+CANDIDATE	id:80443	inCount:0	outCount:1	links:	url:8044/3	name:Carcinoma de clulas pequeas, tipo intermedio	normalName:carcinoma_de_clulas_pequeas,_tipo_intermedio	normalWikiTitle:carcinoma_de_clulas_pequeas,_tipo_intermedio	predictedType:MOR_NEO
+CANDIDATE	id:91853	inCount:0	outCount:1	links:	url:9185/3	name:Osteosarcoma de clulas pequeas	normalName:osteosarcoma_de_clulas_pequeas	normalWikiTitle:osteosarcoma_de_clulas_pequeas	predictedType:MOR_NEO
+CANDIDATE	id:7800	inCount:3	outCount:1	links:	url:C78.0	name:Neoplasia maligna secundaria de pulmón	normalName:neoplasia_maligna_secundaria_de_pulmón	normalWikiTitle:neoplasia_maligna_secundaria_de_pulmón	predictedType:MOR_NEO
+CANDIDATE	id:1306	inCount:0	outCount:1	links:	url:D13.6	name:Neoplasia benigna de páncreas	normalName:neoplasia_benigna_de_páncreas	normalWikiTitle:neoplasia_benigna_de_páncreas	predictedType:MOR_NEO
+CANDIDATE	id:7802	inCount:0	outCount:1	links:	url:C78.2	name:Neoplasia maligna secundaria de pleura	normalName:neoplasia_maligna_secundaria_de_pleura	normalWikiTitle:neoplasia_maligna_secundaria_de_pleura	predictedType:MOR_NEO
+CANDIDATE	id:78001	inCount:0	outCount:1	links:	url:C78.01	name:Neoplasia maligna secundaria de pulmón derecho	normalName:neoplasia_maligna_secundaria_de_pulmón_derecho	normalWikiTitle:neoplasia_maligna_secundaria_de_pulmón_derecho	predictedType:MOR_NEO
+CANDIDATE	id:25	inCount:8	outCount:1	links:	url:C25	name:Neoplasia maligna de páncreas	normalName:neoplasia_maligna_de_páncreas	normalWikiTitle:neoplasia_maligna_de_páncreas	predictedType:MOR_NEO
+CANDIDATE	id:8352	inCount:7	outCount:2	links:	url:8352	name:neoplasias pulmonares	normalName:neoplasias_pulmonares	normalWikiTitle:neoplasias_pulmonares	predictedType:MOR_NEO
+CANDIDATE	id:11426	inCount:2	outCount:2	links:	url:11426	name:neoplasias pleurales	normalName:neoplasias_pleurales	normalWikiTitle:neoplasias_pleurales	predictedType:MOR_NEO
+CANDIDATE	id:9331	inCount:14	outCount:2	links:	url:9331	name:anormalidades musculoesqueléticas	normalName:anormalidades_musculoesqueléticas	normalWikiTitle:anormalidades_musculoesqueléticas	predictedType:MOR_NEO
+CANDIDATE	id:14115	inCount:1	outCount:3	links:	url:14115	name:neoplasias testiculares	normalName:neoplasias_testiculares	normalWikiTitle:neoplasias_testiculares	predictedType:MOR_NEO
+CANDIDATE	id:31265	inCount:6	outCount:2	links:	url:31265	name:neoplasias neuroepiteliales	normalName:neoplasias_neuroepiteliales	normalWikiTitle:neoplasias_neuroepiteliales	predictedType:MOR_NEO
+CANDIDATE	id:31583	inCount:0	outCount:1	links:	url:31583	name:carcinoma de células pequeñas	normalName:carcinoma_de_células_pequeñas	normalWikiTitle:carcinoma_de_células_pequeñas	predictedType:MOR_NEO
+CANDIDATE	id:34186	inCount:0	outCount:2	links:	url:34186	name:polineuropatía paraneoplásica	normalName:polineuropatía_paraneoplásica	normalWikiTitle:polineuropatía_paraneoplásica	predictedType:MOR_NEO
+CANDIDATE	id:52848	inCount:0	outCount:1	links:	url:52848	name:bibliotecas de moléculas pequeñas	normalName:bibliotecas_de_moléculas_pequeñas	normalWikiTitle:bibliotecas_de_moléculas_pequeñas	predictedType:MOR_NEO
+CANDIDATE	id:9553	inCount:0	outCount:2	links:	url:9553	name:células neoplásicas circulantes	normalName:células_neoplásicas_circulantes	normalWikiTitle:células_neoplásicas_circulantes	predictedType:MOR_NEO
+CANDIDATE	id:24331	inCount:0	outCount:2	links:	url:24331	name:neoplasias palatinas	normalName:neoplasias_palatinas	normalWikiTitle:neoplasias_palatinas	predictedType:MOR_NEO
+CANDIDATE	id:52848	inCount:0	outCount:1	links:	url:52848	name:bancos de datos de moléculas pequeñas	normalName:bancos_de_datos_de_moléculas_pequeñas	normalWikiTitle:bancos_de_datos_de_moléculas_pequeñas	predictedType:MOR_NEO
+ENTITY	text:NPNPC	normalName:npnpc	predictedType:MOR_NEO	q:true	qid:Q1229	docId:S1983-80422014000300014	origText:NPNPC	url:NaN
+CANDIDATE	id:93611	inCount:0	outCount:1	links:	url:9361/1	name:Pineocitoma	normalName:pineocitoma	normalWikiTitle:pineocitoma	predictedType:MOR_NEO
+CANDIDATE	id:82120	inCount:0	outCount:1	links:	url:8212/0	name:Adenoma plano	normalName:adenoma_plano	normalWikiTitle:adenoma_plano	predictedType:MOR_NEO
+CANDIDATE	id:81423	inCount:0	outCount:1	links:	url:8142/3	name:Linitis plstica	normalName:linitis_plstica	normalWikiTitle:linitis_plstica	predictedType:MOR_NEO
+CANDIDATE	id:86811	inCount:0	outCount:1	links:	url:8681/1	name:Paraganglioma simptico	normalName:paraganglioma_simptico	normalWikiTitle:paraganglioma_simptico	predictedType:MOR_NEO
+CANDIDATE	id:84010	inCount:0	outCount:1	links:	url:8401/0	name:Adenoma apocrino	normalName:adenoma_apocrino	normalWikiTitle:adenoma_apocrino	predictedType:MOR_NEO
+CANDIDATE	id:84013	inCount:0	outCount:1	links:	url:8401/3	name:Adenocarcinoma apocrino	normalName:adenocarcinoma_apocrino	normalWikiTitle:adenocarcinoma_apocrino	predictedType:MOR_NEO
+CANDIDATE	id:85060	inCount:0	outCount:1	links:	url:8506/0	name:Adenoma del pezn	normalName:adenoma_del_pezn	normalWikiTitle:adenoma_del_pezn	predictedType:MOR_NEO
+CANDIDATE	id:91703	inCount:0	outCount:1	links:	url:9170/3	name:Linfangiosarcoma	normalName:linfangiosarcoma	normalWikiTitle:linfangiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:93601	inCount:0	outCount:1	links:	url:9360/1	name:Pinealoma	normalName:pinealoma	normalWikiTitle:pinealoma	predictedType:MOR_NEO
+CANDIDATE	id:83143	inCount:0	outCount:1	links:	url:8314/3	name:Carcinoma rico en lpidos	normalName:carcinoma_rico_en_lpidos	normalWikiTitle:carcinoma_rico_en_lpidos	predictedType:MOR_NEO
+CANDIDATE	id:94733	inCount:0	outCount:1	links:	url:9473/3	name:TNEPC	normalName:tnepc	normalWikiTitle:tnepc	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:0	outCount:1	links:	url:8000/3	name:Cncer	normalName:cncer	normalWikiTitle:cncer	predictedType:MOR_NEO
+CANDIDATE	id:20	inCount:0	outCount:1	links:	url:C20	name:Neoplasia maligna de recto	normalName:neoplasia_maligna_de_recto	normalWikiTitle:neoplasia_maligna_de_recto	predictedType:MOR_NEO
+CANDIDATE	id:6707	inCount:0	outCount:1	links:	url:C67.7	name:Neoplasia maligna de uraco	normalName:neoplasia_maligna_de_uraco	normalWikiTitle:neoplasia_maligna_de_uraco	predictedType:MOR_NEO
+CANDIDATE	id:7203	inCount:3	outCount:1	links:	url:C72.3	name:Neoplasia maligna de nervio óptico	normalName:neoplasia_maligna_de_nervio_óptico	normalWikiTitle:neoplasia_maligna_de_nervio_óptico	predictedType:MOR_NEO
+CANDIDATE	id:9	inCount:50	outCount:1	links:	url:D00-D09	name:NEOPLASIAS IN SITU 	normalName:neoplasias_in_situ_	normalWikiTitle:neoplasias_in_situ_	predictedType:MOR_NEO
+CANDIDATE	id:1208	inCount:0	outCount:1	links:	url:D12.8	name:Neoplasia benigna de recto	normalName:neoplasia_benigna_de_recto	normalWikiTitle:neoplasia_benigna_de_recto	predictedType:MOR_NEO
+CANDIDATE	id:10387	inCount:0	outCount:1	links:	url:10387	name:pánico	normalName:pánico	normalWikiTitle:pánico	predictedType:MOR_NEO
+CANDIDATE	id:1071	inCount:0	outCount:1	links:	url:1071	name:apéndice	normalName:apéndice	normalWikiTitle:apéndice	predictedType:MOR_NEO
+CANDIDATE	id:1964	inCount:0	outCount:2	links:	url:1964	name:pan	normalName:pan	normalWikiTitle:pan	predictedType:MOR_NEO
+CANDIDATE	id:9085	inCount:0	outCount:1	links:	url:9085	name:Panicum	normalName:panicum	normalWikiTitle:panicum	predictedType:MOR_NEO
+CANDIDATE	id:9550	inCount:0	outCount:1	links:	url:9550	name:neón	normalName:neón	normalWikiTitle:neón	predictedType:MOR_NEO
+CANDIDATE	id:10367	inCount:3	outCount:1	links:	url:10367	name:páncreas	normalName:páncreas	normalWikiTitle:páncreas	predictedType:MOR_NEO
+CANDIDATE	id:32117	inCount:0	outCount:1	links:	url:32117	name:Neptuno	normalName:neptuno	normalWikiTitle:neptuno	predictedType:MOR_NEO
+CANDIDATE	id:33281	inCount:0	outCount:1	links:	url:33281	name:Pan paniscus	normalName:pan_paniscus	normalWikiTitle:pan_paniscus	predictedType:MOR_NEO
+CANDIDATE	id:980	inCount:0	outCount:1	links:	url:980	name:antipaína	normalName:antipaína	normalWikiTitle:antipaína	predictedType:MOR_NEO
+CANDIDATE	id:4854	inCount:0	outCount:1	links:	url:4854	name:entropión	normalName:entropión	normalWikiTitle:entropión	predictedType:MOR_NEO
+CANDIDATE	id:30536	inCount:7	outCount:1	links:	url:30536	name:RNPnp	normalName:rnpnp	normalWikiTitle:rnpnp	predictedType:MOR_NEO
+CANDIDATE	id:34504	inCount:0	outCount:1	links:	url:34504	name:RNPnop	normalName:rnpnop	normalWikiTitle:rnpnop	predictedType:MOR_NEO
+CANDIDATE	id:8325	inCount:0	outCount:1	links:	url:8325	name:PNCI	normalName:pnci	normalWikiTitle:pnci	predictedType:MOR_NEO
+CANDIDATE	id:30532	inCount:0	outCount:2	links:	url:30532	name:RNPnp U5	normalName:rnpnp_u5	normalWikiTitle:rnpnp_u5	predictedType:MOR_NEO
+CANDIDATE	id:30533	inCount:0	outCount:1	links:	url:30533	name:RNPnp U4	normalName:rnpnp_u4	normalWikiTitle:rnpnp_u4	predictedType:MOR_NEO
+CANDIDATE	id:30533	inCount:0	outCount:1	links:	url:30533	name:RNPnp U6	normalName:rnpnp_u6	normalWikiTitle:rnpnp_u6	predictedType:MOR_NEO
+CANDIDATE	id:30534	inCount:0	outCount:2	links:	url:30534	name:RNPnp U2	normalName:rnpnp_u2	normalWikiTitle:rnpnp_u2	predictedType:MOR_NEO
+CANDIDATE	id:30535	inCount:0	outCount:2	links:	url:30535	name:RNPnp U1	normalName:rnpnp_u1	normalWikiTitle:rnpnp_u1	predictedType:MOR_NEO
+CANDIDATE	id:34505	inCount:0	outCount:1	links:	url:34505	name:RNPnp U7	normalName:rnpnp_u7	normalWikiTitle:rnpnp_u7	predictedType:MOR_NEO

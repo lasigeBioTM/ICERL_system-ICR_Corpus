@@ -1,0 +1,10 @@
+T1	11	adenocarcinoma	['238', '8401/3', '8413/3', '238', '8933/3', '8140/3', '8262/3', '8440/3', '8333/3', '8410/3', '8211/3', '8160/3']
+#1	AnnotatorNotes T1
+T2	12	câncer	['9562', '8000/3', '9562']
+#2	AnnotatorNotes T2
+T3	13	câncer	['9562', '8000/3', '9562']
+#3	AnnotatorNotes T3
+T4	21	câncer	['9562', '8000/3', '9562']
+#4	AnnotatorNotes T4
+T5	61	câncer	['9562', '8000/3', '9562']
+#5	AnnotatorNotes T5

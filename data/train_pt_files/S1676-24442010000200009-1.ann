@@ -1,0 +1,4 @@
+T1	MORFOLOGIA_NEOPLASIA 78 99 11	carcinoma epidermoide
+T1	11	carcinoma epidermoide	['8576/3', '8050/3', '8230/3', '8510/3', '8020/3', '8010/9', '8010/3', '8095/3', '2337', '8430/3', '8314/3']
+T2	MORFOLOGIA_NEOPLASIA 105 143 12	carcinoma esfomear pequenas célula nem
+T2	12	carcinoma esfomear pequenas célula nem	['2320', '8171/3', '8170/3', '8046/3', '8310/3', '8041/3', '8070/3', '31855', '31599', '31684', '8032/3', '31583', '57577', '8052/3', '2335', '53059', '31722', '31589', '31586', '2320', '8043/3', '8172/3']

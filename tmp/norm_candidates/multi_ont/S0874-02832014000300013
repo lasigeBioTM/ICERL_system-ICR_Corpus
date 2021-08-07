@@ -1,0 +1,20 @@
+ENTITY	text:Neoplasia Intraepitelial	normalName:neoplasia_intraepitelial	predictedType:MOR_NEO	q:true	qid:Q802	docId:S0874-02832014000300013	origText:Neoplasia Intraepitelial	url:NaN
+CANDIDATE	id:80823	inCount:0	outCount:1	links:	url:8082/3	name:Carcinoma linfoepitelial	normalName:carcinoma_linfoepitelial	normalWikiTitle:carcinoma_linfoepitelial	predictedType:MOR_NEO
+CANDIDATE	id:81201	inCount:0	outCount:1	links:	url:8120/1	name:Papiloma urotelial, SAI	normalName:papiloma_urotelial,_sai	normalWikiTitle:papiloma_urotelial,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85623	inCount:0	outCount:1	links:	url:8562/3	name:Carcinoma epitelial-mioepitelial	normalName:carcinoma_epitelial-mioepitelial	normalWikiTitle:carcinoma_epitelial-mioepitelial	predictedType:MOR_NEO
+CANDIDATE	id:94130	inCount:0	outCount:1	links:	url:9413/0	name:Tumor neuroepitelial disembrioplsico	normalName:tumor_neuroepitelial_disembrioplsico	normalWikiTitle:tumor_neuroepitelial_disembrioplsico	predictedType:MOR_NEO
+CANDIDATE	id:95036	inCount:0	outCount:1	links:	url:9503/6	name:Neuroepitelioma, SAI, metstasis	normalName:neuroepitelioma,_sai,_metstasis	normalWikiTitle:neuroepitelioma,_sai,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:80110	inCount:0	outCount:1	links:	url:8011/0	name:Epitelioma benigno	normalName:epitelioma_benigno	normalWikiTitle:epitelioma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:81630	inCount:0	outCount:1	links:	url:8163/0	name:Neoplasia pancreatobiliar, no invasiva	normalName:neoplasia_pancreatobiliar,_no_invasiva	normalWikiTitle:neoplasia_pancreatobiliar,_no_invasiva	predictedType:MOR_NEO
+CANDIDATE	id:85626	inCount:0	outCount:1	links:	url:8562/6	name:Carcinoma epitelial-mioepitelial, metstasis	normalName:carcinoma_epitelial-mioepitelial,_metstasis	normalWikiTitle:carcinoma_epitelial-mioepitelial,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:89830	inCount:0	outCount:1	links:	url:8983/0	name:Adenomioepitelioma	normalName:adenomioepitelioma	normalWikiTitle:adenomioepitelioma	predictedType:MOR_NEO
+CANDIDATE	id:80100	inCount:0	outCount:1	links:	url:8010/0	name:Tumor epitelial benigno	normalName:tumor_epitelial_benigno	normalWikiTitle:tumor_epitelial_benigno	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:	url:8000/6	name:Neoplasia secundaria	normalName:neoplasia_secundaria	normalWikiTitle:neoplasia_secundaria	predictedType:MOR_NEO
+CANDIDATE	id:80702	inCount:0	outCount:1	links:	url:8070/2	name:Carcinoma intraepitelial de clulas escamosas	normalName:carcinoma_intraepitelial_de_clulas_escamosas	normalWikiTitle:carcinoma_intraepitelial_de_clulas_escamosas	predictedType:MOR_NEO
+CANDIDATE	id:93913	inCount:0	outCount:1	links:	url:9391/3	name:Ependimoma epitelial	normalName:ependimoma_epitelial	normalWikiTitle:ependimoma_epitelial	predictedType:MOR_NEO
+CANDIDATE	id:23	inCount:9	outCount:1	links:	url:D23	name:Otras neoplasias benignas de piel	normalName:otras_neoplasias_benignas_de_piel	normalWikiTitle:otras_neoplasias_benignas_de_piel	predictedType:MOR_NEO
+CANDIDATE	id:6902	inCount:3	outCount:1	links:	url:C69.2	name:Neoplasia maligna de retina	normalName:neoplasia_maligna_de_retina	normalWikiTitle:neoplasia_maligna_de_retina	predictedType:MOR_NEO
+CANDIDATE	id:3102	inCount:3	outCount:1	links:	url:D31.2	name:Neoplasia benigna de retina	normalName:neoplasia_benigna_de_retina	normalWikiTitle:neoplasia_benigna_de_retina	predictedType:MOR_NEO
+CANDIDATE	id:65	inCount:3	outCount:1	links:	url:C65	name:Neoplasia maligna de pelvis renal	normalName:neoplasia_maligna_de_pelvis_renal	normalWikiTitle:neoplasia_maligna_de_pelvis_renal	predictedType:MOR_NEO
+CANDIDATE	id:3001	inCount:3	outCount:1	links:	url:D30.1	name:Neoplasia benigna de pelvis renal	normalName:neoplasia_benigna_de_pelvis_renal	normalWikiTitle:neoplasia_benigna_de_pelvis_renal	predictedType:MOR_NEO
+CANDIDATE	id:2330	inCount:4	outCount:1	links:	url:2330	name:neoplasia intraepitelial	normalName:neoplasia_intraepitelial	normalWikiTitle:neoplasia_intraepitelial	predictedType:MOR_NEO

@@ -1,0 +1,8 @@
+T1	21	cáncer	['9562', '8000/3', '9562']
+#1	AnnotatorNotes T1
+T2	41	cáncer	['9562', '8000/3', '9562']
+#2	AnnotatorNotes T2
+T3	51	leucemia linfocítica aguda	['52571', '9891/3', '9860/3', '9832/3', '9833/3', '9820/3', '9946/3', '9834/3', '9867/3', '9945/3', '52571', '9811/3']
+#3	AnnotatorNotes T3
+T4	52	cáncer	['9562', '8000/3', '9562']
+#4	AnnotatorNotes T4

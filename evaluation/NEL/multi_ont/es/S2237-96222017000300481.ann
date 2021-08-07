@@ -1,0 +1,10 @@
+T1	11	malignidad	['8000/3', '8000/3', '9562']
+#1	AnnotatorNotes T1
+T2	21	Cáncer	['8000/3', '8000/3', '9562']
+#2	AnnotatorNotes T2
+T3	31	malignidad	['8000/3', '8000/3', '9562']
+#3	AnnotatorNotes T3
+T4	41	neoplasias	['8000/3', '8000/3', '9562', '9500/3', '9570/0', '9362/3', '9503/3', '8000/0', '8000/6', '8971/3', '8820/0', '8960/3']
+#4	AnnotatorNotes T4
+T5	42	malignidad	['8000/3', '8000/3', '9562']
+#5	AnnotatorNotes T5

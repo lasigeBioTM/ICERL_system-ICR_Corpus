@@ -1,0 +1,36 @@
+ENTITY	text:cáncer	normalName:cáncer	predictedType:MOR_NEO	q:true	qid:Q309	docId:S0102-311X2014000801537	origText:cáncer	url:NaN
+CANDIDATE	id:80003	inCount:0	outCount:1	links:80003	url:8000/3	name:Cncer	normalName:cncer	normalWikiTitle:cncer	predictedType:MOR_NEO
+CANDIDATE	id:40	inCount:10	outCount:1	links:	url:C4A	name:Carcinoma de células de Merkel	normalName:carcinoma_de_células_de_merkel	normalWikiTitle:carcinoma_de_células_de_merkel	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:0	outCount:1	links:	url:D45	name:Policitemia vera	normalName:policitemia_vera	normalWikiTitle:policitemia_vera	predictedType:MOR_NEO
+CANDIDATE	id:47002	inCount:0	outCount:1	links:	url:D47.Z2	name:Enfermedad de Castleman	normalName:enfermedad_de_castleman	normalWikiTitle:enfermedad_de_castleman	predictedType:MOR_NEO
+CANDIDATE	id:91	inCount:9	outCount:1	links:	url:C91	name:Leucemia linfoide	normalName:leucemia_linfoide	normalWikiTitle:leucemia_linfoide	predictedType:MOR_NEO
+CANDIDATE	id:22	inCount:9	outCount:1	links:	url:D22	name:Nevus melanocítico	normalName:nevus_melanocítico	normalWikiTitle:nevus_melanocítico	predictedType:MOR_NEO
+CANDIDATE	id:9562	inCount:18	outCount:3	links:	url:9562	name:cáncer	normalName:cáncer	normalWikiTitle:cáncer	predictedType:MOR_NEO
+ENTITY	text:cáncer femenino	normalName:cáncer_femenino	predictedType:MOR_NEO	q:true	qid:Q309	docId:S0102-311X2014000801537	origText:cáncer femenino	url:NaN
+CANDIDATE	id:90643	inCount:0	outCount:1	links:	url:9064/3	name:Germinoma	normalName:germinoma	normalWikiTitle:germinoma	predictedType:MOR_NEO
+CANDIDATE	id:84200	inCount:0	outCount:1	links:	url:8420/0	name:Adenoma ceruminoso	normalName:adenoma_ceruminoso	normalWikiTitle:adenoma_ceruminoso	predictedType:MOR_NEO
+CANDIDATE	id:91210	inCount:0	outCount:1	links:	url:9121/0	name:Hemangioma cavernoso	normalName:hemangioma_cavernoso	normalWikiTitle:hemangioma_cavernoso	predictedType:MOR_NEO
+CANDIDATE	id:92433	inCount:0	outCount:1	links:	url:9243/3	name:Condrosarcoma desdiferenciado	normalName:condrosarcoma_desdiferenciado	normalWikiTitle:condrosarcoma_desdiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:93501	inCount:0	outCount:1	links:	url:9350/1	name:Craneofaringioma	normalName:craneofaringioma	normalWikiTitle:craneofaringioma	predictedType:MOR_NEO
+CANDIDATE	id:84133	inCount:0	outCount:1	links:	url:8413/3	name:Adenocarcinoma ecrino	normalName:adenocarcinoma_ecrino	normalWikiTitle:adenocarcinoma_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:84203	inCount:0	outCount:1	links:	url:8420/3	name:Adenocarcinoma ceruminoso	normalName:adenocarcinoma_ceruminoso	normalWikiTitle:adenocarcinoma_ceruminoso	predictedType:MOR_NEO
+CANDIDATE	id:86300	inCount:0	outCount:1	links:	url:8630/0	name:Androblastoma benigno	normalName:androblastoma_benigno	normalWikiTitle:androblastoma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:90603	inCount:0	outCount:1	links:	url:9060/3	name:Disgerminoma	normalName:disgerminoma	normalWikiTitle:disgerminoma	predictedType:MOR_NEO
+CANDIDATE	id:81603	inCount:0	outCount:1	links:	url:8160/3	name:Colangiocarcinoma	normalName:colangiocarcinoma	normalWikiTitle:colangiocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:0	outCount:1	links:80003	url:8000/3	name:Cncer	normalName:cncer	normalWikiTitle:cncer	predictedType:MOR_NEO
+CANDIDATE	id:9509	inCount:3	outCount:1	links:	url:C95.9	name:Leucemia, no especificada	normalName:leucemia,_no_especificada	normalWikiTitle:leucemia,_no_especificada	predictedType:MOR_NEO
+CANDIDATE	id:1800	inCount:5	outCount:1	links:	url:D18.0	name:Hemangioma	normalName:hemangioma	normalWikiTitle:hemangioma	predictedType:MOR_NEO
+CANDIDATE	id:9301	inCount:3	outCount:1	links:	url:C93.1	name:Leucemia mielomonocítica crónica	normalName:leucemia_mielomonocítica_crónica	normalWikiTitle:leucemia_mielomonocítica_crónica	predictedType:MOR_NEO
+CANDIDATE	id:3200	inCount:0	outCount:1	links:	url:D32.0	name:Neoplasia benigna de meninges cerebrales	normalName:neoplasia_benigna_de_meninges_cerebrales	normalWikiTitle:neoplasia_benigna_de_meninges_cerebrales	predictedType:MOR_NEO
+CANDIDATE	id:6901	inCount:3	outCount:1	links:	url:C69.1	name:Neoplasia maligna de córnea	normalName:neoplasia_maligna_de_córnea	normalWikiTitle:neoplasia_maligna_de_córnea	predictedType:MOR_NEO
+CANDIDATE	id:32794	inCount:0	outCount:1	links:	url:32794	name:condones femeninos	normalName:condones_femeninos	normalWikiTitle:condones_femeninos	predictedType:MOR_NEO
+CANDIDATE	id:3290	inCount:6	outCount:1	links:	url:3290	name:anticonceptivos femeninos	normalName:anticonceptivos_femeninos	normalWikiTitle:anticonceptivos_femeninos	predictedType:MOR_NEO
+CANDIDATE	id:26222	inCount:0	outCount:1	links:	url:26222	name:cancerinismo	normalName:cancerinismo	normalWikiTitle:cancerinismo	predictedType:MOR_NEO
+CANDIDATE	id:2754	inCount:0	outCount:1	links:	url:2754	name:clorfenvinfos	normalName:clorfenvinfos	normalWikiTitle:clorfenvinfos	predictedType:MOR_NEO
+CANDIDATE	id:32805	inCount:0	outCount:3	links:	url:32805	name:circuncisión femenina	normalName:circuncisión_femenina	normalWikiTitle:circuncisión_femenina	predictedType:MOR_NEO
+CANDIDATE	id:2609	inCount:0	outCount:1	links:	url:2609	name:cerulenina	normalName:cerulenina	normalWikiTitle:cerulenina	predictedType:MOR_NEO
+CANDIDATE	id:14824	inCount:0	outCount:2	links:	url:14824	name:trementina	normalName:trementina	normalWikiTitle:trementina	predictedType:MOR_NEO
+CANDIDATE	id:29337	inCount:0	outCount:2	links:	url:29337	name:cementación	normalName:cementación	normalWikiTitle:cementación	predictedType:MOR_NEO
+CANDIDATE	id:51807	inCount:2	outCount:1	links:	url:51807	name:cáncer profesional	normalName:cáncer_profesional	normalWikiTitle:cáncer_profesional	predictedType:MOR_NEO
+CANDIDATE	id:57587	inCount:0	outCount:1	links:	url:57587	name:cetrimonio	normalName:cetrimonio	normalWikiTitle:cetrimonio	predictedType:MOR_NEO
+CANDIDATE	id:10605	inCount:0	outCount:2	links:	url:10605	name:Cáncer Peniano	normalName:cáncer_peniano	normalWikiTitle:cáncer_peniano	predictedType:MOR_NEO

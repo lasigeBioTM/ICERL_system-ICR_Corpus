@@ -1,0 +1,42 @@
+ENTITY	text:cáncer cérvicouterino	normalName:cáncer_cérvicouterino	predictedType:MOR_NEO	q:true	qid:Q853	docId:S1409-45682017000100026	origText:cáncer cérvicouterino	url:NaN
+CANDIDATE	id:82000	inCount:0	outCount:1	links:	url:8200/0	name:Cilindroma ecrino drmico	normalName:cilindroma_ecrino_drmico	normalWikiTitle:cilindroma_ecrino_drmico	predictedType:MOR_NEO
+CANDIDATE	id:84133	inCount:0	outCount:1	links:	url:8413/3	name:Adenocarcinoma ecrino	normalName:adenocarcinoma_ecrino	normalWikiTitle:adenocarcinoma_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:84203	inCount:0	outCount:1	links:	url:8420/3	name:Adenocarcinoma ceruminoso	normalName:adenocarcinoma_ceruminoso	normalWikiTitle:adenocarcinoma_ceruminoso	predictedType:MOR_NEO
+CANDIDATE	id:95213	inCount:0	outCount:1	links:	url:9521/3	name:Neurocitoma olfatorio	normalName:neurocitoma_olfatorio	normalWikiTitle:neurocitoma_olfatorio	predictedType:MOR_NEO
+CANDIDATE	id:89813	inCount:0	outCount:1	links:	url:8981/3	name:Carcinosarcoma embrionario	normalName:carcinosarcoma_embrionario	normalWikiTitle:carcinosarcoma_embrionario	predictedType:MOR_NEO
+CANDIDATE	id:91953	inCount:0	outCount:1	links:	url:9195/3	name:Osteosarcoma intracortical	normalName:osteosarcoma_intracortical	normalWikiTitle:osteosarcoma_intracortical	predictedType:MOR_NEO
+CANDIDATE	id:84013	inCount:0	outCount:1	links:	url:8401/3	name:Adenocarcinoma apocrino	normalName:adenocarcinoma_apocrino	normalWikiTitle:adenocarcinoma_apocrino	predictedType:MOR_NEO
+CANDIDATE	id:84803	inCount:0	outCount:1	links:	url:8480/3	name:Adenocarcinoma mucinoso	normalName:adenocarcinoma_mucinoso	normalWikiTitle:adenocarcinoma_mucinoso	predictedType:MOR_NEO
+CANDIDATE	id:90633	inCount:0	outCount:1	links:	url:9063/3	name:Seminoma espermatoctico	normalName:seminoma_espermatoctico	normalWikiTitle:seminoma_espermatoctico	predictedType:MOR_NEO
+CANDIDATE	id:90713	inCount:0	outCount:1	links:	url:9071/3	name:Tumor del saco vitelino	normalName:tumor_del_saco_vitelino	normalWikiTitle:tumor_del_saco_vitelino	predictedType:MOR_NEO
+CANDIDATE	id:8206	inCount:10	outCount:1	links:	url:C82.6	name:Linfoma centrofolicular cutáneo	normalName:linfoma_centrofolicular_cutáneo	normalWikiTitle:linfoma_centrofolicular_cutáneo	predictedType:MOR_NEO
+CANDIDATE	id:82067	inCount:0	outCount:1	links:	url:C82.67	name:Linfoma centrofolicular cutáneo, bazo	normalName:linfoma_centrofolicular_cutáneo,_bazo	normalWikiTitle:linfoma_centrofolicular_cutáneo,_bazo	predictedType:MOR_NEO
+CANDIDATE	id:300093	inCount:0	outCount:1	links:	url:D3A.093	name:Tumor carcinoide benigno de riñón	normalName:tumor_carcinoide_benigno_de_riñón	normalWikiTitle:tumor_carcinoide_benigno_de_riñón	predictedType:MOR_NEO
+CANDIDATE	id:609	inCount:0	outCount:1	links:	url:D06.9	name:Carcinoma in situ de cuello uterino,no especificado	normalName:carcinoma_in_situ_de_cuello_uterino,no_especificado	normalWikiTitle:carcinoma_in_situ_de_cuello_uterino,no_especificado	predictedType:MOR_NEO
+CANDIDATE	id:2205	inCount:0	outCount:1	links:	url:D22.5	name:Nevus melanocítico de tronco	normalName:nevus_melanocítico_de_tronco	normalWikiTitle:nevus_melanocítico_de_tronco	predictedType:MOR_NEO
+CANDIDATE	id:14675	inCount:4	outCount:1	links:	url:14675	name:nervio trigémino	normalName:nervio_trigémino	normalWikiTitle:nervio_trigémino	predictedType:MOR_NEO
+CANDIDATE	id:14994	inCount:0	outCount:1	links:	url:14994	name:inercia uterina	normalName:inercia_uterina	normalWikiTitle:inercia_uterina	predictedType:MOR_NEO
+CANDIDATE	id:10733	inCount:0	outCount:1	links:	url:10733	name:nervio peroneo	normalName:nervio_peroneo	normalWikiTitle:nervio_peroneo	predictedType:MOR_NEO
+CANDIDATE	id:54423	inCount:0	outCount:1	links:	url:54423	name:nervio pudendo	normalName:nervio_pudendo	normalWikiTitle:nervio_pudendo	predictedType:MOR_NEO
+CANDIDATE	id:290	inCount:4	outCount:1	links:	url:290	name:anexos uterinos	normalName:anexos_uterinos	normalWikiTitle:anexos_uterinos	predictedType:MOR_NEO
+CANDIDATE	id:9610	inCount:2	outCount:1	links:	url:9610	name:tejido nervioso	normalName:tejido_nervioso	normalWikiTitle:tejido_nervioso	predictedType:MOR_NEO
+CANDIDATE	id:14991	inCount:0	outCount:2	links:	url:14991	name:contracción uterina	normalName:contracción_uterina	normalWikiTitle:contracción_uterina	predictedType:MOR_NEO
+CANDIDATE	id:10080	inCount:2	outCount:1	links:	url:10080	name:nervio óptico	normalName:nervio_óptico	normalWikiTitle:nervio_óptico	predictedType:MOR_NEO
+CANDIDATE	id:60	inCount:0	outCount:1	links:	url:60	name:nervio accesorio	normalName:nervio_accesorio	normalWikiTitle:nervio_accesorio	predictedType:MOR_NEO
+CANDIDATE	id:1959	inCount:4	outCount:1	links:	url:1959	name:tronco encefálico	normalName:tronco_encefálico	normalWikiTitle:tronco_encefálico	predictedType:MOR_NEO
+CANDIDATE	id:36298	inCount:0	outCount:1	links:	url:36298	name:Cerclaje Cérvico Uterino	normalName:cerclaje_cérvico_uterino	normalWikiTitle:cerclaje_cérvico_uterino	predictedType:MOR_NEO
+CANDIDATE	id:36298	inCount:0	outCount:1	links:	url:36298	name:cerclaje cérvico uterino	normalName:cerclaje_cérvico_uterino	normalWikiTitle:cerclaje_cérvico_uterino	predictedType:MOR_NEO
+CANDIDATE	id:14995	inCount:2	outCount:2	links:	url:14995	name:Cáncer Uterino	normalName:cáncer_uterino	normalWikiTitle:cáncer_uterino	predictedType:MOR_NEO
+CANDIDATE	id:14995	inCount:2	outCount:2	links:	url:14995	name:cáncer uterino	normalName:cáncer_uterino	normalWikiTitle:cáncer_uterino	predictedType:MOR_NEO
+CANDIDATE	id:2624	inCount:0	outCount:1	links:	url:2624	name:Cérvix Uterino	normalName:cérvix_uterino	normalWikiTitle:cérvix_uterino	predictedType:MOR_NEO
+CANDIDATE	id:2624	inCount:0	outCount:1	links:	url:2624	name:cérvix uterino	normalName:cérvix_uterino	normalWikiTitle:cérvix_uterino	predictedType:MOR_NEO
+CANDIDATE	id:2623	inCount:0	outCount:2	links:	url:2623	name:Cáncer de Cuello Uterino	normalName:cáncer_de_cuello_uterino	normalWikiTitle:cáncer_de_cuello_uterino	predictedType:MOR_NEO
+CANDIDATE	id:2623	inCount:0	outCount:2	links:	url:2623	name:cáncer de cuello uterino	normalName:cáncer_de_cuello_uterino	normalWikiTitle:cáncer_de_cuello_uterino	predictedType:MOR_NEO
+ENTITY	text:cáncer	normalName:cáncer	predictedType:MOR_NEO	q:true	qid:Q853	docId:S1409-45682017000100026	origText:cáncer	url:NaN
+CANDIDATE	id:80003	inCount:0	outCount:1	links:	url:8000/3	name:Cncer	normalName:cncer	normalWikiTitle:cncer	predictedType:MOR_NEO
+CANDIDATE	id:40	inCount:10	outCount:1	links:	url:C4A	name:Carcinoma de células de Merkel	normalName:carcinoma_de_células_de_merkel	normalWikiTitle:carcinoma_de_células_de_merkel	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:0	outCount:1	links:	url:D45	name:Policitemia vera	normalName:policitemia_vera	normalWikiTitle:policitemia_vera	predictedType:MOR_NEO
+CANDIDATE	id:47002	inCount:0	outCount:1	links:	url:D47.Z2	name:Enfermedad de Castleman	normalName:enfermedad_de_castleman	normalWikiTitle:enfermedad_de_castleman	predictedType:MOR_NEO
+CANDIDATE	id:91	inCount:9	outCount:1	links:	url:C91	name:Leucemia linfoide	normalName:leucemia_linfoide	normalWikiTitle:leucemia_linfoide	predictedType:MOR_NEO
+CANDIDATE	id:22	inCount:9	outCount:1	links:	url:D22	name:Nevus melanocítico	normalName:nevus_melanocítico	normalWikiTitle:nevus_melanocítico	predictedType:MOR_NEO
+CANDIDATE	id:9562	inCount:18	outCount:3	links:	url:9562	name:cáncer	normalName:cáncer	normalWikiTitle:cáncer	predictedType:MOR_NEO

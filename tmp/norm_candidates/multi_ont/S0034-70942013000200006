@@ -1,0 +1,26 @@
+ENTITY	text:tumores epidermoides	normalName:tumores_epidermoides	predictedType:MOR_NEO	q:true	qid:Q23	docId:S0034-70942013000200006	origText:tumores epidermoides	url:NaN
+CANDIDATE	id:84301	inCount:0	outCount:1	links:	url:8430/1	name:Tumor mucoepidermoide	normalName:tumor_mucoepidermoide	normalWikiTitle:tumor_mucoepidermoide	predictedType:MOR_NEO
+CANDIDATE	id:80703	inCount:0	outCount:1	links:	url:8070/3	name:Carcinoma epidermoide, SAI	normalName:carcinoma_epidermoide,_sai	normalWikiTitle:carcinoma_epidermoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84303	inCount:0	outCount:1	links:	url:8430/3	name:Carcinoma mucoepidermoide	normalName:carcinoma_mucoepidermoide	normalWikiTitle:carcinoma_mucoepidermoide	predictedType:MOR_NEO
+CANDIDATE	id:80520	inCount:0	outCount:1	links:	url:8052/0	name:Papiloma epidermoide, SAI	normalName:papiloma_epidermoide,_sai	normalWikiTitle:papiloma_epidermoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84306	inCount:0	outCount:1	links:	url:8430/6	name:Carcinoma mucoepidermoide, metstasis	normalName:carcinoma_mucoepidermoide,_metstasis	normalWikiTitle:carcinoma_mucoepidermoide,_metstasis	predictedType:MOR_NEO
+CANDIDATE	id:80783	inCount:0	outCount:1	links:	url:8078/3	name:Carcinoma epidermoide con formacin crnea	normalName:carcinoma_epidermoide_con_formacin_crnea	normalWikiTitle:carcinoma_epidermoide_con_formacin_crnea	predictedType:MOR_NEO
+CANDIDATE	id:97003	inCount:0	outCount:1	links:	url:9700/3	name:Micosis fungoide	normalName:micosis_fungoide	normalWikiTitle:micosis_fungoide	predictedType:MOR_NEO
+CANDIDATE	id:80702	inCount:0	outCount:1	links:	url:8070/2	name:Carcinoma epidermoide in situ, SAI	normalName:carcinoma_epidermoide_in_situ,_sai	normalWikiTitle:carcinoma_epidermoide_in_situ,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80763	inCount:0	outCount:1	links:	url:8076/3	name:Carcinoma epidermoide microinvasor	normalName:carcinoma_epidermoide_microinvasor	normalWikiTitle:carcinoma_epidermoide_microinvasor	predictedType:MOR_NEO
+CANDIDATE	id:95023	inCount:0	outCount:1	links:	url:9502/3	name:Meduloepitelioma teratoide	normalName:meduloepitelioma_teratoide	normalWikiTitle:meduloepitelioma_teratoide	predictedType:MOR_NEO
+CANDIDATE	id:8400	inCount:10	outCount:1	links:	url:C84.0	name:Micosis fungoide	normalName:micosis_fungoide	normalWikiTitle:micosis_fungoide	predictedType:MOR_NEO
+CANDIDATE	id:4704	inCount:0	outCount:1	links:	url:D47.4	name:Osteomielofibrosis	normalName:osteomielofibrosis	normalWikiTitle:osteomielofibrosis	predictedType:MOR_NEO
+CANDIDATE	id:46	inCount:9	outCount:1	links:	url:D46	name:Síndromes mielodisplásicos	normalName:síndromes_mielodisplásicos	normalWikiTitle:síndromes_mielodisplásicos	predictedType:MOR_NEO
+CANDIDATE	id:84007	inCount:0	outCount:1	links:	url:C84.07	name:Micosis fungoide, bazo	normalName:micosis_fungoide,_bazo	normalWikiTitle:micosis_fungoide,_bazo	predictedType:MOR_NEO
+CANDIDATE	id:9203	inCount:3	outCount:1	links:	url:C92.3	name:Sarcoma mieloide	normalName:sarcoma_mieloide	normalWikiTitle:sarcoma_mieloide	predictedType:MOR_NEO
+CANDIDATE	id:9841	inCount:2	outCount:1	links:	url:9841	name:noresteroides	normalName:noresteroides	normalWikiTitle:noresteroides	predictedType:MOR_NEO
+CANDIDATE	id:6874	inCount:1	outCount:1	links:	url:6874	name:homoesteroides	normalName:homoesteroides	normalWikiTitle:homoesteroides	predictedType:MOR_NEO
+CANDIDATE	id:13470	inCount:0	outCount:1	links:	url:13470	name:espermátides	normalName:espermátides	normalWikiTitle:espermátides	predictedType:MOR_NEO
+CANDIDATE	id:13477	inCount:6	outCount:1	links:	url:13477	name:espermatozoides	normalName:espermatozoides	normalWikiTitle:espermatozoides	predictedType:MOR_NEO
+CANDIDATE	id:30643	inCount:1	outCount:1	links:	url:30643	name:Nematospiroides	normalName:nematospiroides	normalWikiTitle:nematospiroides	predictedType:MOR_NEO
+CANDIDATE	id:31293	inCount:0	outCount:1	links:	url:31293	name:tumor mucoepidermoide	normalName:tumor_mucoepidermoide	normalWikiTitle:tumor_mucoepidermoide	predictedType:MOR_NEO
+CANDIDATE	id:4898	inCount:1	outCount:2	links:	url:4898	name:epidermis	normalName:epidermis	normalWikiTitle:epidermis	predictedType:MOR_NEO
+CANDIDATE	id:6640	inCount:0	outCount:1	links:	url:6640	name:hemosiderosis	normalName:hemosiderosis	normalWikiTitle:hemosiderosis	predictedType:MOR_NEO
+CANDIDATE	id:7832	inCount:1	outCount:1	links:	url:7832	name:cetosteroides	normalName:cetosteroides	normalWikiTitle:cetosteroides	predictedType:MOR_NEO
+CANDIDATE	id:13642	inCount:19	outCount:1	links:	url:13642	name:esteroides	normalName:esteroides	normalWikiTitle:esteroides	predictedType:MOR_NEO

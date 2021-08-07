@@ -1,0 +1,27 @@
+ENTITY	text:Cancro	normalName:cancro	predictedType:MOR_NEO	q:true	qid:Q1118	docId:S1692-72732020000100169	origText:Cancro	url:NaN
+CANDIDATE	id:91410	inCount:0	outCount:1	links:	url:9141/0	name:Angioceratoma	normalName:angioceratoma	normalWikiTitle:angioceratoma	predictedType:MOR_NEO
+CANDIDATE	id:81603	inCount:0	outCount:1	links:	url:8160/3	name:Colangiocarcinoma	normalName:colangiocarcinoma	normalWikiTitle:colangiocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:82703	inCount:0	outCount:1	links:	url:8270/3	name:Carcinoma cromfobo	normalName:carcinoma_cromfobo	normalWikiTitle:carcinoma_cromfobo	predictedType:MOR_NEO
+CANDIDATE	id:89343	inCount:0	outCount:1	links:	url:8934/3	name:Carcinofibroma	normalName:carcinofibroma	normalWikiTitle:carcinofibroma	predictedType:MOR_NEO
+CANDIDATE	id:84010	inCount:0	outCount:1	links:	url:8401/0	name:Adenoma apcrino	normalName:adenoma_apcrino	normalWikiTitle:adenoma_apcrino	predictedType:MOR_NEO
+CANDIDATE	id:93730	inCount:0	outCount:1	links:	url:9373/0	name:Paracordoma	normalName:paracordoma	normalWikiTitle:paracordoma	predictedType:MOR_NEO
+CANDIDATE	id:84133	inCount:0	outCount:1	links:	url:8413/3	name:Adenocarcinoma crino	normalName:adenocarcinoma_crino	normalWikiTitle:adenocarcinoma_crino	predictedType:MOR_NEO
+CANDIDATE	id:82700	inCount:0	outCount:1	links:	url:8270/0	name:Adenoma cromfobo	normalName:adenoma_cromfobo	normalWikiTitle:adenoma_cromfobo	predictedType:MOR_NEO
+CANDIDATE	id:93501	inCount:0	outCount:1	links:	url:9350/1	name:Craniofaringioma	normalName:craniofaringioma	normalWikiTitle:craniofaringioma	predictedType:MOR_NEO
+CANDIDATE	id:84090	inCount:0	outCount:1	links:	url:8409/0	name:Poroma crino	normalName:poroma_crino	normalWikiTitle:poroma_crino	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:0	outCount:1	links:	url:8000/3	name:Cncer	normalName:cncer	normalWikiTitle:cncer	predictedType:MOR_NEO
+CANDIDATE	id:1800	inCount:5	outCount:1	links:	url:D18.0	name:Hemangioma	normalName:hemangioma	normalWikiTitle:hemangioma	predictedType:MOR_NEO
+CANDIDATE	id:82	inCount:9	outCount:1	links:	url:C82	name:Linfoma folicular	normalName:linfoma_folicular	normalWikiTitle:linfoma_folicular	predictedType:MOR_NEO
+CANDIDATE	id:91	inCount:9	outCount:1	links:	url:C91	name:Leucemia linfoide	normalName:leucemia_linfoide	normalWikiTitle:leucemia_linfoide	predictedType:MOR_NEO
+CANDIDATE	id:7061	inCount:0	outCount:1	links:	url:D07.61	name:Carcinoma in situ de escroto	normalName:carcinoma_in_situ_de_escroto	normalWikiTitle:carcinoma_in_situ_de_escroto	predictedType:MOR_NEO
+CANDIDATE	id:22	inCount:9	outCount:1	links:	url:D22	name:Nevus melanocítico	normalName:nevus_melanocítico	normalWikiTitle:nevus_melanocítico	predictedType:MOR_NEO
+CANDIDATE	id:2644	inCount:0	outCount:1	links:	url:2644	name:chancro	normalName:chancro	normalWikiTitle:chancro	predictedType:MOR_NEO
+CANDIDATE	id:23155	inCount:0	outCount:2	links:	url:23155	name:ancrod	normalName:ancrod	normalWikiTitle:ancrod	predictedType:MOR_NEO
+CANDIDATE	id:23964	inCount:0	outCount:2	links:	url:23964	name:chancroide	normalName:chancroide	normalWikiTitle:chancroide	predictedType:MOR_NEO
+CANDIDATE	id:2133	inCount:0	outCount:3	links:	url:2133	name:cacao	normalName:cacao	normalWikiTitle:cacao	predictedType:MOR_NEO
+CANDIDATE	id:9114	inCount:7	outCount:2	links:	url:9114	name:ácaros	normalName:ácaros	normalWikiTitle:ácaros	predictedType:MOR_NEO
+CANDIDATE	id:12823	inCount:0	outCount:1	links:	url:12823	name:sacro	normalName:sacro	normalWikiTitle:sacro	predictedType:MOR_NEO
+CANDIDATE	id:13618	inCount:1	outCount:3	links:	url:13618	name:acero	normalName:acero	normalWikiTitle:acero	predictedType:MOR_NEO
+CANDIDATE	id:55078	inCount:0	outCount:1	links:	url:55078	name:canto	normalName:canto	normalWikiTitle:canto	predictedType:MOR_NEO
+CANDIDATE	id:895	inCount:0	outCount:1	links:	url:895	name:carbunco	normalName:carbunco	normalWikiTitle:carbunco	predictedType:MOR_NEO
+CANDIDATE	id:2203	inCount:0	outCount:1	links:	url:2203	name:canarios	normalName:canarios	normalWikiTitle:canarios	predictedType:MOR_NEO

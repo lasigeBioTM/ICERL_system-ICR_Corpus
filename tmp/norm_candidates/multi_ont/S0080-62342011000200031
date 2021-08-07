@@ -1,0 +1,17 @@
+ENTITY	text:Leucemia Mieloide	normalName:leucemia_mieloide	predictedType:MOR_NEO	q:true	qid:Q209	docId:S0080-62342011000200031	origText:Leucemia Mieloide	url:NaN
+CANDIDATE	id:98603	inCount:0	outCount:1	links:	url:9860/3	name:Leucemia mieloide, SAI	normalName:leucemia_mieloide,_sai	normalWikiTitle:leucemia_mieloide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98613	inCount:0	outCount:1	links:	url:9861/3	name:Leucemia mieloide aguda, SAI	normalName:leucemia_mieloide_aguda,_sai	normalWikiTitle:leucemia_mieloide_aguda,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98633	inCount:0	outCount:1	links:	url:9863/3	name:Leucemia mieloide crnica, SAI	normalName:leucemia_mieloide_crnica,_sai	normalWikiTitle:leucemia_mieloide_crnica,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98203	inCount:0	outCount:1	links:	url:9820/3	name:Leucemia linfoide, SAI	normalName:leucemia_linfoide,_sai	normalWikiTitle:leucemia_linfoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98403	inCount:0	outCount:1	links:	url:9840/3	name:Leucemia mieloide aguda tipo M6	normalName:leucemia_mieloide_aguda_tipo_m6	normalWikiTitle:leucemia_mieloide_aguda_tipo_m6	predictedType:MOR_NEO
+CANDIDATE	id:98003	inCount:0	outCount:1	links:	url:9800/3	name:Leucemia, SAI	normalName:leucemia,_sai	normalWikiTitle:leucemia,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98673	inCount:0	outCount:1	links:	url:9867/3	name:Leucemia mielomonoctica aguda	normalName:leucemia_mielomonoctica_aguda	normalWikiTitle:leucemia_mielomonoctica_aguda	predictedType:MOR_NEO
+CANDIDATE	id:98733	inCount:0	outCount:1	links:	url:9873/3	name:Leucemia mieloide aguda sin maduracin	normalName:leucemia_mieloide_aguda_sin_maduracin	normalWikiTitle:leucemia_mieloide_aguda_sin_maduracin	predictedType:MOR_NEO
+CANDIDATE	id:98743	inCount:0	outCount:1	links:	url:9874/3	name:Leucemia mieloide aguda con maduracin	normalName:leucemia_mieloide_aguda_con_maduracin	normalWikiTitle:leucemia_mieloide_aguda_con_maduracin	predictedType:MOR_NEO
+CANDIDATE	id:98973	inCount:0	outCount:1	links:	url:9897/3	name:Leucemia mieloide aguda, anomalas 11q23	normalName:leucemia_mieloide_aguda,_anomalas_11q23	normalWikiTitle:leucemia_mieloide_aguda,_anomalas_11q23	predictedType:MOR_NEO
+CANDIDATE	id:92	inCount:10	outCount:1	links:	url:C92	name:Leucemia mieloide	normalName:leucemia_mieloide	normalWikiTitle:leucemia_mieloide	predictedType:MOR_NEO
+CANDIDATE	id:91	inCount:9	outCount:1	links:	url:C91	name:Leucemia linfoide	normalName:leucemia_linfoide	normalWikiTitle:leucemia_linfoide	predictedType:MOR_NEO
+CANDIDATE	id:9200	inCount:3	outCount:1	links:	url:C92.Z	name:Otros tipos de leucemia mieloide	normalName:otros_tipos_de_leucemia_mieloide	normalWikiTitle:otros_tipos_de_leucemia_mieloide	predictedType:MOR_NEO
+CANDIDATE	id:9200	inCount:3	outCount:1	links:	url:C92.0	name:Leucemia mieloblástica aguda	normalName:leucemia_mieloblástica_aguda	normalWikiTitle:leucemia_mieloblástica_aguda	predictedType:MOR_NEO
+CANDIDATE	id:9209	inCount:3	outCount:1	links:	url:C92.9	name:Leucemia mieloide, no especificada	normalName:leucemia_mieloide,_no_especificada	normalWikiTitle:leucemia_mieloide,_no_especificada	predictedType:MOR_NEO
+CANDIDATE	id:24404	inCount:7	outCount:1	links:	url:24404	name:leucemia mieloide	normalName:leucemia_mieloide	normalWikiTitle:leucemia_mieloide	predictedType:MOR_NEO

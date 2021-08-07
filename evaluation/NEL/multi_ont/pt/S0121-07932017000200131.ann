@@ -1,0 +1,14 @@
+T1	21	Câncer	['9562', '8000/3', '9562']
+#1	AnnotatorNotes T1
+T2	22	câncer	['9562', '8000/3', '9562']
+#2	AnnotatorNotes T2
+T3	31	câncer	['9562', '8000/3', '9562']
+#3	AnnotatorNotes T3
+T4	32	carcinoma	['2320', '8337/3', '2320', '9081/3', '8231/3', '8010/3', '8300/3', '8934/3', '8102/3', '8010/9', '8042/3', '8160/3']
+#4	AnnotatorNotes T4
+T5	33	câncer	['9562', '8000/3', '9562']
+#5	AnnotatorNotes T5
+T6	34	câncer	['9562', '8000/3', '9562']
+#6	AnnotatorNotes T6
+T7	41	câncer	['9562', '8000/3', '9562']
+#7	AnnotatorNotes T7

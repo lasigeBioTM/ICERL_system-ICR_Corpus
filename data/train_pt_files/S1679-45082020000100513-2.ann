@@ -1,0 +1,4 @@
+T1	MORFOLOGIA_NEOPLASIA 123 133 11	neoplasias
+T1	11	neoplasias	['8960/3', '8970/3', '9500/3', '8000/0', '8000/3', '8000/6', '9073/1', '9362/3', '9562', '8971/3', '8820/0']
+T2	MORFOLOGIA_NEOPLASIA 498 521 41	carcinoma espinocelular
+T2	41	carcinoma espinocelular	['8070/3', '8070/3', '69', '31855', '31596', '38845', '32324', '57551', '2334', '2337', '31683', '31589', '31590']

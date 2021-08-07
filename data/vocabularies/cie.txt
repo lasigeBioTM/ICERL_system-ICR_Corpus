@@ -1,0 +1,1552 @@
+8000/0	Neoplasia benigna	Tumor benigno no clasificado	
+8000/1	Neoplasia de benignidad o malignidad incierta	Tumor no clasificado sin certeza sobre comportamiento maligno o benigno	Tumor no clasificado de malignidad borderline	Tumor, SAI	
+8000/3	Neoplasia maligna	Cáncer	Malignidad	Tumor maligno no clasificado	Tumor maligno, SAI
+8000/6	Neoplasia metastásica	Neoplasia secundaria	Tumor metastásico	Tumor secundario	
+8000/9	Neoplasia maligna, localización primaria o metastásica incierta
+8001/0	Células tumorales benignas
+8001/1	Células tumorales de benignidad o malignidad incierta
+8001/3	Células tumorales malignas
+8001/6	Células tumorales malignas, metástasis
+8002/3	Tumor maligno de células pequeñas
+8002/6	Tumor maligno de células pequeñas, metástasis
+8003/3	Tumor maligno de células gigantes
+8003/6	Tumor maligno de células gigantes, metástasis
+8004/3	Tumor maligno de células fusiformes
+8004/6	Tumor maligno de células fusiformes, metástasis
+8005/0	Tumor de células claras, SAI
+8005/3	Tumor maligno, tipo células claras
+8005/6	Tumor maligno, tipo células claras, metástasis
+8010/0	Tumor epitelial benigno
+8010/2	Carcinoma in situ, SAI	Carcinoma no infiltrante, SAI	Carcinoma no invasor, SAI
+8010/3	Carcinoma, SAI
+8010/6	Carcinoma metastásico, SAI
+8010/9	Carcinomatosis
+8011/0	Epitelioma benigno
+8011/3	Epitelioma maligno
+8011/6	Epitelioma maligno, metástasis
+8012/3	Carcinoma de células grandes, SAI
+8012/6	Carcinoma de células grandes, SAI, metástasis
+8013/3	Carcinoma neuroendocrino de células grandes
+8013/6	Carcinoma neuroendocrino de células grandes, metástasis
+8014/3	Carcinoma de células grandes con fenotipo rabdoide
+8014/6	Carcinoma de células grandes con fenotipo rabdoide, metástasis
+8015/3	Carcinoma de células vidriosas
+8015/6	Carcinoma de células vidriosas, metástasis
+8020/3	Carcinoma indiferenciado, SAI
+8020/6	Carcinoma indiferenciado, SAI, metástasis
+8021/3	Carcinoma de tipo anaplásico, SAI
+8021/6	Carcinoma de tipo anaplásico, SAI, metástasis
+8022/3	Carcinoma pleomorfo
+8022/6	Carcinoma pleomorfo, metástasis
+8030/3	Carcinoma de células gigantes y fusiformes
+8030/6	Carcinoma de células gigantes y fusiformes, metástasis
+8031/3	Carcinoma de células gigantes
+8031/6	Carcinoma de células gigantes, metástasis
+8032/3	Carcinoma de células fusiformes, SAI
+8032/6	Carcinoma de células fusiformes, SAI, metástasis
+8033/3	Carcinoma seudosarcomatoso
+8033/6	Carcinoma seudosarcomatoso, metástasis
+8034/3	Carcinoma de células poligonales
+8034/6	Carcinoma de células poligonales, metástasis
+8035/3	Carcinoma con células gigantes tipo osteoclasto
+8035/6	Carcinoma con células gigantes tipo osteoclasto, metástasis
+8040/0	Tumorlet, benigno
+8040/1	Tumorlet, SAI
+8041/3	Carcinoma de células pequeñas, SAI	Carcinoma de células redondas	Carcinoma microcítico	Carcinoma neuroendocrino de células pequeñas	
+8041/6	Carcinoma de células pequeñas, SAI, metástasis
+8042/3	Carcinoma de células en grano de avena
+8042/6	Carcinoma de células en grano de avena, metástasis
+8043/3	Carcinoma de células pequeñas, tipo fusiforme
+8043/6	Carcinoma de células pequeñas, tipo fusiforme, metástasis
+8044/3	Carcinoma de células pequeñas, tipo intermedio
+8044/6	Carcinoma de células pequeñas, tipo intermedio, metástasis
+8045/3	Carcinoma combinado de células pequeñas	Carcinoma combinado de células pequeñas y células escamosas	Carcinoma combinado de células pequeñas y células grandes	Carcinoma mixto de células pequeñas	
+8045/6	Carcinoma combinado de células pequeñas, metástasis
+8046/3	Carcinoma, no de células pequeñas
+8046/6	Carcinoma, no de células pequeñas, metástasis
+8050/0	Papiloma, SAI
+8050/2	Carcinoma papilar in situ
+8050/3	Carcinoma papilar, SAI
+8050/6	Carcinoma papilar, SAI, metástasis
+8051/0	Papiloma verrugoso
+8051/3	Carcinoma verrugoso, SAI
+8051/6	Carcinoma verrugoso, SAI, metástasis
+	
+8052/0	Papiloma epidermoide, SAI	Papiloma queratósico	
+8052/2	Carcinoma papilar epidermoide no invasivo
+8052/3	Carcinoma papilar de células escamosas
+8052/6	Carcinoma papilar de células escamosas, metástasis
+8053/0	Papiloma de células escamosas invertido
+8060/0	Papilomatosis escamosa
+8070/2	Carcinoma epidermoide in situ, SAI	Carcinoma espinocelular in situ, SAI	Carcinoma intraepidérmico, SAI	Carcinoma intraepitelial de células escamosas	
+8070/3	Carcinoma epidermoide, SAI	Carcinoma escamoso	Carcinoma espinocelular, SAI	Epitelioma de células escamosas	
+8070/6	Carcinoma metastásico de células escamosas, SAI
+8071/3	Carcinoma epidermoide, tipo queratinizante, SAI	Carcinoma de células escamosas, tipo queratinizante	
+8071/6	Carcinoma epidermoide, tipo queratinizante, SAI, metástasis
+8072/3	Carcinoma epidermoide de células grandes, tipo no queratinizante, SAI	Carcinoma epidermoide de células grandes, tipo no queratinizante	
+8072/6	Carcinoma epidermoide de células grandes, tipo no queratinizante, SAI, metástasis
+8073/3	Carcinoma epidermoide de células pequeñas, tipo no queratinizante
+8073/6	Carcinoma epidermoide de células pequeñas, tipo no queratinizante, metástasis
+8074/3	Carcinoma epidermoide de células fusiformes	Carcinoma epidermoide, sarcomatoide	
+8074/6	Carcinoma epidermoide de células fusiformes, metástasis
+8075/3	Carcinoma epidermoide seudoglandular	Carcinoma de células escamosas, tipo adenoide	Carcinoma epidermoide, acantolítico	Carcinoma epidermoide, tipo adenoide	
+8075/6	Carcinoma epidermoide seudoglandular , metástasis
+8076/2	Carcinoma epidermoide in situ con invasión dudosa del estroma
+8076/3	Carcinoma epidermoide microinvasor
+8076/6	Carcinoma epidermoide microinvasor, metástasis
+8077/0	Neoplasia intraepitelial de células escamosas de bajo grado	Neoplasia intraepitelial anal de bajo grado	Neoplasia intraepitelial cervical de bajo grado	Neoplasia intraepitelial de células escamosas, grado I	Neoplasia intraepitelial de células escamosas, grado II
+8077/2	Neoplasia intraepitelial de células escamosas de alto grado	  	CIN III con displasia severa	CIN III, SAI	Neoplasia (displasia) intraepitelial de células escamosas esofágica de alto grado	Neoplasia intraepitelial anal grado IIINeoplasia intraepitelial cervical grado III	Neoplasia intraepitelial de células escamosas grado IIINeoplasia intraepitelial vaginal grado III	Neoplasia intraepitelial vulvar grado III	VAIN III	VIN III
+8078/3	Carcinoma epidermoide con formación córnea
+8078/6	Carcinoma epidermoide con formación córnea, metástasis
+8080/2	Eritroplasia de Queyrat
+8081/2	Enfermedad de Bowen	Carcinoma epidermoide intraepidérmico, tipo Bowen	
+8082/3	Carcinoma linfoepitelial	Carcinoma similar al linfoepitelioma	LinfoepiteliomaTumor de Schminke
+8082/6	Carcinoma linfoepitelial, metástasis
+8083/3	Carcinoma basaloide de células escamosas
+8083/6	Carcinoma basaloide de células escamosas, metástasis
+8084/3	Carcinoma de células escamosas, tipo células claras
+8084/6	Carcinoma de células escamosas, tipo células claras, metástasis
+	
+8090/1	Tumor basocelular
+8090/3	Carcinoma basocelular, SAI	Carcinoma de células basales pigmentadas	Epitelioma basocelular	Ulcus rodens	
+8090/6	Carcinoma basocelular, SAI, metástasis
+8091/3	Carcinoma basocelular superficial multifocal
+8091/6	Carcinoma basocelular superficial multifocal, metástasis
+8092/3	Carcinoma basocelular infiltrante, SAI	Carcinoma basocelular infiltrante, tipo no esclerosante	Carcinoma basocelular, tipo desmoplásico	Carcinoma basocelular, tipo morfea	
+8092/6	Carcinoma basocelular infiltrante, SAI, metástasis
+8093/3	Carcinoma basocelular, tipo fibroepitelial	Fibroepitelioma, SAI	Fibroepitelioma, tipo Pinkus	Tumor de Pinkus	
+8093/6	Carcinoma basocelular, tipo fibroepitelial, metástasis
+8094/3	Carcinoma de células basales y escamosas	Carcinoma basoescamocelular mixto	
+8094/6	Carcinoma de células basales y escamosas, metástasis
+8095/3	Carcinoma metatípico
+8095/6	Carcinoma metatípico, metástasis
+8096/0	Epitelioma intraepidérmico de Jadassohn
+8097/3	Carcinoma basocelular, tipo nodular
+8097/6	Carcinoma basocelular, tipo nodular, metástasis
+8098/3	Carcinoma basal adenoideo
+8098/6	Carcinoma basal adenoideo, metástasis
+8100/0	Tricoepitelioma	Tumor de Brooke	
+8101/0	Tricofoliculoma
+8102/0	Tricolemoma
+8102/3	Triquilemocarcinoma
+8102/6	Triquilemocarcinoma, metástasis
+8103/0	Tumor proliferante de triquilema	Quiste proliferante de triquilema	Tumor pilar
+8110/0	Pilomatrixoma, SAI	Pilomatricoma, SAI	
+8110/3	Carcinoma pilomatricial	Pilomatricoma maligno	Pilomatrixoma maligno
+8110/6	Carcinoma pilomatricial,
+	
+8120/0	Papiloma de células transicionales, benigno
+8120/1	Papiloma urotelial, SAI	Papiloma de células transicionales, SAIPapiloma de vejiga urinaria	
+8120/2	Carcinoma in situ de células transicionales
+8120/3	Carcinoma de células transicionales, SAI	Carcinoma transicionalCarcinoma urotelial, SAI	
+8120/6	Carcinoma de células transicionales, SAI, metástasis
+8121/0	Papiloma de Schneider, SAI	Papiloma de senos nasales, exofítico	Papiloma de senos nasales, fungiforme	Papiloma de senos nasales, SAI	Papiloma transicional invertido benigno
+8121/1	Papiloma de células transicionales, tipo invertido, SAI	Papiloma de células cilíndricasPapiloma de células columnaresPapiloma de células transicionales, invertido, SAI	Papiloma de Schneider, tipo invertido	Papiloma oncocitico de Schneider
+8121/3	Carcinoma de Schneider
+8121/6	Carcinoma de Schneider, metástasis
+8122/3	Carcinoma de células transicionales, tipo fusocelular
+8122/6	Carcinoma de células transicionales, tipo fusocelular, metástasis
+8123/3	Carcinoma basaloide
+8123/6	Carcinoma basaloide, metástasis
+8124/3	Carcinoma cloacogénico
+8124/6	Carcinoma cloacogénico, metástasis
+8130/1	Neoplasia papilar de células transicionales de bajo potencial maligno
+8130/2	Carcinoma papilar de células transicionales, tipo no invasivo 
+8130/3	Carcinoma papilar de células transicionales
+8130/6	Carcinoma papilar de células transicionales, metástasis
+8131/3	Carcinoma de células transicionales, micropapilar
+8131/6	Carcinoma de células transicionales, micropapilar, metástasis
+	
+8140/0	Adenoma, SAI
+8140/1	Adenoma bronquial, SAI
+8140/2	Adenocarcinoma in situ, SAI
+8140/3	Adenocarcinoma, SAI
+8140/6	Adenocarcinoma metastásico, SAI
+8141/3	Adenocarcinoma escirro	Carcinoma escirroso	
+8141/6	Adenocarcinoma escirro, metástasis
+8142/3	Linitis plástica
+8142/6	Linitis plástica, metástasis
+8143/3	Adenocarcinoma con diseminación superficial
+8143/6	Adenocarcinoma con diseminación superficial, metástasis
+8144/3	Adenocarcinoma, tipo intestinal
+8144/6	Adenocarcinoma, tipo intestinal, metástasis
+8145/3	Carcinoma, tipo difuso
+8145/6	Carcinoma, tipo difuso, metástasis
+8146/0	Adenoma monomórfico
+8147/0	Adenoma basocelular
+8147/3	Adenocarcinoma basocelular
+8147/6	Adenocarcinoma basocelular, metástasis
+8148/0	Neoplasia intraepitelial glandular de bajo grado	Displasia glandular esofágica (neoplasia intraepitelial ) de bajo gradoNeoplasia intraepitelial biliar de bajo grado	Neoplasia intraepitelial glandular, grado I	Neoplasia intraepitelial glandular, grado II
+8148/2	Neoplasia intraepitelial glandular de alto grado	Displasia glandular esofágica (neoplasia intraepitelial) de alto gradoNeoplasia intraepitelial biliar de alto grado	Neoplasia intraepitelial biliar, grado 3 (NIBil-3)	Neoplasia intraepitelial esofágica de alto grado	Neoplasia intraepitelial glandular plana de alto gradoNeoplasia intraepitelial glandular, grado IIINeoplasia intraepitelial plana (displasia) de alto grado	Neoplasia intraepitelial plana de alto grado	Neoplasia intraepitelial prostática, grado III	PIN III
+8149/0	Adenoma canalicular
+8150/0	Tumor endocrino pancreático benignoAdenomatosis de células de los islotes de Langerhans	Microadenoma pancreático	NesidioblastomaTumor de células de los islotes de Langerhans, benigno	
+8150/1	Tumor endocrino pancreático, SAI	Tumor de células de los islotes de Langerhans, SAI	
+8150/3	Tumor endocrino pancreático malignoCarcinoma de células de los islotes de Langerhans	Tumor endocrino pancreático no funcionante	
+8150/6	Tumor endocrino pancreático maligno, metástasis
+8151/0	Insulinoma, SAI	Adenoma de células beta	
+8151/3	Insulinoma maligno
+8151/6	Insulinoma maligno, metástasis
+8152/1	Glucagonoma, SAI	Enteroglucagonoma, SAITumor de células alfa, SAI	Tumor de células L	Tumor productor de péptido pancreático y péptido de tipo pancreático sobre tumor productor de amida terminal de tirosina	Tumor productor de péptido similar al glucagónTumor productor de PP/PYY	
+8152/3	Glucagonoma maligno	Tumor maligno de células alfa	
+8152/6	Glucagonoma maligno, metástasis
+8153/1	Gastrinoma, SAI	Tumor de células G, SAITumor de células productoras de gastrina	
+8153/3	Gastrinoma maligno	Tumor maligno de células productoras de gastrina	
+8153/6	Gastrinoma maligno, metástasis
+8154/3	Tumor maligno pancreático mixto de células de los islotes de Langerhans y exocrinoAdenocarcinoma mixto endocrino y exocrino	Carcinoma mixto acinar-endocrino	Carcinoma mixto acinar-endocrino-ductalCarcinoma mixto ductal-endocrino	
+8154/6	Tumor maligno pancreático mixto de células de los islotes de Langerhans y exocrino, metástasis
+8155/1	Vipoma, SAI
+8155/3	Vipoma maligno
+8155/6	Vipoma maligno, metástasis
+8156/1	Somatostatinoma, SAI
+8156/3	Somatostatinoma maligno
+8156/6	Somatostatinoma maligno, metástasis
+8158/1	Tumor endocrino funcionante, SAI	Tumor productor de ACTH	
+8160/0	Adenoma de los conductos biliares
+8160/3	Colangiocarcinoma	Carcinoma de los conductos biliares	
+8160/6	Colangiocarcinoma, metástasis
+8161/0	Cistadenoma de los conductos biliares
+8161/3	Cistadenocarcinoma de los conductos biliares
+8161/6	Cistadenocarcinoma de los conductos biliares, metástasis
+8162/3	Tumor de Klatskin
+8162/6	Tumor de Klatskin, metástasis
+8163/0	Neoplasia pancreatobiliar, no invasiva	Neoplasia papilar pancreatobiliar no invasiva con neoplasia de bajo grado intraepitelial	
+8163/2	Neoplasia papilar de tipo pancreatobiliar, con neoplasia intraepitelial de alto grado	Neoplasia papilar pancreatobiliar no invasiva con neoplasia intraepitelial de alto grado	
+8163/3	Carcinoma de tipo pancreatobiliar
+8163/6	Carcinoma de tipo pancreatobiliar, metástasis
+8170/0	Adenoma de células hepáticas	Hepatoma benigno	
+8170/3	Carcinoma hepatocelular, SAI	HepatocarcinomaHepatoma maligno	Hepatoma, SAI
+8170/6	Carcinoma hepatocelular, SAI, metástasis
+8171/3	Carcinoma hepatocelular, tipo fibrolamelar
+8171/6	Carcinoma hepatocelular, tipo fibrolamelar, metástasis
+8172/3	Carcinoma hepatocelular escirro	Carcinoma hepático esclerosante	
+8172/6	Carcinoma hepatocelular escirro, metástasis
+8173/3	Carcinoma hepatocelular, variante fusocelular
+8173/6	Carcinoma hepatocelular, variante fusocelular, metástasis
+8174/3	Carcinoma hepatocelular, variante de células claras
+8174/6	Carcinoma hepatocelular, variante de células claras, metástasis
+8175/3	Carcinoma hepatocelular, tipo pleomorfo
+8175/6	Carcinoma hepatocelular, tipo pleomorfo, metástasis
+8180/3	Carcinoma hepatocelular y colangiocarcinoma mixto	Hepatocolangiocarcinoma	
+8180/6	Carcinoma hepatocelular y colangiocarcinoma mixto, metástasis
+8190/0	Adenoma trabecular
+8190/3	Adenocarcinoma trabecular
+8190/6	Adenocarcinoma trabecular, metástasis
+8191/0	Adenoma embrionario
+8200/0	Cilindroma ecrino dérmico	Tumor en turbante	
+8200/3	Carcinoma adenoide quístico	Adenoma bronquial, tipo cilindroide	Carcinoma adenoquísticoCilindroma, SAI
+8200/6	Carcinoma adenoide quístico, metástasis
+8201/2	Carcinoma cribiforme in situ
+8201/3	Carcinoma cribiforme, SAI	Carcinoma cribiforme de tipo comedo	Carcinoma ductal, tipo cribiforme
+8201/6	Carcinoma cribiforme, SAI, metástasis
+8202/0	Adenoma microquístico
+8204/0	Adenoma de la lactancia
+8210/0	Pólipo adenomatoso, SAI	Adenoma polipoide	
+8210/2	Adenocarcinoma in situ en pólipo adenomatoso	Adenocarcinoma in situ en adenoma tubular	Adenocarcinoma in situ en pólipo, SAI	Carcinoma in situ en pólipo adenomatosoCarcinoma in situ en pólipo, SAI
+8210/3	Adenocarcinoma en pólipo adenomatoso	Adenocarcinoma en adenoma tubular	Adenocarcinoma en pólipo, SAI	Carcinoma en pólipo adenomatosoCarcinoma en pólipo, SAI
+8210/6	Adenocarcinoma en pólipo adenomatoso, metástasis
+8211/0	Adenoma tubular, SAI
+8211/3	Adenocarcinoma tubular
+8211/6	Adenocarcinoma tubular, metástasis
+8212/0	Adenoma plano
+8213/0	Adenoma dentadoAdenoma dentado sésil	Adenoma serrado sésil clásico	Pólipo dentado sésil	Pólipo mixto adenomatoso e hiperplásico
+8213/3	Adenocarcinoma dentado
+8213/6	Adenocarcinoma dentado, metástasis
+8214/3	Carcinoma de células parietales	Adenocarcinoma de células parietales	
+8214/6	Carcinoma de células parietales, metástasis
+8215/3	Adenocarcinoma de glándulas anales
+8215/6	Adenocarcinoma de glándulas anales, metástasis
+8220/0	Poliposis adenomatosa del colon	Adenomatosis, SAI	Poliposis familiar del colon
+8220/3	Adenocarcinoma en poliposis adenomatosa del colon
+8220/6	Adenocarcinoma en poliposis adenomatosa del colon, metástasis
+8221/0	Pólipos adenomatosos múltiples	Poliposis múltiple	
+8221/3	Adenocarcinoma en pólipos adenomatosos múltiples
+8221/6	Adenocarcinoma en pólipos adenomatosos múltiples, metástasis
+8230/2	Carcinoma ductal in situ, tipo sólido
+8230/3	Carcinoma sólido, SAI	Carcinoma sólido con formación de mucina	
+8230/6	Carcinoma sólido, SAI, metástasis
+8231/3	Carcinoma simple
+8231/6	Carcinoma simple, metástasis
+8240/1	Tumor carcinoide de potencial maligno incierto	Argentafinoma, SAI	Tumor carcinoide argentafín, SAI
+8240/3	Tumor carcinoide, SAI	Carcinoide de apéndice, SAI	Carcinoide típico	Carcinoide, SAICarcinoma neuroendocrino bien diferenciado	Carcinoma neuroendocrino de bajo gradoTumor carcinoide de apéndice, SAI	Tumor neuroendocrino, grado 1
+8240/6	Tumor carcinoide, SAI, metástasis
+8241/3	Carcinoide de células enterocromafines	Carcinoide productor de serotonina	Carcinoma de células ECTumor carcinoide argentafín maligno
+8241/6	Carcinoide de células enterocromafines, metástasis
+8242/1	Carcinoide de células similares a enterocromafines
+8242/3	Carcinoide de células similares a enterocromafines, maligno
+8242/6	Carcinoide de células similares a enterocromafines, maligno, metástasis
+8243/3	Carcinoide de células caliciformes	Tumor mucocarcinoide	
+8243/6	Carcinoide de células caliciformes, metástasis
+8244/3	Carcinoma adenoneuroendocrino mixto	Carcinoide compuesto	Carcinoide y adenocarcinoma combinados	Carcinoide y adenocarcinoma combinados/mixtos	Carcinoide-adenocarcinoma mixto
+8244/6	Carcinoma adenoneuroendocrino mixto, metástasis
+8245/1	Carcinoide tubular
+8245/3	Tumor adenocarcinoide
+8245/6	Tumor adenocarcinoide, metástasis
+8246/3	Carcinoma neuroendocrino, SAI
+8246/6	Carcinoma neuroendocrino, SAI, metástasis
+8247/3	Carcinoma de células de Merkel	Tumor de células de Merkel	
+8247/6	Carcinoma de células de Merkel, metástasis
+8248/1	Apudoma
+8249/3	Tumor carcinoide atípico	Carcinoma neuroendocrino moderadamente diferenciado	Tumor neuroendocrino, grado 2
+8249/6	Tumor carcinoide atípico, metástasis
+8250/1	Adenomatosis pulmonar
+8250/3	Adenocarcinoma bronquiolo-alveolar, SAI	Carcinoma bronquiolar	Carcinoma bronquiolo-alveolar, SAI	Carcinoma de células alveolares	
+8250/6	Adenocarcinoma bronquiolo-alveolar, SAI, metástasis
+8251/0	Adenoma alveolar
+8251/3	Adenocarcinoma alveolar
+8251/6	Adenocarcinoma alveolar, metástasis
+8252/3	Carcinoma bronquiolo-alveolar, no mucinosoCarcinoma bronquiolo-alveolar, neumocitos tipo II
+8252/6	Carcinoma bronquiolo-alveolar, no mucinoso, metástasis
+8253/3	Carcinoma bronquiolo-alveolar, mucinoso	Carcinoma bronquiolo-alveolar, tipo células caliciformes	
+8253/6	Carcinoma bronquiolo-alveolar, mucinoso, metástasis
+8254/3	Carcinoma bronquiolo-alveolar mixto, mucinoso y no mucinoso	Carcinoma bronquiolo-alveolar, neumocitos tipo II y células caliciformes	Carcinoma bronquiolo-alveolar, tipo indeterminado
+8254/6	Carcinoma bronquiolo-alveolar mixto, mucinoso y no mucinoso, metástasis
+8255/3	Adenocarcinoma combinado con subtipos mixtos
+8255/6	Adenocarcinoma combinado con subtipos mixtos, metástasis
+8260/0	Adenoma papilar, SAI
+8260/3	Adenocarcinoma papilar, SAI	Carcinoma papilar de tiroides	
+8260/6	Adenocarcinoma papilar, SAI, metástasis
+8261/0	Adenoma velloso, SAI
+8261/2	Adenocarcinoma in situ en adenoma velloso
+8261/3	Adenocarcinoma en adenoma velloso
+8261/6	Adenocarcinoma en adenoma velloso, metástasis
+8262/3	Adenocarcinoma velloso
+8262/6	Adenocarcinoma velloso, metástasis
+8263/0	Adenoma tubulovelloso, SAI	Adenoma túbulo-papilar	Adenoma vellosoglandular
+8263/2	Adenocarcinoma in situ en adenoma tubulovelloso
+8263/3	Adenocarcinoma en adenoma tubulovelloso	Adenocarcinoma papilotubular	Adenocarcinoma tubulopapilar
+8263/6	Adenocarcinoma en adenoma tubulovelloso, metástasis
+8264/0	Papilomatosis glandular	Papilomatosis biliar	
+8265/3	Carcinoma micropapilar, SAI
+8265/6	Carcinoma micropapilar, SAI, metástasis
+8270/0	Adenoma cromófobo
+8270/3	Carcinoma cromófobo
+8270/6	Carcinoma cromófobo, metástasis
+8271/0	Prolactinoma
+8272/0	Adenoma hipofisario, SAI
+8272/3	Carcinoma hipofisario, SAI
+8272/6	Carcinoma hipofisario, SAI, metástasis
+8280/0	Adenoma acidófilo
+8280/3	Carcinoma acidófilo	Adenocarcinoma eosinófilo	Carcinoma eosinófilo
+8280/6	Carcinoma acidófilo, metástasis
+8281/0	Adenoma mixto, acidófilo y basófilo
+8281/3	Carcinoma mixto, acidófilo y basófilo
+8281/6	Carcinoma mixto, acidófilo y basófilo, metástasis
+8290/0	Adenoma oxífilo	Adenoma folicular, células oxífilas	Adenoma oncocítico	Oncocitoma	Oncocitoma de células fusiformes	Tumor de células de Hürthle
+8290/3	Adenocarcinoma oxífilo	Adenocarcinoma oncocítico	Carcinoma de células de HürthleCarcinoma folicular de células oxífilasCarcinoma oncocítico	
+8290/6	Adenocarcinoma oxífilo, metástasis
+8300/0	Adenoma basófilo	Adenoma de células mucoides	
+8300/3	Carcinoma basófiloAdenocarcinoma de células mucoides
+8300/6	Carcinoma basófilo, metástasis
+8310/0	Adenoma de células claras
+8310/3	Adenocarcinoma de células claras, SAI	Carcinoma de células claras	
+8310/6	Adenocarcinoma de células claras, SAI, metástasis
+8311/1	Tumor hipernefroide
+8312/3	Carcinoma de células renales, SAI	Hipernefroma	Tumor de Grawitz
+8312/6	Carcinoma de células renales, SAI, metástasis
+8313/0	Adenofibroma de células claras
+8313/1	Adenofibroma de células claras de malignidad borderline
+8313/3	Adenocarcinofibroma de células claras
+8313/6	Adenocarcinofibroma de células claras, metástasis
+8314/3	Carcinoma rico en lípidos
+8314/6	Carcinoma rico en lípidos, metástasis
+8315/3	Carcinoma rico en glucógeno
+8315/6	Carcinoma rico en glucógeno, metástasis
+8316/3	Carcinoma de células renales asociado a quiste
+8316/6	Carcinoma de células renales asociado a quiste, metástasis
+8317/3	Carcinoma de células renales tipo cromófobo
+8317/6	Carcinoma de células renales tipo cromófobo, metástasis
+8318/3	Carcinoma de células renales sarcomatoide
+8318/6	Carcinoma de células renales sarcomatoide, metástasis
+8319/3	Carcinoma de túbulos colectores	Carcinoma renal de tipo conductos colectores	
+8319/6	Carcinoma de túbulos colectores, metástasis
+8320/3	Carcinoma de células granulares
+8320/6	Carcinoma de células granulares, metástasis
+8321/0	Adenoma de células principales
+8322/0	Adenoma de células claroacuosas
+8322/3	Adenocarcinoma de células claroacuosas
+8322/6	Adenocarcinoma de células claroacuosas, metástasis
+8323/0	Adenoma de células mixtas
+8323/3	Adenocarcinoma de células mixtas
+8323/6	Adenocarcinoma de células mixtas, metástasis
+8324/0	Lipoadenoma
+8325/0	Adenoma metanéfrico
+8330/0	Adenoma folicular
+8330/1	Adenoma folicular atípico
+8330/3	Adenocarcinoma folicular, SAI
+8330/6	Adenocarcinoma folicular, SAI, metástasis
+8331/3	Adenocarcinoma folicular bien diferenciado
+8331/6	Adenocarcinoma folicular bien diferenciado, metástasis
+8332/3	Adenocarcinoma folicular, tipo trabecular	Carcinoma folicular moderadamente diferenciado	Carcinoma folicular, tipo trabecular
+8332/6	Adenocarcinoma folicular, tipo trabecular, metástasis
+8333/0	Adenoma microfolicular, SAI
+8333/3	Adenocarcinoma fetal
+8333/6	Adenocarcinoma fetal, metástasis
+8334/0	Adenoma macrofolicular
+8335/3	Carcinoma folicular mínimamente invasivo
+8335/6	Carcinoma folicular mínimamente invasivo, metástasis
+8336/0	Adenoma trabecular hialinizante
+8337/3	Carcinoma insular
+8337/6	Carcinoma insular, metástasis
+8340/3	Carcinoma papilar, variante folicular	Adenocarcinoma papilar, variante folicular	Carcinoma papilar y folicular
+8340/6	Carcinoma papilar, variante folicular, metástasis
+8341/3	Microcarcinoma papilar
+8341/6	Microcarcinoma papilar, metástasis
+8342/3	Carcinoma papilar de células oxífilas
+8342/6	Carcinoma papilar de células oxífilas, metástasis
+8343/3	Carcinoma papilar encapsulado
+8343/6	Carcinoma papilar encapsulado, metástasis
+8344/3	Carcinoma papilar de células columnares
+8344/6	Carcinoma papilar de células columnares, metástasis
+8345/3	Carcinoma medular con estroma amiloide	Carcinoma de células parafoliculares	
+8345/6	Carcinoma medular con estroma amiloide, metástasis
+8346/3	Carcinoma mixto medular-folicular
+8346/6	Carcinoma mixto medular-folicular, metástasis
+8347/3	Carcinoma mixto medular-papilar
+8347/6	Carcinoma mixto medular-papilar, metástasis
+8350/3	Carcinoma esclerosante no encapsulado	Carcinoma papilar esclerosante difuso	Tumor esclerosante no encapsulado
+8350/6	Carcinoma esclerosante no encapsulado, metástasis
+8360/1	Adenomas endocrinos múltiples
+8361/0	Tumor yuxtaglomerular
+8370/0	Adenoma de la corteza suprarrenal, SAI	Tumor benigno de la corteza suprarrenalTumor de la corteza suprarrenal, SAI	
+8370/3	Carcinoma de la corteza suprarrenal	Tumor maligno adrenocortical	Tumor maligno de la corteza suprarrenal
+8370/6	Carcinoma de la corteza suprarrenal, metástasis
+8371/0	Adenoma de la corteza suprarrenal de células compactas
+8372/0	Adenoma de la corteza suprarrenal, pigmentado	Adenoma pigmentado	
+8373/0	Adenoma de la corteza suprarrenal de células claras
+8374/0	Adenoma de la corteza suprarrenal de células de la glomerulosa
+8375/0	Adenoma de la corteza suprarrenal de tipo celular mixto
+8380/0	Adenoma endometrioide, SAI
+8380/1	Adenoma endometrioide de malignidad borderline	Tumor endometrioide de bajo potencial maligno	Tumor endometrioide proliferativo atípico
+8380/3	Adenocarcinoma endometrioide, SAI	Cistadenocarcinoma endometrioide	
+8380/6	Adenocarcinoma endometrioide, SAI, metástasis
+8381/0	Adenofibroma endometrioide, SAI	Cistadenofibroma endometrioide, SAI	
+8381/1	Adenofibroma endometrioide de malignidad borderline
+8381/3	Adenofibroma endometrioide maligno
+8381/6	Adenofibroma endometrioide maligno, metástasis
+8382/3	Adenocarcinoma endometrioide, variante secretora
+8382/6	Adenocarcinoma endometrioide, variante secretora, metástasis
+8383/3	Adenocarcinoma endometrioide, variante de células ciliadas
+8383/6	Adenocarcinoma endometrioide, variante de células ciliadas, metástasis
+8384/3	Adenocarcinoma, tipo endocervical
+8384/6	Adenocarcinoma, tipo endocervical, metástasis
+	
+8390/0	Adenoma de los anexos cutáneos	Tumor de los anexos, benigno	
+8390/3	Carcinoma de los anexos cutáneos	Carcinoma de los anexos	
+8390/6	Carcinoma de los anexos cutáneos, metástasis
+8391/0	Fibroma folicularFibroma perifolicular	Tricodiscoma	
+8392/0	Siringofibroadenoma
+8400/0	Adenoma de las glándulas sudoríparas	Siringoadenoma, SAI	Tumor benigno de las glándulas sudoríparas
+8400/1	Tumor de las glándulas sudoríparas, SAI
+8400/3	Adenocarcinoma de las glándulas sudoríparas	Tumor maligno de las glándulas sudoríparas	
+8400/6	Adenocarcinoma de las glándulas sudoríparas, metástasis
+8401/0	Adenoma apocrino	Cistadenoma apocrino	
+8401/3	Adenocarcinoma apocrino
+8401/6	Adenocarcinoma apocrino, metástasis
+8402/0	Hidradenoma nodular	Hidradenoma de células claras	
+8402/3	Hidradenoma nodular maligno
+8402/6	Hidradenoma nodular maligno, metástasis
+8403/0	Espiradenoma ecrino
+8403/3	Espiradenoma ecrino maligno
+8403/6	Espiradenoma ecrino maligno, metástasis
+8404/0	Hidrocistoma
+8405/0	Hidradenoma papilar
+8406/0	Siringoadenoma papilar	Siringocistadenoma papilífero	
+8407/0	Siringoma, SAI
+8407/3	Carcinoma esclerosante de conductos sudoríparos	Carcinoma siringomatoso	
+8407/6	Carcinoma esclerosante de conductos sudoríparos, metástasis
+8408/0	Adenoma papilar ecrino
+8408/1	Adenoma papilar digital agresivo
+8408/3	Adenocarcinoma papilar ecrino
+8408/6	Adenocarcinoma papilar ecrino, metástasis
+8409/0	Poroma ecrino
+8409/3	Poroma ecrino maligno
+8409/6	Poroma ecrino maligno, metástasis
+8410/0	Adenoma sebáceo
+8410/3	Adenocarcinoma sebáceo
+8410/6	Adenocarcinoma sebáceo, metástasis
+8413/3	Adenocarcinoma ecrino
+8413/6	Adenocarcinoma ecrino, metástasis
+8420/0	Adenoma ceruminoso
+8420/3	Adenocarcinoma ceruminoso
+8420/6	Adenocarcinoma ceruminoso, metástasis
+	
+8430/1	Tumor mucoepidermoide
+8430/3	Carcinoma mucoepidermoide
+8430/6	Carcinoma mucoepidermoide, metástasis
+	
+8440/0	Cistadenoma, SAI	Cistoma, SAI	
+8440/3	Cistadenocarcinoma, SAI
+8440/6	Cistadenocarcinoma, SAI, metástasis
+8441/0	Cistadenoma seroso, SAI	Adenoma seroso microquístico	Cistoma seroso
+8441/3	Cistadenocarcinoma seroso, SAI	Carcinoma seroso, SAI	
+8441/6	Cistadenocarcinoma seroso, SAI, metástasis
+8442/1	Cistadenoma seroso de malignidad borderline	Tumor seroso, SAI, de bajo potencial maligno	
+8443/0	Cistadenoma de células claras
+8444/1	Tumor quístico de células claras de malignidad borderline
+8450/0	Cistadenoma papilar, SAI
+8450/3	Cistadenocarcinoma papilar, SAI
+8450/6	Cistadenocarcinoma papilar, SAI, metástasis
+8451/1	Cistadenoma papilar de malignidad borderline
+8452/1	Tumor seudopapilar sólido	Tumor quístico papilar	Tumor sólido y quístico
+8452/3	Carcinoma seudopapilar sólido
+8452/6	Carcinoma seudopapilar sólido, metástasis
+8453/0	Adenoma intraductal papilar-mucinoso	Neoplasia papilar-mucinosa intraductal con displasia moderada	Tumor papilar-mucinoso intraductal con displasia de bajo grado	Tumor papilar-mucinoso intraductal con displasia intermedia	Tumor papilar-mucinoso intraductal con displasia moderada
+8453/2	Adenoma intraductal papilar-mucinoso no invasivo	Neoplasia mucinosa papilar intraductal con displasia de alto grado	
+8453/3	Adenoma intraductal papilar-mucinoso invasivo
+8453/6	Adenoma intraductal papilar-mucinoso invasivo, metástasis
+8454/0	Tumor quístico del nodo auriculoventricular
+8460/0	Cistadenoma seroso papilar, SAI
+8460/3	Cistadenocarcinoma seroso papilar	Carcinoma seroso micropapilar	
+8460/6	Cistadenocarcinoma seroso papilar, metástasis
+8461/0	Papiloma de superficie serosa
+8461/3	Carcinoma papilar de superficie serosa
+8461/6	Carcinoma papilar de superficie serosa, metástasis
+8462/1	Tumor quístico papilar seroso de malignidad borderline	Tumor seroso papilar de bajo potencial maligno	Tumor seroso papilar proliferativo atípico
+8463/1	Tumor papilar de superficie serosa de malignidad borderline
+8470/0	Cistadenoma mucinoso, SAI	Cistoma mucinoso	Neoplasia quística mucinosa con displasia de bajo gradoNeoplasia quística mucinosa con displasia de grado intermedio	Neoplasia quística mucinosa con neoplasia intraepitelial de bajo gradoNeoplasia quística mucinosa con neoplasia intraepitelial de grado intermedio	Tumor quístico mucinoso con displasia de bajo grado	Tumor quístico mucinoso con displasia intermedia	Tumor quístico mucinoso con displasia moderada	
+8470/2	Cistadenocarcinoma mucinoso no invasivo	Neoplasia quística mucinosa con displasia de alto gradoNeoplasia quística mucinosa con neoplasia intraepitelial de alto gradoTumor quístico mucinoso con displasia de alto grado
+8470/3	Cistadenocarcinoma mucinoso, SAI	Adenocarcinoma seudomucinoso	Cistadenocarcinoma seudomucinoso, SAI	Neoplasia quística mucinosa con carcinoma invasivo asociado	Tumor quístico mucinoso con carcinoma invasivo asociado
+8470/6	Cistadenocarcinoma mucinoso, SAI, metástasis
+8471/0	Cistadenoma mucinoso papilar, SAI
+8471/3	Cistadenocarcinoma mucinoso papilar
+8471/6	Cistadenocarcinoma mucinoso papilar, metástasis
+8472/1	Tumor quístico mucinoso de malignidad borderline	Cistadenoma mucinoso de malignidad borderlineCistadenoma seudomucinoso de malignidad borderline	Tumor mucinoso proliferativo atípico	Tumor mucinoso, SAI, de bajo potencial maligno
+8473/1	Cistadenoma mucinoso papilar de malignidad borderline	Tumor mucinoso papilar de bajo potencial maligno	
+8480/0	Adenoma mucinoso
+8480/1	Neoplasia mucinosa apendicular de bajo grado
+8480/3	Adenocarcinoma mucinoso	Adenocarcinoma gelatinoso	Adenocarcinoma mucoide	Adenocarcinoma mucoso	Carcinoma coloide	Carcinoma gelatinoso	Carcinoma mucinoso	Carcinoma mucoide	Carcinoma mucoso	Seudomixoma peritoneal de origen primario desconocido
+8480/6	Pseudomixoma peritoneal
+8481/3	Adenocarcinoma productor de mucina	Adenocarcinoma secretante de mucina	Carcinoma productor de mucina	Carcinoma secretante de mucina	
+8481/6	Adenocarcinoma productor de mucina, metástasis
+8482/3	Adenocarcinoma mucinoso, tipo endocervical
+8482/6	Adenocarcinoma mucinoso, tipo endocervical, metástasis
+8490/3	Carcinoma de células en anillo de sello	Carcinoma de bajo grado de cohesión	
+8490/6	Carcinoma metastásico de células en anillo de sello
+	
+8500/2	Carcinoma intraductal no infiltrante, SAI	Carcinoma ductal in situ, SAI	Carcinoma intraductal, SAI	CDIS, SAI	DIN 3	Neoplasia ductal intraepitelial 3
+8500/3	Carcinoma ductal infiltrante, SAI	Adenocarcinoma ductal, SAI	Carcinoma de células de los conductos	Carcinoma ductal, SAI	
+8500/6	Carcinoma ductal infiltrante, SAI, metástasis
+8501/2	Comedocarcinoma no infiltrante	CDIS, tipo comedo	
+8501/3	Comedocarcinoma, SAI
+8501/6	Comedocarcinoma, SAI, metástasis
+8502/3	Carcinoma juvenil de la mama
+8502/6	Carcinoma juvenil de la mama, metástasis
+8503/0	Papiloma intraductal	Neoplasia papilar intraductal con neoplasia intraepitelial de grado intermedio	Neoplasia papilar intraductal, SAI	Neoplasia papilar intraglandular con neoplasia intraepitelial de bajo grado	Neoplasia papilar intraquística con neoplasia intraepitelial de bajo grado	Neoplasia papilar intraductal con neoplasia intraepitelial de bajo grado	Neoplasia papilar intraquística con neoplasia intraepitelial de grado intermedio	Neoplasia túbulo-papilar intraductal de bajo grado	Papiloma de los conductos	Papiloma intracanalicular
+8503/2	Adenocarcinoma papilar intraductal no infiltranteCarcinoma ductal in situ, papilar	Carcinoma papilar intraductal	Carcinoma papilar intraductal no infiltrante	DCIS, papilar	Neoplasia papilar intraductal con displasia de alto grado	Neoplasia papilar intraductal con neoplasia intraepitelial de alto grado	Neoplasia papilar intraquística con neoplasia intraepitelial de alto grado	Neoplasia túbulo-papilar intraductal de alto grado	Tumor papilar intraductal con displasia de alto grado	Tumor papilar intraductal con neoplasia intraepitelial de alto grado	Tumor papilar intraquístico con displasia de alto gradoTumor papilar intraquístico con neoplasia intraepitelial de alto grado	
+8503/3	Adenocarcinoma papilar intraductal con invasión	Adenocarcinoma papilar infiltrante	Neoplasia papilar intraductal con carcinoma invasivo asociado	Neoplasia papilar intraquística con carcinoma invasivo asociado	
+8503/6	Adenocarcinoma papilar intraductal con invasión, metástasis
+8504/0	Adenoma papilar intraquístico
+8504/2	Carcinoma intraquístico no infiltrante
+8504/3	Carcinoma intraquístico, SAI
+8504/6	Carcinoma intraquístico, SAI, metástasis
+8505/0	Papilomatosis intraductal, SAI	Papilomatosis intraductal difusa	
+8506/0	Adenoma del pezón
+8507/2	Carcinoma micropapilar intraductal	Carcinoma intraductal, adherente	
+8508/3	Carcinoma hipersecretor quístico
+8508/6	Carcinoma hipersecretor quístico, metástasis
+8510/3	Carcinoma medular, SAI
+8510/6	Carcinoma medular, SAI, metástasis
+8512/3	Carcinoma medular con estroma linfoide
+8512/6	Carcinoma medular con estroma linfoide, metástasis
+8513/3	Carcinoma medular atípico
+8513/6	Carcinoma medular atípico, metástasis
+8514/3	Carcinoma ductal, tipo desmoplásico
+8514/6	Carcinoma ductal, tipo desmoplásico, metástasis
+8520/2	Carcinoma lobulillar in situ, SAI	CLIS, SAI	
+8520/3	Carcinoma lobulillar, SAI	Carcinoma lobulillar infiltrante, SAI	
+8520/6	Carcinoma lobulillar, SAI, metástasis
+8521/3	Carcinoma de los conductos terminales, infiltrante
+8521/6	Carcinoma de los conductos terminales, infiltrante, metástasis
+8522/2	Carcinoma intraductal y carcinoma lobulillar in situ
+8522/3	Carcinoma ductal y lobulillar infiltranteCarcinoma intraductal y lobulillar	Carcinoma lobulillar infiltrante y carcinoma ductal in situ	Carcinoma lobulillar y ductal
+8522/6	Carcinoma ductal y lobulillar infiltrante, metástasis
+8523/3	Carcinoma ductal infiltrante mezclado con otros tipos de carcinomaCarcinoma ductal y cribiforme infiltrante	Carcinoma ductal y mucinoso infiltranteCarcinoma ductal y tubular infiltrante
+8523/6	Carcinoma ductal infiltrante mezclado con otros tipos de carcinoma, metástasis
+8524/3	Carcinoma lobulillar infiltrante mezclado con otros tipos de carcinoma
+8524/6	Carcinoma lobulillar infiltrante mezclado con otros tipos de carcinoma, metástasis
+8525/3	Adenocarcinoma polimorfo de bajo grado
+8525/6	Adenocarcinoma polimorfo de bajo grado, metástasis
+8530/3	Carcinoma inflamatorio
+8530/6	Carcinoma inflamatorio, metástasis
+8540/3	Enfermedad de Paget, mamaria
+8540/6	Enfermedad de Paget, mamaria, metástasis
+8541/3	Enfermedad de Paget y carcinoma ductal infiltrante de la mama
+8541/6	Enfermedad de Paget y carcinoma ductal infiltrante de la mama, metástasis
+8542/3	Enfermedad de Paget extramamaria
+8542/6	Enfermedad de Paget extramamaria, metástasis
+8543/3	Enfermedad de Paget y carcinoma intraductal de la mama
+8543/6	Enfermedad de Paget y carcinoma intraductal de la mama, metástasis
+	
+8550/0	Adenoma de células acinosasAdenoma de células acínicas
+8550/1	Tumor de células acinosas	Tumor de células acínicas	
+8550/3	Carcinoma de células acinosas	Adenocarcinoma de células acínicas	Carcinoma acinoso
+8550/6	Carcinoma de células acinosas, metástasis
+8551/3	Cistadenocarcinoma células acinares
+8551/6	Cistadenocarcinoma células acinares, metástasis
+8552/3	Carcinoma acinar-ductal mixto
+8552/6	Carcinoma acinar-ductal mixto, metástasis
+	
+8560/0	Papiloma mixto de células escamosas y glandular
+8560/3	Carcinoma adenoescamoso	Adenocarcinoma y carcinoma epidermoide, mixto	
+8560/6	Carcinoma adenoescamoso, metástasis
+8561/0	Adenolinfoma	Tumor de Warthin	
+8562/3	Carcinoma epitelial-mioepitelial
+8562/6	Carcinoma epitelial-mioepitelial, metástasis
+8570/3	Adenocarcinoma con metaplasia escamosa
+8570/6	Adenocarcinoma con metaplasia escamosa, metástasis
+8571/3	Adenocarcinoma con metaplasia ósea y cartilaginosa	Adenocarcinoma con metaplasia ósea	
+8571/6	Adenocarcinoma con metaplasia ósea y cartilaginosa, metástasis
+8572/3	Adenocarcinoma con metaplasia de células fusiformes
+8572/6	Adenocarcinoma con metaplasia de células fusiformes, metástasis
+8573/3	Adenocarcinoma con metaplasia apocrina
+8573/6	Adenocarcinoma con metaplasia apocrina, metástasis
+8574/3	Adenocarcinoma con diferenciación neuroendocrina
+8574/6	Adenocarcinoma con diferenciación neuroendocrina, metástasis
+8575/3	Carcinoma metaplásico, SAI
+8575/6	Carcinoma metaplásico, SAI, metástasis
+8576/3	Adenocarcinoma hepatoide
+8576/6	Adenocarcinoma hepatoide, metástasis
+8580/0	Timoma benigno
+8580/1	Timoma, SAI
+8580/3	Timoma maligno, SAI
+8580/6	Timoma maligno, SAI, metástasis
+8581/1	Timoma tipo A, SAI	Timoma medular, SAI	
+8581/3	Timoma tipo A maligno	Timoma medular maligno	
+8581/6	Timoma tipo A maligno, metástasis
+8582/1	Timoma tipo AB, SAI
+8582/3	Timoma tipo AB maligno
+8582/6	Timoma tipo AB maligno, metástasis
+8583/1	Timoma tipo B1, SAI	Timoma organoide, SAI	Timoma predominantemente cortical, SAI	Timoma rico en linfocitos, SAI	
+8583/3	Timoma tipo B1 maligno	Timoma organoide maligno	Timoma predominantemente cortical maligno	Timoma rico en linfocitos maligno	
+8583/6	Timoma tipo B1 maligno, metástasis
+8584/1	Timoma tipo B2, SAI
+8584/3	Timoma tipo B2 maligno
+8584/6	Timoma tipo B2 maligno, metástasis
+8585/1	Timoma tipo B3, SAI	Timoma epitelial, SAI	
+8585/3	Timoma tipo B3, maligno	Timoma atípico maligno	Timoma epitelial maligno
+8585/6	Timoma tipo B3, maligno, metástasis
+8586/3	Carcinoma tímico, SAI
+8586/6	Carcinoma tímico, SAI, metástasis
+8587/0	Timoma hamartomatoso ectópico
+8588/3	Tumor epitelial fusiforme con elemento de tipo tímico	Tumor epitelial fusiforme con diferenciación de tipo tímico	
+8588/6	Tumor epitelial fusiforme con elemento de tipo tímico, metástasis
+8589/3	Carcinoma que muestra elemento de tipo tímico	CMETT	
+8589/6	Carcinoma que muestra elemento de tipo tímico, metástasis
+8590/1	Tumor de los cordones sexuales y del estroma gonadal, SAI	Tumor del estroma gonadal, SAI	Tumor del estroma ovárico	Tumor del estroma testicular	
+8591/1	Tumor de cordones sexuales y estroma gonadal, incompletamente diferenciado
+8592/1	Tumor de cordones sexuales y estroma gonadal, formas mixtas
+8593/1	Tumor de estroma con elementos menores de cordones sexuales
+8600/0	Tecoma, SAI
+8600/3	Tecoma maligno
+8600/6	Tecoma maligno, metástasis
+8601/0	Tecoma luteinizado
+8602/0	Tumor esclerosante del estroma
+8610/0	Luteoma, SAI
+8620/1	Tumor de células de la granulosa, tipo adulto
+8620/3	Tumor maligno de células de la granulosa	Tumor de células de la granulosa, sarcomatoide	
+8620/6	Tumor maligno de células de la granulosa, metástasis
+8621/1	Tumor de células de la granulosa y de la teca
+8622/1	Tumor de células de la granulosa juvenil
+8623/1	Tumor de los cordones sexuales con túbulos anulares
+8630/0	Androblastoma benigno
+8630/1	Androblastoma, SAI
+8630/3	Androblastoma maligno
+8630/6	Androblastoma maligno, metástasis
+8631/0	Tumor de células de Sertoli-Leydig, bien diferenciado
+8631/1	Tumor de células de Sertoli-Leydig de diferenciación intermedia
+8631/3	Tumor de células de Sertoli-Leydig, mal diferenciado
+8631/6	Tumor de células de Sertoli-Leydig, mal diferenciado, metástasis
+8632/1	Ginandroblastoma
+8633/1	Tumor de células de Sertoli-Leydig, retiforme
+8634/1	Tumor de células de Sertoli-Leydig, diferenciación intermedia, con elementos heterólogos
+8634/3	Tumor de células de Sertoli-Leydig, mal diferenciado, con elementos heterólogos
+8634/6	Tumor de células de Sertoli-Leydig, mal diferenciado, con elementos heterólogos, metástasis
+8640/1	Tumor de células de Sertoli, SAI	Adenoma testicular	Adenoma tubular de Pick	Androblastoma tubular, SAI	
+8640/3	Carcinoma de células de Sertoli
+8640/6	Carcinoma de células de Sertoli, metástasis
+8641/0	Tumor de células de Sertoli con depósito de lípidos	Foliculoma lipídico	Tumor de células de Sertoli ricas en lípidos
+8642/1	Tumor de células de Sertoli calcificante de células grandes
+8650/0	Tumor benigno de células de Leydig
+8650/1	Tumor de células de Leydig, SAI
+8650/3	Tumor maligno de células de Leydig
+8650/6	Tumor maligno de células de Leydig, metástasis
+8660/0	Tumor de células del hilio
+8670/0	Tumor de células lipídicas del ovario	Tumor de células esteroideas, SAI	Tumor de células lipoideas del ovario
+8670/3	Tumor de células esteroideas, maligno
+8670/6	Tumor de células esteroideas, maligno, metástasis
+8671/0	Tumor de restos suprarrenales
+8680/0	Paraganglioma, benigno
+8680/1	Paraganglioma, SAI
+8680/3	Paraganglioma maligno
+8680/6	Paraganglioma maligno, metástasis
+8681/1	Paraganglioma simpático
+8682/1	Paraganglioma parasimpático
+8683/0	Paraganglioma gangliocítico
+8690/1	Tumor del corpúsculo yugular	Paraganglioma yugulotimpánico	Tumor del glomo yugular
+8691/1	Tumor del corpúsculo aórtico	Paraganglioma del corpúsculo aórtico	
+8692/1	Tumor del cuerpo carotídeo
+8693/1	Paraganglioma extrasuprarrenal, SAI	Quimiodectoma	
+8693/3	Paraganglioma maligno extrasuprarrenal
+8693/6	Paraganglioma maligno extrasuprarrenal, metástasis
+8700/0	Feocromocitoma, SAI	Paraganglioma cromafín	Paraganglioma medular suprarrenal	Tumor cromafín	
+8700/3	Feocromocitoma maligno	Paraganglioma medular suprarrenal, maligno	
+8700/6	Feocromocitoma maligno, metástasis
+8710/3	Glomangiosarcoma
+8710/6	Glomangiosarcoma, metástasis
+8711/0	Tumor glómico, SAI
+8711/3	Tumor de glomus, maligno
+8711/6	Tumor de glomus, maligno, metástasis
+8712/0	Glomangioma
+8713/0	Glomangiomioma
+8720/0	Nevus pigmentado, SAI	Nevus piloso	Nevus, SAI
+8720/2	Melanoma in situ
+8720/3	Melanoma maligno, SAI
+8720/6	Melanoma maligno, SAI, metástasis
+8721/3	Melanoma nodular
+8721/6	Melanoma nodular, metástasis
+8722/0	Nevus de células en globo
+8722/3	Melanoma de células en globo
+8722/6	Melanoma de células en globo, metástasis
+8723/0	Nevus con halo
+8723/3	Melanoma maligno en regresión
+8723/6	Melanoma maligno en regresión, metástasis
+8725/0	Neuronevus
+8726/0	Nevus magnocelular	Melanocitoma, SAI	
+8727/0	Nevus displásico
+8728/0	Melanocitosis difusa
+8728/1	Melanocitoma meníngeo
+8728/3	Melanomatosis meníngea
+8728/6	Melanomatosis meníngea, metástasis
+8730/0	Nevus no pigmentado
+8730/3	Melanoma amelanótico
+8730/6	Melanoma amelanótico, metástasis
+8740/0	Nevus de la unión, SAI
+8740/3	Melanoma maligno en nevus de unión
+8740/6	Melanoma maligno en nevus de unión, metástasis
+8741/2	Melanosis precancerosa, SAI
+8741/3	Melanoma maligno en melanosis precancerosa
+8741/6	Melanoma maligno en melanosis precancerosa, metástasis
+8742/2	Léntigo maligno
+8742/3	Melanoma en léntigo maligno
+8742/6	Melanoma en léntigo maligno, metástasis
+8743/3	Melanoma de extensión superficial
+8743/6	Melanoma de extensión superficial, metástasis
+8744/3	Melanoma maligno lentiginoso acral
+8744/6	Melanoma maligno lentiginoso acral, metástasis
+8745/3	Melanoma desmoplásico, maligno	Melanoma maligno neurotrópico	
+8745/6	Melanoma desmoplásico, maligno, metástasis
+8746/3	Melanoma lentiginoso de mucosa
+8746/6	Melanoma lentiginoso de mucosa, metástasis
+8750/0	Nevus intradérmico
+8760/0	Nevus compuesto
+8761/0	Nevus congénito pequeño
+8761/1	Nevus pigmentado gigante, SAI
+8761/3	Melanoma maligno en nevus pigmentado gigante
+8761/6	Melanoma maligno en nevus pigmentado gigante, metástasis
+8762/1	Lesión dérmica proliferativa en nevus congénito
+8770/0	Nevus de células epitelioides y fusiformes	Nevus de Spitz	Nevus juvenil	Nevus pigmentado de células fusiformes de Reed	
+8770/3	Melanoma mixto de células epitelioides y fusiformes
+8770/6	Melanoma mixto de células epitelioides y fusiformes, metástasis
+8771/0	Nevus de células epitelioides
+8771/3	Melanoma de células epitelioides
+8771/6	Melanoma de células epitelioides, metástasis
+8772/0	Nevus fusocelular, SAI
+8772/3	Melanoma fusocelular, SAI
+8772/6	Melanoma fusocelular, SAI, metástasis
+8773/3	Melanoma de células fusiformes, tipo A
+8773/6	Melanoma de células fusiformes, tipo A, metástasis
+8774/3	Melanoma de células fusiformes, tipo B
+8774/6	Melanoma de células fusiformes, tipo B, metástasis
+8780/0	Nevus azul, SAI
+8780/3	Nevus azul maligno
+8780/6	Nevus azul maligno, metástasis
+8790/0	Nevus azul celular
+8800/0	Tumor benigno de tejidos blandos
+8800/3	Sarcoma, SAI	Tumor maligno de partes blandas	Tumor maligno de tejidos blandos	Tumor mesenquimal maligno	
+8800/6	Sarcoma, SAI, metástasis
+8800/9	Sarcomatosis, SAI
+8801/3	Sarcoma fusocelular, SAI
+8801/6	Sarcoma fusocelular, SAI, metástasis
+8802/3	Sarcoma de células gigantes
+8802/6	Sarcoma de células gigantes, metástasis
+8803/3	Sarcoma de células pequeñas
+8803/6	Sarcoma de células pequeñas, metástasis
+8804/3	Sarcoma epitelioide
+8804/6	Sarcoma epitelioide, metástasis
+8805/3	Sarcoma indiferenciado
+8805/6	Sarcoma indiferenciado, metástasis
+8806/3	Tumor desmoplásico de células redondas pequeñas
+8806/6	Tumor desmoplásico de células redondas pequeñas, metástasis
+8810/0	Fibroma, SAI
+8810/1	Fibroma celular
+8810/3	Fibrosarcoma, SAI
+8810/6	Fibrosarcoma, SAI, metástasis
+8811/0	Fibromixoma	Fibromixoma plexiforme	Mixofibroma, SAI
+8811/3	Fibromixosarcoma
+8811/6	Fibromixosarcoma, metástasis
+8812/0	Fibroma perióstico
+8812/3	Fibrosarcoma perióstico
+8812/6	Fibrosarcoma perióstico, metástasis
+8813/0	Fibroma fascial
+8813/3	Fibrosarcoma fascial
+8813/6	Fibrosarcoma fascial, metástasis
+8814/3	Fibrosarcoma infantil
+8814/6	Fibrosarcoma infantil, metástasis
+8815/0	Tumor fibroso solitario
+8815/3	Tumor fibroso solitario, maligno
+8815/6	Tumor fibroso solitario, maligno, metástasis
+8820/0	Elastofibroma
+8821/1	Fibromatosis agresiva	Desmoide, SAI	Fibroma invasivo
+8822/1	Fibromatosis abdominal	Fibromatosis mesentérica	Fibromatosis retroperitoneal
+8823/0	Fibroma desmoplásico
+8824/0	Miofibroma
+8824/1	Miofibromatosis	Miofibromatosis infantil	
+8825/0	Miofibroblastoma
+8825/1	Tumor miofibroblástico, SAI
+8826/0	Angiomiofibroblastoma
+8827/1	Tumor miofibroblástico peribronquial
+8830/0	Histiocitoma fibroso benigno	Fibroxantoma, SAI	Histiocitoma fibroso, SAI	Xantofibroma	
+8830/1	Fibrohistiocitoma atípico
+8830/3	Histiocitoma fibroso maligno
+8830/6	Histiocitoma fibroso maligno, metástasis
+8831/0	Histiocitoma, SAI	Histiocitoma profundo	Reticulohistiocitoma
+8832/0	Dermatofibroma, SAI	Fibrosis nodular subepidérmica	Hemangioma esclerosante	Histiocitoma cutáneo, SAI	
+8832/3	Dermatofibrosarcoma, SAI
+8832/6	Dermatofibrosarcoma, SAI, metástasis
+8833/3	Dermatofibrosarcoma protuberans pigmentado
+8833/6	Dermatofibrosarcoma protuberans pigmentado, metástasis
+8834/1	Fibroblastoma de células gigantes
+8835/1	Tumor fibrohistiocítico plexiforme
+8836/1	Fibrohistiocitoma angiomatoide
+8840/0	Mixoma, SAI
+8840/3	Mixosarcoma
+8840/6	Mixosarcoma, metástasis
+8841/1	Angiomixoma
+8842/0	Tumor fibromixoide osificante
+8850/0	Lipoma, SAI
+8850/1	Lipoma atípico	Liposarcoma superficial bien diferenciado de tejidos blandos	
+8850/3	Liposarcoma, SAI
+8850/6	Liposarcoma, SAI, metástasis
+8851/0	Fibrolipoma
+8851/3	Liposarcoma bien diferenciado	Liposarcoma esclerosante	Liposarcoma inflamatorio	Liposarcoma similar a lipoma	
+8851/6	Liposarcoma bien diferenciado, metástasis
+8852/0	Fibromixolipoma
+8852/3	Liposarcoma mixoide
+8852/6	Liposarcoma mixoide, metástasis
+8853/3	Liposarcoma de células redondas
+8853/6	Liposarcoma de células redondas, metástasis
+8854/0	Lipoma pleomorfo
+8854/3	Liposarcoma pleomorfo
+8854/6	Liposarcoma pleomorfo, metástasis
+8855/3	Liposarcoma mixto
+8855/6	Liposarcoma mixto, metástasis
+8856/0	Lipoma intramuscular	Lipoma infiltrante	
+8857/0	Lipoma fusocelular
+8857/3	Liposarcoma fibroblástico
+8857/6	Liposarcoma fibroblástico, metástasis
+8858/3	Liposarcoma desdiferenciado
+8858/6	Liposarcoma desdiferenciado, metástasis
+8860/0	Angiomiolipoma
+8861/0	Angiolipoma, SAI
+8862/0	Lipoma condroide
+8870/0	Mielolipoma
+8880/0	Hibernoma	Tumor de tejido adiposo pardo	
+8881/0	Lipoblastomatosis	Lipoma fetal, SAI	Lipomatosis fetal
+8840/0	Mixoma, SAI
+8840/3	Mixosarcoma
+8840/6	Mixosarcoma, metástasis
+8841/1	Angiomixoma
+8842/0	Tumor fibromixoide osificante
+8850/0	Lipoma, SAI
+8850/1	Lipoma atípico	Liposarcoma superficial bien diferenciado de tejidos blandos	
+8850/3	Liposarcoma, SAI
+8850/6	Liposarcoma, SAI, metástasis
+8851/0	Fibrolipoma
+8851/3	Liposarcoma bien diferenciado	Liposarcoma esclerosante	Liposarcoma inflamatorio	Liposarcoma similar a lipoma	
+8851/6	Liposarcoma bien diferenciado, metástasis
+8852/0	Fibromixolipoma
+8852/3	Liposarcoma mixoide
+8852/6	Liposarcoma mixoide, metástasis
+8853/3	Liposarcoma de células redondas
+8853/6	Liposarcoma de células redondas, metástasis
+8854/0	Lipoma pleomorfo
+8854/3	Liposarcoma pleomorfo
+8854/6	Liposarcoma pleomorfo, metástasis
+8855/3	Liposarcoma mixto
+8855/6	Liposarcoma mixto, metástasis
+8856/0	Lipoma intramuscular	Lipoma infiltrante	
+8857/0	Lipoma fusocelular
+8857/3	Liposarcoma fibroblástico
+8857/6	Liposarcoma fibroblástico, metástasis
+8858/3	Liposarcoma desdiferenciado
+8858/6	Liposarcoma desdiferenciado, metástasis
+8860/0	Angiomiolipoma
+8861/0	Angiolipoma, SAI
+8862/0	Lipoma condroide
+8870/0	Mielolipoma
+8880/0	Hibernoma	Tumor de tejido adiposo pardo	
+8881/0	Lipoblastomatosis	Lipoma fetal, SAI	Lipomatosis fetal
+8890/0	Leiomioma, SAI	Fibromioma	Leiomiofibroma	Leiomioma plexiforme	Lipoleiomioma
+8890/1	Leiomiomatosis, SAI
+8890/3	Leiomiosarcoma, SAI
+8890/6	Leiomiosarcoma, SAI, metástasis
+8891/0	Leiomioma epitelioide
+8891/3	Leiomiosarcoma epitelioide
+8891/6	Leiomiosarcoma epitelioide, metástasis
+8892/0	Leiomioma celular
+8893/0	Leiomioma atípico	Leiomioma pleomorfo	Leiomioma simplástico
+8894/0	Angiomioma	Leiomioma vascular	
+8894/3	Angiomiosarcoma
+8894/6	Angiomiosarcoma, metástasis
+8895/0	Mioma
+8895/3	Miosarcoma
+8895/6	Miosarcoma, metástasis
+8896/3	Leiomiosarcoma mixoide
+8896/6	Leiomiosarcoma mixoide, metástasis
+8897/1	Tumor de músculo liso de potencial maligno incierto
+8898/1	Leiomioma metastatizante
+8900/0	Rabdomioma, SAI
+8900/3	Rabdomiosarcoma, SAI
+8900/6	Rabdomiosarcoma, SAI, metástasis
+8901/3	Rabdomiosarcoma pleomorfo, tipo adulto
+8901/6	Rabdomiosarcoma pleomorfo, tipo adulto, metástasis
+8902/3	Rabdomiosarcoma de tipo mixto
+8902/6	Rabdomiosarcoma de tipo mixto, metástasis
+8903/0	Rabdomioma fetal
+8904/0	Rabdomioma adulto
+8905/0	Rabdomioma genital
+8910/3	Rabdomiosarcoma embrionario	Sarcoma botrioide	Sarcoma botrioides
+8910/6	Rabdomiosarcoma embrionario, metástasis
+8912/3	Rabdomiosarcoma de células fusiformes
+8912/6	Rabdomiosarcoma de células fusiformes, metástasis
+8920/3	Rabdomiosarcoma alveolar
+8920/6	Rabdomiosarcoma alveolar, metástasis
+8921/3	Rabdomiosarcoma con diferenciación ganglionar
+8921/6	Rabdomiosarcoma con diferenciación ganglionar, metástasis
+8930/0	Nódulo del estroma endometrial
+8930/3	Sarcoma del estroma endometrial, SAI	Sarcoma endometrial, SAI	
+8930/6	Sarcoma del estroma endometrial, SAI, metástasis
+8931/3	Sarcoma del estroma endometrial de bajo grado	Estromatosis endometrial	Miosis de estroma, SAI	Miosis estromal endolinfática	
+8931/6	Sarcoma del estroma endometrial de bajo grado, metástasis
+8932/0	Adenomioma
+8933/3	Adenosarcoma
+8933/6	Adenosarcoma, metástasis
+8934/3	Carcinofibroma
+8934/6	Carcinofibroma, metástasis
+8935/0	Tumor estromal benigno
+8935/1	Tumor estromal, SAI
+8935/3	Sarcoma estromal, SAI
+8935/6	Sarcoma estromal, SAI, metástasis
+8936/0	Tumor del estroma gastrointestinal, benigno
+8936/1	Tumor del estroma gastrointestinal, SAI	TNAG	Tumor de células marcapaso gastrointestinales	Tumor de nervios autónomos gastrointestinales	Tumor del estroma gastrointestinal, de potencial maligno incierto
+8936/3	Sarcoma del estroma gastrointestinal	Tumor del estroma gastrointestinal, maligno	
+8936/6	Sarcoma del estroma gastrointestinal, metástasis
+8940/0	Adenoma pleomorfo	Tumor mixto, SAI	Tumor mixto, tipo glándula salival, SAI
+8940/3	Tumor mixto maligno, SAI	Tumor mixto tipo glándula salival, maligno	
+8940/6	Tumor mixto maligno, SAI, metástasis
+8941/3	Carcinoma en adenoma pleomorfo
+8941/6	Carcinoma en adenoma pleomorfo, metástasis
+8950/3	Tumor mülleriano mixto
+8950/6	Tumor mülleriano mixto, metástasis
+8951/3	Tumor mesodérmico mixto
+8951/6	Tumor mesodérmico mixto, metástasis
+8959/0	Nefroma quístico benigno
+8959/1	Nefroblastoma quístico parcialmente diferenciado
+8959/3	Nefroma quístico maligno
+8959/6	Nefroma quístico maligno, metástasis
+8960/1	Nefroma mesoblástico
+8960/3	Nefroblastoma, SAI	Tumor de Wilms	
+8960/6	Nefroblastoma, SAI, metástasis
+8963/3	Tumor rabdoide maligno	Tumor rabdoide, SAI	
+8963/6	Tumor rabdoide maligno, metástasis
+8964/3	Sarcoma de células claras del riñón
+8964/6	Sarcoma de células claras del riñón, metástasis
+8965/0	Adenofibroma nefrogénico
+8966/0	Tumor de células intersticiales de médula renal
+8967/0	Tumor renal osificante
+8970/3	Hepatoblastoma	Hepatoblastoma epitelio-mesenquimal mixto	Hepatoma embrionario
+8970/6	Hepatoblastoma, metástasis
+8971/3	Pancreatoblastoma
+8971/6	Pancreatoblastoma, metástasis
+8972/3	Blastoma pulmonar
+8972/6	Blastoma pulmonar, metástasis
+8973/3	Blastoma pleuropulmonar
+8973/6	Blastoma pleuropulmonar, metástasis
+8974/1	Sialoblastoma
+8975/1	Tumor del estroma epitelial anidado calcificante
+8980/3	Carcinosarcoma, SAI
+8980/6	Carcinosarcoma, SAI, metástasis
+8981/3	Carcinosarcoma embrionario
+8981/6	Carcinosarcoma embrionario, metástasis
+8982/0	Mioepitelioma	Tumor mioepitelial	
+8982/3	Mioepitelioma maligno
+8982/6	Mioepitelioma maligno, metástasis
+8983/0	Adenomioepitelioma
+8990/0	Mesenquimoma benigno
+8990/1	Mesenquimoma, SAI
+8990/3	Mesenquimoma maligno
+8990/6	Mesenquimoma maligno, metástasis
+8991/3	Sarcoma embrionario
+8991/6	Sarcoma embrionario, metástasis
+9000/0	Tumor de Brenner, SAI
+9000/1	Tumor de Brenner de malignidad borderline
+9000/3	Tumor de Brenner maligno
+9000/6	Tumor de Brenner maligno, metástasis
+9010/0	Fibroadenoma, SAI
+9011/0	Fibroadenoma intraductal
+9012/0	Fibroadenoma pericanalicular
+9013/0	Adenofibroma, SAI	Cistadenofibroma, SAI	
+9014/0	Adenofibroma seroso, SAI
+9014/1	Adenofibroma seroso de malignidad borderline
+9014/3	Adenocarcinofibroma seroso	Cistadenocarcinofibroma seroso	Cistadenofibroma seroso maligno
+9014/6	Adenocarcinofibroma seroso, metástasis
+9015/0	Adenofibroma mucinoso, SAI
+9015/1	Adenofibroma mucinoso de malignidad borderline
+9015/3	Adenocarcinofibroma mucinoso	Cistadenocarcinofibroma mucinoso	Cistadenofibroma mucinoso maligno
+9015/6	Adenocarcinofibroma mucinoso, metástasis
+9016/0	Fibroadenoma gigante
+9020/0	Tumor filodes benigno
+9020/1	Tumor filodes borderline	Tumor filodes, SAI	
+9020/3	Tumor filodes maligno
+9020/6	Tumor filodes maligno, metástasis
+9030/0	Fibroadenoma juvenil
+9040/0	Sinovioma benigno
+9040/3	Sarcoma sinovial , SAI	Sinovioma, SAI	
+9040/6	Sarcoma sinovial , SAI, metástasis
+9041/3	Sarcoma sinovial, tipo fusocelular
+9041/6	Sarcoma sinovial, tipo fusocelular, metástasis
+9042/3	Sarcoma sinovial de células epitelioides
+9042/6	Sarcoma sinovial de células epitelioides, metástasis
+9043/3	Sarcoma sinovial, tipo bifásico
+9043/6	Sarcoma sinovial, tipo bifásico, metástasis
+9044/3	Sarcoma de células claras, SAI	Sarcoma de células claras de tendones y aponeurosis	
+9044/6	Sarcoma de células claras, SAI, metástasis
+9050/0	Mesotelioma benigno
+9050/3	Mesotelioma maligno
+9050/6	Mesotelioma maligno, metástasis
+9051/0	Mesotelioma fibroso benigno
+9051/3	Mesotelioma fibroso maligno	Mesotelioma fibroso, SAI	Mesotelioma fusiforme	Mesotelioma sarcomatoide	
+9051/6	Mesotelioma fibroso maligno, metástasis
+9052/0	Mesotelioma epitelioide benigno	Papiloma mesotelial	
+9052/3	Mesotelioma epitelioide maligno
+9052/6	Mesotelioma epitelioide maligno, metástasis
+9053/3	Mesotelioma maligno, tipo bifásico
+9053/6	Mesotelioma maligno, tipo bifásico, metástasis
+9054/0	Tumor adenomatoide, SAI
+9055/0	Mesotelioma multiquístico, benigno
+9055/1	Mesotelioma quístico, SAI
+9060/3	Disgerminoma
+9060/6	Disgerminoma, metástasis
+9061/3	Seminoma, SAI
+9061/6	Seminoma, SAI, metástasis
+9062/3	Seminoma anaplásico
+9062/6	Seminoma anaplásico, metástasis
+9063/3	Seminoma espermatocítico
+9063/6	Seminoma espermatocítico, metástasis
+9064/2	Células germinales malignas intratubulares
+9064/3	Germinoma
+9064/6	Germinoma , metástasis
+9065/3	Tumor de células germinales, distinto de seminoma
+9065/6	Tumor de células germinales, distinto de seminoma, metástasis
+9070/3	Carcinoma embrionario, SAI
+9070/6	Carcinoma embrionario, SAI, metástasis
+9071/3	Tumor del saco vitelino	Orquioblastoma	Tumor del saco vitelino hepatoide	Tumor del seno endodérmico	Tumor vitelino polivesicular
+9071/6	Tumor del saco vitelino, metástasis
+9072/3	Poliembrioma
+9072/6	Poliembrioma , metástasis
+9073/1	Gonadoblastoma
+9080/0	Teratoma benigno	Teratoma diferenciado	Teratoma maduro	Teratoma quístico adulto	Teratoma quístico, SAI
+9080/1	Teratoma, SAI
+9080/3	Teratoma maligno, SAI	Teratoma embrionario	Teratoma inmaduro maligno	Teratoma inmaduro, SAI	
+9080/6	Teratoma maligno, SAI, metástasis
+9081/3	Teratocarcinoma
+9081/6	Teratocarcinoma, metástasis
+9082/3	Teratoma maligno indiferenciado
+9082/6	Teratoma maligno indiferenciado, metástasis
+9083/3	Teratoma maligno intermedio
+9083/6	Teratoma maligno intermedio, metástasis
+9084/0	Quiste dermoide, SAI
+9084/3	Teratoma con transformación maligna	Quiste dermoide con tumor secundario	
+9084/6	Teratoma con transformación maligna, metástasis
+9085/3	Tumor mixto de células germinales
+9085/6	Tumor mixto de células germinales, metástasis
+9090/0	Estruma ovárico, SAI
+9090/3	Estruma ovárico maligno
+9090/6	Estruma ovárico maligno, metástasis
+9091/1	Carcinoide estrumal
+9100/0	Mola hidatiforme, SAI	Mola hidatiforme completa	
+9100/1	Mola hidatiforme invasora	Corioadenoma destruens	Mola hidatiforme maligna	Mola invasora, SAI	
+9100/3	Coriocarcinoma, SAI	Epitelioma coriónico	
+9100/6	Coriocarcinoma, SAI, metástasis
+9101/3	Coriocarcinoma combinado con otros elementos de células germinales	Coriocarcinoma combinado con teratoma	
+9101/6	Coriocarcinoma combinado con otros elementos de células germinales, metástasis
+9102/3	Teratoma trofoblástico maligno
+9102/6	Teratoma trofoblástico maligno, metástasis
+9103/0	Mola hidatiforme parcial
+9104/1	Tumor trofoblástico de localización placentaria
+9105/3	Tumor trofoblástico epitelioide
+9105/6	Tumor trofoblástico epitelioide, metástasis
+9110/0	Mesonefroma benigno	Adenoma mesonéfrico	
+9110/1	Tumor mesonéfrico, SAI
+9110/3	Mesonefroma maligno	Carcinoma del conducto de Wolff	Mesonefroma, SAI
+9110/6	Mesonefroma maligno, metástasis
+9120/0	Hemangioma, SAI	Corioangioma	
+9120/3	Hemangiosarcoma
+9120/6	Hemangiosarcoma, metástasis
+9121/0	Hemangioma cavernoso
+9122/0	Hemangioma venoso
+9123/0	Hemangioma racemoso
+9124/3	Sarcoma de células de Kupffer
+9124/6	Sarcoma de células de Kupffer, metástasis
+9125/0	Hemangioma epitelioide
+9530/0	Meningioma, SAI	Meningioma microquístico	Meningioma rico en linfoplasmocitos	Meningioma secretor	
+9530/1	Meningiomatosis, SAI	Meningiomatosis difusa	
+9530/3	Meningioma maligno	Sarcoma leptomeníngeo	Sarcoma meníngeo	Sarcoma meningotelial	
+9530/6	Meningioma maligno, metástasis
+9531/0	Meningioma meningotelial	Meningioma sincitial	
+9532/0	Meningioma fibroso
+9533/0	Meningioma psamomatoso
+9534/0	Meningioma angiomatoso
+9535/0	Meningioma hemangioblástico
+9537/0	Meningioma transicional
+9538/1	Meningioma de células claras
+9538/3	Meningioma papilar
+9538/6	Meningioma papilar, metástasis
+9539/1	Meningioma atípico
+9539/3	Sarcomatosis meníngea
+9539/6	Sarcomatosis meníngea, metástasis
+9130/0	Hemangioendotelioma benigno
+9130/1	Hemangioendotelioma, SAI	Hemangioendotelioma kaposiforme	
+9130/3	Hemangioendotelioma maligno
+9130/6	Hemangioendotelioma maligno, metástasis
+9131/0	Hemangioma capilar	Hemangioma juvenil	Hemangioma plexiforme	Hemangioma simple	
+9132/0	Hemangioma intramuscular
+9133/1	Hemangioendotelioma epitelioide, SAI
+9133/3	Hemangioendotelioma epitelioide maligno
+9133/6	Hemangioendotelioma epitelioide maligno, metástasis
+9135/1	Angioendotelioma papilar endovascular
+9136/1	Hemangioendotelioma de células fusiformes
+9140/3	Sarcoma de Kaposi
+9140/6	Sarcoma de Kaposi, metástasis
+9141/0	Angioqueratoma
+9142/0	Hemangioma verrugoso queratósico
+9150/0	Hemangiopericitoma benigno
+9150/1	Hemangiopericitoma, SAI
+9150/3	Hemangiopericitoma maligno
+9150/6	Hemangiopericitoma maligno, metástasis
+9160/0	Angiofibroma, SAI	Angiofibroma de células gigantes	Angiofibroma juvenil	Nevus involutivo	Pápula fibrosa de la nariz
+9161/0	Hemangioma racemoso adquirido
+9161/1	Hemangioblastoma
+9170/0	Linfangioma, SAI
+9170/3	Linfangiosarcoma	Linfangioendoteliosarcoma	Sarcoma linfangioendotelial
+9170/6	Linfangiosarcoma, metástasis
+9171/0	Linfangioma capilar
+9172/0	Linfangioma cavernoso
+9173/0	Linfangioma quístico	Higroma, SAI	
+9174/0	Linfangiomioma
+9174/1	Linfangiomiomatosis
+9175/0	Hemolinfangioma
+9180/0	Osteoma, SAI
+9180/3	Osteosarcoma, SAI	Sarcoma osteoblástico	Sarcoma osteogénico, SAI
+9180/6	Osteosarcoma, SAI, metástasis
+9181/3	Osteosarcoma condroblástico
+9181/6	Osteosarcoma condroblástico, metástasis
+9182/3	Osteosarcoma fibroblástico
+9182/6	Osteosarcoma fibroblástico, metástasis
+9183/3	Osteosarcoma telangiectásico
+9183/6	Osteosarcoma telangiectásico, metástasis
+9184/3	Osteosarcoma en enfermedad ósea de Paget
+9184/6	Osteosarcoma en enfermedad ósea de Paget, metástasis
+9185/3	Osteosarcoma de células pequeñas
+9185/6	Osteosarcoma de células pequeñas, metástasis
+9186/3	Osteosarcoma central	Osteosarcoma medular	
+9186/6	Osteosarcoma central, metástasis
+9187/3	Osteosarcoma intraóseo bien diferenciado
+9187/6	Osteosarcoma intraóseo bien diferenciado, metástasis
+9191/0	Osteoma osteoide, SAI
+9192/3	Osteosarcoma paraóseo
+9192/6	Osteosarcoma paraóseo, metástasis
+9193/3	Osteosarcoma perióstico
+9193/6	Osteosarcoma perióstico, metástasis
+9194/3	Osteosarcoma superficial de alto grado
+9194/6	Osteosarcoma superficial de alto grado, metástasis
+9195/3	Osteosarcoma intracortical
+9195/6	Osteosarcoma intracortical, metástasis
+9200/0	Osteoblastoma, SAI
+9200/1	Osteoblastoma agresivo
+9210/0	Osteocondroma	Exostosis cartilaginosa	Exostosis osteocartilaginosa
+9210/1	Osteocondromatosis, SAI
+9220/0	Condroma, SAI
+9220/1	Condromatosis, SAI
+9220/3	Condrosarcoma, SAI
+9220/6	Condrosarcoma, SAI, metástasis
+9221/0	Condroma yuxtacortical
+9221/3	Condrosarcoma yuxtacortical
+9221/6	Condrosarcoma yuxtacortical, metástasis
+9230/0	Condroblastoma, SAI	Tumor de Codman	
+9230/3	Condroblastoma maligno
+9230/6	Condroblastoma maligno, metástasis
+9231/3	Condrosarcoma mixoide
+9231/6	Condrosarcoma mixoide, metástasis
+9240/3	Condrosarcoma mesenquimal
+9240/6	Condrosarcoma mesenquimal, metástasis
+9241/0	Fibroma condromixoide
+9242/3	Condrosarcoma de células claras
+9242/6	Condrosarcoma de células claras, metástasis
+9243/3	Condrosarcoma desdiferenciado
+9243/6	Condrosarcoma desdiferenciado, metástasis
+9250/1	Tumor de células gigantes del hueso, SAI
+9250/3	Tumor maligno de células gigantes del hueso	Sarcoma de células gigantes del hueso	
+9250/6	Tumor maligno de células gigantes del hueso, metástasis
+9251/1	Tumor de células gigantes de partes blandas, SAI
+9251/3	Tumor maligno de células gigantes de partes blandas
+9251/6	Tumor maligno de células gigantes de partes blandas, metástasis
+9252/0	Tumor de células gigantes tenosinovial	Tumor de células gigantes de vaina tendinosa	
+9252/3	Tumor de células gigantes tenosinovial maligno
+9252/6	Tumor de células gigantes tenosinovial maligno, metástasis
+9260/3	Sarcoma de Ewing
+9260/6	Sarcoma de Ewing, metástasis
+9261/3	Adamantinoma de huesos largos
+9261/6	Adamantinoma de huesos largos , metástasis
+9262/0	Fibroma osificante	Osteofibroma	
+9270/0	Tumor odontogénico benigno
+9270/1	Tumor odontogénico, SAI
+9270/3	Tumor odontogénico maligno	Carcinoma intraóseo primario	Carcinoma odontogénico	Sarcoma odontogénico	
+9270/6	Tumor odontogénico maligno, metástasis
+9271/0	Fibrodentinoma ameloblástico
+9272/0	Cementoma, SAI	Displasia periapical cementoósea	
+9273/0	Cementoblastoma benigno
+9274/0	Fibroma cementificante
+9275/0	Cementoma gigantiforme
+9280/0	Odontoma, SAI
+9281/0	Odontoma compuesto
+9282/0	Odontoma complejo
+9290/0	Fibroodontoma ameloblástico
+9290/3	Odontosarcoma ameloblástico	Fibroodontosarcoma ameloblástico	
+9290/6	Odontosarcoma ameloblástico, metástasis
+9300/0	Tumor odontogénico adenomatoide
+9301/0	Quiste odontogénico calcificante
+9302/0	Tumor odontogénico de células fantasma
+9310/0	Ameloblastoma, SAI
+9310/3	Ameloblastoma maligno
+9310/6	Ameloblastoma maligno, metástasis
+9311/0	Odontoameloblastoma
+9312/0	Tumor odontogénico escamoso
+9320/0	Mixoma odontogénico
+9321/0	Fibroma odontogénico central
+9322/0	Fibroma odontogénico periférico
+9330/0	Fibroma ameloblástico
+9330/3	Fibrosarcoma ameloblástico	Sarcoma ameloblástico	
+9330/6	Fibrosarcoma ameloblástico, metástasis
+9340/0	Tumor odontogénico epitelial calcificante
+9341/1	Tumor odontogénico de células claras
+9342/3	Carcinosarcoma odontogénico
+9342/6	Carcinosarcoma odontogénico, metástasis
+9350/1	Craneofaringioma
+9351/1	Craneofaringioma adamantinomatoso
+9352/1	Craneofaringioma, papilar
+9360/1	Pinealoma
+9361/1	Pineocitoma
+9362/3	Pineoblastoma	Tumor del parénquima pineal de diferenciación intermedia	Tumor pineal de transición	Tumor pineal mixto	
+9362/6	Pineoblastoma, metástasis
+9363/0	Tumor neuroectodérmico melanótico	Progonoma melanótico	Tumor de vestigios retinianos
+9364/3	Tumor neuroectodérmico periférico	Tumor neuroectodérmico primitivo periférico, SAI	Tumor neuroectodérmico, SAI
+9364/6	Tumor neuroectodérmico periférico, metástasis
+9365/3	Tumor de Askin
+9365/6	Tumor de Askin, metástasis
+9370/3	Cordoma, SAI
+9370/6	Cordoma, SAI, metástasis
+9371/3	Cordoma condroide
+9371/6	Cordoma condroide, metástasis
+9372/3	Cordoma desdiferenciado
+9372/6	Cordoma desdiferenciado, metástasis
+9373/0	Paracordoma
+9380/3	Glioma maligno
+9380/6	Glioma maligno, metástasis
+9381/3	Gliomatosis del cerebro
+9381/6	Gliomatosis del cerebro, metástasis
+9382/3	Glioma mixto	Oligoastrocitoma anaplásico	
+9382/6	Glioma mixto, metástasis
+9383/1	Subependimoma	Glioma subependimario	Subependimoma-ependimoma mixto
+9384/1	Astrocitoma subependimario de células gigantes
+9390/0	Papiloma de los plexos coroideos, SAI
+9390/1	Papiloma atípico del plexo coroideo
+9390/3	Carcinoma de plexo coroideo	Papiloma de plexo coroideo maligno	
+9390/6	Carcinoma de plexo coroideo, metástasis
+9391/3	Ependimoma, SAI	Ependimoma de células claras	Ependimoma epitelial	Ependimoma tanicítico	
+9391/6	Ependimoma, SAI, metástasis
+9392/3	Ependimoma anaplásico
+9392/6	Ependimoma anaplásico, metástasis
+9393/3	Ependimoma papilar
+9393/6	Ependimoma papilar, metástasis
+9394/1	Ependimoma mixopapilar
+9395/3	Tumor papilar de la región pineal
+9395/6	Tumor papilar de la región pineal, metástasis
+9400/3	Astrocitoma, SAI	Astrocitoma difuso	Astrocitoma difuso de bajo grado	Astrocitoma quístico	Astroglioma	Glioma astrocítico
+9400/6	Astrocitoma, SAI, metástasis
+9401/3	Astrocitoma anaplásico
+9401/6	Astrocitoma anaplásico, metástasis
+9410/3	Astrocitoma protoplasmático
+9410/6	Astrocitoma protoplasmático, metástasis
+9411/3	Astrocitoma gemistocítico
+9411/6	Astrocitoma gemistocítico, metástasis
+9412/1	Ganglioglioma infantil desmoplásico
+9413/0	Tumor neuroepitelial disembrioplásico
+9420/3	Astrocitoma fibrilar
+9420/6	Astrocitoma fibrilar, metástasis
+9421/1	Astrocitoma pilocítico	Astrocitoma piloide	Espongioblastoma, SAI
+9423/3	Espongioblastoma polar	Espongioblastoma polare	
+9423/6	Espongioblastoma polar, metástasis
+9424/3	Xantoastrocitoma pleomorfo
+9424/6	Xantoastrocitoma pleomorfo, metástasis
+9425/3	Astrocitoma pilomixoide
+9425/6	Astrocitoma pilomixoide, metástasis
+9430/3	Astroblastoma
+9430/6	Astroblastoma, metástasis
+9431/1	Glioma angiocéntrico
+9432/1	Pituicitoma
+9440/3	Glioblastoma	Glioblastoma multiforme	
+9440/6	Glioblastoma, metástasis
+9441/3	Glioblastoma de células gigantes
+9441/6	Glioblastoma de células gigantes, metástasis
+9442/1	Gliofibroma
+9442/3	Gliosarcoma
+9442/6	Gliosarcoma, metástasis
+9444/1	Glioma cordoide
+9450/3	Oligodendroglioma, SAI
+9450/6	Oligodendroglioma, SAI, metástasis
+9451/3	Oligodendroglioma anaplásico
+9451/6	Oligodendroglioma anaplásico, metástasis
+9460/3	Oligodendroblastoma
+9460/6	Oligodendroblastoma, metástasis
+9470/3	Meduloblastoma, SAI
+9470/6	Meduloblastoma, SAI, metástasis
+9471/3	Meduloblastoma nodular desmoplásico	Meduloblastoma desmoplásico	Sarcoma cerebeloso aracnoideo circunscrito
+9471/6	Meduloblastoma nodular desmoplásico, metástasis
+9472/3	Medulomioblastoma
+9472/6	Medulomioblastoma, metástasis
+9473/3	Tumor neuroectodérmico primitivo, SAI	TNEP, SAI	TNEPC	Tumor neuroectodérmico primitivo central, SAI	
+9473/6	Tumor neuroectodérmico primitivo, SAI, metástasis
+9474/3	Meduloblastoma de células grandes
+9474/6	Meduloblastoma de células grandes, metástasis
+9480/3	Sarcoma cerebeloso, SAI
+9480/6	Sarcoma cerebeloso, SAI, metástasis
+9490/0	Ganglioneuroma
+9490/3	Ganglioneuroblastoma
+9490/6	Ganglioneuroblastoma, metástasis
+9491/0	Ganglioneuromatosis
+9492/0	Gangliocitoma
+9493/0	Gangliocitoma displásico del cerebelo (Lhermitte-Duclos)
+9500/3	Neuroblastoma, SAI	Simpaticoblastoma	
+9500/6	Neuroblastoma, SAI, metástasis
+9501/0	Meduloepitelioma benigno
+9501/3	Meduloepitelioma, SAI
+9501/6	Meduloepitelioma, SAI, metástasis
+9502/0	Meduloepitelioma teratoide, benigno
+9502/3	Meduloepitelioma teratoide
+9502/6	Meduloepitelioma teratoide, metástasis
+9503/3	Neuroepitelioma, SAI
+9503/6	Neuroepitelioma, SAI, metástasis
+9504/3	Espongioneuroblastoma
+9504/6	Espongioneuroblastoma, metástasis
+9505/1	Ganglioglioma, SAI	Neuroastrocitoma	
+9505/3	Ganglioglioma, anaplásico
+9505/6	Ganglioglioma, anaplásico, metástasis
+9506/1	Neurocitoma central	Meduloblastoma lipomatoso	Medulocitoma	Neurocitoma	Neurocitoma extraventricular	Neurolipocitoma
+9507/0	Tumor de los corpúsculos de Pacini
+9508/3	Tumor teratoide / rabdoide atípico
+9508/6	Tumor teratoide / rabdoide atípico, metástasis
+9509/1	Tumor glioneuronal papilar
+9510/0	Retinocitoma
+9510/3	Retinoblastoma, SAI
+9510/6	Retinoblastoma, SAI, metástasis
+9511/3	Retinoblastoma diferenciado
+9511/6	Retinoblastoma diferenciado, metástasis
+9512/3	Retinoblastoma indiferenciado
+9512/6	Retinoblastoma indiferenciado, metástasis
+9513/3	Retinoblastoma difuso
+9513/6	Retinoblastoma difuso, metástasis
+9514/1	Retinoblastoma, con regresión espontánea
+9520/3	Tumor neurogénico olfatorio
+9520/6	Tumor neurogénico olfatorio, metástasis
+9521/3	Neurocitoma olfatorio
+9521/6	Neurocitoma olfatorio, metástasis
+9522/3	Neuroblastoma olfatorio
+9522/6	Neuroblastoma olfatorio, metástasis
+9523/3	Neuroepitelioma olfatorio
+9523/6	Neuroepitelioma olfatorio, metástasis
+9540/0	Neurofibroma, SAI
+9540/1	Neurofibromatosis, SAI	Enfermedad de Von Recklinghausen	Neurofibromatosis múltiple
+9540/3	Tumor maligno de vaina nerviosa periférica	Neurosarcoma	Sarcoma neurogénico	TMVNP con diferenciación glandular	TMVNP con diferenciación mesenquimal	TMVNP epitelioide	TMVNP melanótico	TMVNP psamomatoso melanótico	TMVNP, SAI	
+9540/6	Tumor maligno de vaina nerviosa periférica, metástasis
+9541/0	Neurofibroma melanótico
+9550/0	Neurofibroma plexiforme
+9560/0	Neurilemoma, SAI	Neuroma acústico	Schwannoma antiguo	Schwannoma celular	Schwannoma degenerado	Schwannoma melanótico	Schwannoma pigmentado	Schwannoma plexiforme	Schwannoma psamomatoso	Schwannoma, SAI
+9560/1	Neurinomatosis
+9560/3	Neurilemoma maligno	Schwannoma maligno, SAI	
+9560/6	Neurilemoma maligno, metástasis
+9561/3	Tumor maligno de vaina del nervio periférico con diferenciación rabdomioblástica	TMVNP con diferenciación rabdomioblástica	Tumor tritón maligno
+9561/6	Tumor maligno de vaina del nervio periférico con diferenciación rabdomioblástica, metástasis
+9562/0	Neurotecoma
+9570/0	Neuroma, SAI
+9571/0	Perineuroma, SAI	Perineuroma intraneural	
+9571/3	Perineuroma maligno
+9571/6	Perineuroma maligno, metástasis
+9580/0	Tumor de células granulares, SAI
+9580/3	Tumor maligno de células granulares
+9580/6	Tumor maligno de células granulares, metástasis
+9581/3	Sarcoma alveolar de partes blandas
+9581/6	Sarcoma alveolar de partes blandas, metástasis
+9582/0	Tumor de células granulares de la región selar
+9590/3	Linfoma maligno, SAI	Microglioma	
+9591/3	Linfoma maligno no Hodgkin, SAI	Linfoma difuso de células B pequeñas de pulpa roja esplénica	Linfoma maligno de células hendidas, SAI	Linfoma maligno de células indiferenciadas, no Burkitt	Linfoma maligno de células no hendidas, SAI	Linfoma maligno de células pequeñas hendidas, difuso	Linfoma maligno de células pequeñas hendidas, SAI	Linfoma maligno de células pequeñas no hendidas difuso	Linfoma maligno difuso, SAI	Linfoma maligno linfocítico nodular de diferenciación intermedia	Linfoma maligno, linfocítico, poco diferenciado, difuso	Linfoma maligno, tipo celular indiferenciado, SAI	Linfoma no Hodgkin, SAI	Linfoma/leucemia de células B esplénicas, inclasificable	Linfosarcoma difuso	Linfosarcoma, SAI	Reticulosarcoma difuso	Reticulosarcoma, SAI	Sarcoma de células reticulares, difuso	Sarcoma de células reticulares, SAI	Variante de leucemia de células peludas	
+9596/3	Linfoma compuesto, Hodgkin y no Hodgkin
+9597/3	Linfoma cutáneo primario centrofolicular
+9650/3	Linfoma de Hodgkin, SAI	Linfoma maligno, tipo Hodgkin	
+9651/3	Linfoma de Hodgkin, rico en linfocitos	Enfermedad de Hodgkin, predominio linfocítico, SAI	Enfermedad de Hodgkin, predominio linfocítico-histiocítico	Linfoma de Hodgkin clásico, rico en linfocitos	
+9652/3	Linfoma de Hodgkin, celularidad mixta, SAI
+9653/3	Linfoma de Hodgkin con depleción linfocítica, SAI
+9654/3	Linfoma de Hodgkin con depleción linfocitíca, tipo fibrosis difusa
+9655/3	Linfoma de Hodgkin con depleción linfocítica, tipo reticular
+9659/3	Linfoma de Hodgkin nodular con predominio linfocítico	Paragranuloma de Hodgkin nodular	Paragranuloma de Hodgkin, SAI
+9661/3	Granuloma de Hodgkin
+9662/3	Sarcoma de Hodgkin
+9663/3	Linfoma de Hodgkin tipo esclerosis nodular, SAI	Linfoma de Hodgkin clásico, esclerosis nodular, SAI	
+9664/3	Linfoma de Hodgkin, esclerosis nodular, fase celular
+9665/3	Linfoma de Hodgkin, esclerosis nodular, grado 1	Enfermedad de Hodgkin, esclerosis nodular, predominio linfocítico	Linfoma de Hodgkin clásico, esclerosis nodular, grado 1
+9667/3	Linfoma de Hodgkin, esclerosis nodular, grado 2	Enfermedad de Hodgkin, esclerosis nodular, variante sincitial	Linfoma de Hodgkin clásico, esclerosis nodular, grado 2
+9670/3	Linfoma maligno de linfocitos B pequeños, SAI	Linfoma maligno difuso de células pequeñas	Linfoma maligno linfocítico bien diferenciado, difuso	Linfoma maligno linfocítico difuso, SAI	Linfoma maligno linfocítico, SAI	Linfoma maligno, linfocitos pequeños, difuso	Linfoma maligno, linfocitos pequeños, SAI	
+9671/3	Linfoma maligno linfoplasmocítico	Linfoma maligno linfoplasmocitoide	Linfoma maligno plasmocitoide
+9673/3	Linfoma de células del manto	Linfoma maligno linfocítico difuso con diferenciación intermedia	Poliposis linfomatosa maligna
+9675/3	Linfoma maligno difuso mixto de células grandes y pequeñas	Linfoma maligno difuso, centroblástico-centrocítico	Linfoma maligno difuso, tipo celular mixto	Linfoma maligno, centrocítico-centroblástico, SAI	
+9678/3	Linfoma de efusión primaria
+9679/3	Linfoma mediastínico (tímico) tipo B de células grandes
+9680/3	Linfoma maligno difuso tipo B de células grandes, SAI	Linfoma maligno centroblástico, SAI	Linfoma maligno de células grandes hendidas y no hendidas	Linfoma maligno de células grandes hendidas, SAI	Linfoma maligno de células hendidas grandes, SAI	Linfoma maligno de células grandes no hendidas, SAI	Linfoma maligno de células grandes, SAI	Linfoma maligno de células no hendidas, SAI	Linfoma maligno difuso centroblástico	Linfoma maligno difuso de células grandes no hendidas	Linfoma maligno difuso de células grandes, SAI	Linfoma maligno difuso de células no hendidas, SAI	Linfoma maligno difuso tipo B de células grandes centroblástico, SAI	Linfoma maligno histiocítico difuso	Linfoma maligno histiocítico, SAI	Linfoma maligno tipo B de células grandes, SAI	Linfoma primario cutáneo difuso de celulas B grandes tipo pierna (LPCDCBG-TP)	Linfoma primario difuso de células B grandes del SNC	Linfoma tipo B de células grandes anaplásico	Linfoma tipo B de células grandes asociado con inflamación crónica	Linfoma tipo B de células grandes VEB positivo de la edad avanzada	Linfoma tipo b difuso de células grandes, SAI
+9684/3	Linfoma maligno inmunoblástico difuso tipo B de células grandes, SAI	Linfoma maligno inmunoblástico, SAI	Sarcoma inmunoblástico
+9687/3	Linfoma de Burkitt, SAI	Linfoma maligno indiferenciado tipo Burkitt	Linfoma tipo Burkitt	Tumor de Burkitt	
+9688/3	Linfoma tipo B de células grandes, rico en células T	Linfoma tipo B de células grandes rico en histiocitos	
+9689/3	Linfoma de células B de zona marginal esplénica	Linfoma esplénico de zona marginal, SAI	
+9690/3	Linfoma folicular, SAI	Linfoma maligno folicular centroblástico-centrocítico	Linfoma maligno folicular centrofolicular	Linfoma maligno folicular, SAI	Linfoma maligno linfocítico nodular, SAI	Linfoma maligno nodular, SAI
+9691/3	Linfoma folicular, grado 2	Linfoma maligno folicular de tipo celular mixto	Linfoma maligno nodular mixto linfocítico-histiocítico	Linfoma maligno nodular de tipo celular mixto	
+9695/3	Linfoma folicular grado 1	Linfoma maligno folicular de células pequeñas hendidas	Linfoma maligno nodular linfocítico poco diferenciado
+9698/3	Linfoma folicular grado 3	Linfoma folicular grado 3B	Linfoma maligno centroblástico folicular	Linfoma maligno folicular de células grandes hendidas	Linfoma maligno folicular de células grandes no hendidas	Linfoma maligno folicular de células grandes, SAI	Linfoma maligno folicular de células no hendidas, SAI	Linfoma maligno histiocítico nodular	Linfoma maligno linfocítico bien diferenciado nodular	
+9699/3	Linfoma de células B de zona marginal, SAI	Linfoma de tejido linfoide asociado a la piel	Linfoma de tejido linfoide asociado a las mucosas	Linfoma de zona marginal, SAI	Linfoma extranodal de zona marginal de tejido linfoide asociado a la mucosa	Linfoma monocitoide de células B	Linfoma nodal de zona marginal	Linfoma TLAB [BALT]	Linfoma TLAM [MALT]	Linfoma TLAP [SALT]
+9967/3	Neoplasias mieloides y linfoides con anomalías FGFR1
+9700/3	Micosis fungoide
+9701/3	Enfermedad de Sézary
+9702/3	Linfoma de células T maduras, SAI	Linfoma de células T, SAI	Linfoma de Lennert	Linfoma de zona T	Linfoma linfoepitelioide	Linfoma T periférico de células grandes	Linfoma T periférico pleomorfo de células medianas y grandes	Linfoma T periférico pleomorfo de células pequeñas	Linfoma T periférico, SAI	
+9705/3	Linfoma de células T angioinmunoblástico	Linfoma T periférico LAID (linfadenopatía angioinmunoblástica con disproteinemia)	
+9708/3	Linfoma T subcutáneo tipo paniculitis
+9709/3	Linfoma cutáneo de células T, SAI	Linfoma T cutáneo primario citotóxico epidermotrópico agresivo con CD 8 positivo	Linfoma T cutáneo primario de células grandes e intermedias con CD4 positivo
+9712/3	Linfoma B intravascular de células grandes	Linfoma angiotrópico	Linfoma intravascular de células B
+9714/3	Linfoma anaplásico de células grandes tipo células T y células Null	Linfoma anaplásico de células grandes con CD30 +	Linfoma anaplásico de células grandes, SAI	Linfoma de células grandes (Ki-1 +)	
+9716/3	Linfoma de células T hepatoesplénico
+9717/3	Linfoma intestinal de células T	Linfoma intestinal de células T tipo enteropático	
+9718/3	Trastorno linfoproliferativo cutáneo primario de células T CD30+	Linfoma T de células grandes cutáneo primario con CD30+	Papulosis linfomatoide
+9719/3	Linfoma de células NK/T, nasal y de tipo nasal	Linfoma de células T/NK	Linfoma extraganglionar de células NK/T de tipo nasal	Reticulosis maligna de línea media	Reticulosis maligna, SAI	Reticulosis polimorfa
+9724/3	Enfermedad linfoproliferativa sistémica de células T de la infancia con VEB positivo
+9725/3	Linfoma de tipo hidroa vacciniforme
+9726/3	linfoma cutáneo primario de células T gamma-delta
+9727/3	Linfoma linfoblástico de células precursoras, SAI	Linfoma de células blásticas NK	Linfoma maligno linfoblástico, SAI	Linfoma maligno de células convolutas	Neoplasia de células dendríticas blásticas plasmocitoides
+9728/3	Linfoma linfoblástico de células B precursoras
+9729/3	Linfoma linfoblástico de células T precursoras
+9731/3	Plasmocitoma, SAI	Plasmocitoma de hueso	Plasmocitoma solitario	Tumor de células plasmáticas	
+9732/3	Mieloma múltiple	Mieloma, SAI	Mielomatosis
+9733/3	Leucemia de células plasmáticas
+9734/3	Plasmocitoma extramedular (no originado en el hueso)
+9735/3	Linfoma plasmoblástico
+9737/3	Linfoma tipo B de células grandes ALK positivo
+9738/3	Linfoma tipo B de células grandes que surge en enfermedad de Castleman multicéntrica asociada a HHV8
+9740/1	Mastocitoma, SAI	Mastocitoma solitario de la piel	Mastocitosis cutánea	Mastocitosis cutánea difusa	Tumor de células cebadas	Tumor de mastocitos, SAI	Urticaria pigmentosa	
+9740/3	Sarcoma de mastocitos	Tumor maligno de células cebadas	Tumor maligno de mastocitos
+9740/6	Sarcoma de mastocitos, metástasis
+9741/1	Mastocitosis sistémica indolente
+9741/3	Mastocitosis maligna	Mastocitosis sistémica agresiva	Mastocitosis sistémica con trastorno hematológico clonal asociado sin afectación de los mastocitos
+9742/3	Leucemia de mastocitos
+9750/3	Histiocitosis maligna
+9750/6	Histiocitosis maligna, metástasis
+9751/1	Histiocitosis de células de Langerhans, SAI (utilizar 9751/3)	Histiocitosis X, SAI (utilizar 9751/3)	
+9751/3	Histiocitosis de células de Langerhans, SAI
+9751/6	Histiocitosis de células de Langerhans, SAI, metástasis
+9752/1	Histiocitosis de células de Langerhans, unifocal (utilizar 9751/3)	Granulomatosis de células de Langerhans unifocal (utilizar 9751/3)	Histiocitosis de células de Langerhans monostótica (utilizar 9751/3)
+9753/1	Histiocitosis de células de Langerhans multifocal (utilizar 9751/3)	Histiocitosis de células de Langerhans poliostótica (utilizar 9751/3)	
+9754/3	Histiocitosis de células de Langerhans, diseminada (utilizar 9751/3)	Histiocitosis de células de Langerhans generalizada (utilizar 9751/3)	Histiocitosis X progresiva aguda (utilizar 9751/3)	Reticuloendoteliosis no lipídica (utilizar 9751/3)	
+9755/3	Sarcoma histiocítico
+9755/6	Sarcoma histiocítico, metástasis
+9756/3	Sarcoma de células de Langerhans
+9756/6	Sarcoma de células de Langerhans, metástasis
+9757/3	Sarcoma interdigitante de células dendríticas	Sarcoma de células interdigitantes	Tumor de células dendríticas indeterminado
+9757/6	Sarcoma interdigitante de células dendríticas, metástasis
+9758/3	Sarcoma de células dendríticas foliculares
+9758/6	Sarcoma de células dendríticas foliculares, metástasis
+9759/3	Tumor de células reticulares fibroblástico
+9759/6	Tumor de células reticulares fibroblástico, metástasis
+9760/3	Enfermedad inmunoproliferativa, SAI
+9761/3	Macroglobulinemia de Waldenström
+9762/3	Enfermedad de cadenas pesadas, SAI	Enfermedad de cadenas pesadas gamma	Enfermedad de cadenas pesadas mu	Enfermedad de Franklin	
+9764/3	Enfermedad inmunoproliferativa del intestino delgado
+9765/1	Gammapatía monoclonal de significado incierto	GMSI	
+9766/1	Lesión inmunoproliferativa angiocéntrica
+9767/1	Linfadenopatía angioinmunoblástica
+9768/1	Enfermedad linfoproliferativa T-gamma
+9769/1	Enfermedad por depósito de inmunoglobulinas	Enfermedad sistémica por cadenas ligeras	
+9800/3	Leucemia, SAI	Leucemia crónica, SAI	Leucemia subaguda, SAI
+9801/3	Leucemia aguda, SAI	Leucemia de células troncales	Leucemia indiferenciada
+9805/3	Leucemia aguda bifenotípica	Leucemia aguda de línea mixta	
+9806/3	"Leucemia aguda de fenotipo mixto con t(9; 22) (q34; q11.2); BCR-ABL1"
+9807/3	"Leucemia aguda de fenotipo mixto con t(v; 11q23); MLL reordenado"
+9808/3	Leucemia aguda de fenotipo mixto con células B/mieloides, SAI
+9809/3	Leucemia aguda de fenotipo mixto con células T/mieloides, SAI
+9811/3	Leucemia/linfoma linfoblástica tipo B, SAI
+9812/3	"Leucemia/linfoma linfoblástica tipo B con t(9; 22) (q34; q11.2); BCR-ABL1"
+9813/3	"Leucemia/linfoma linfoblástica tipo B con t(v; 11q23); MLL reordenado"
+9814/3	"Leucemia/linfoma linfoblástico tipo B con t(12; 21) (p13; q22); TEL-AML1(ETV6-RUNX1)"
+9815/3	Leucemia/linfoma linfoblástica tipo B con hiperdiploidia
+9816/3	Leucemia/linfoma linfoblástica tipo B con hipodiploidia (ALL hipodiploide)
+9817/3	"Leucemia/linfoma linfoblástica tipo B con t(5; 14) (q31; q32); IL3-IGH"
+9818/3	"Leucemia/linfoma linfoblástica tipo B con t(1; 19) (q23; p13.3); E2A-PBX1 (TCF3-PBX1)"
+9820/3	Leucemia linfoide, SAI	Leucemia linfática aleucémica	Leucemia linfática subaguda	Leucemia linfática, SAI	Leucemia linfocítica aleucémica	Leucemia linfocítica subaguda	Leucemia linfocítica, SAI	Leucemia linfoide aleucémica	Leucemia linfoide subaguda	
+9823/3	Leucemia linfocítica crónica de células B / linfoma linfocítico de células pequeñas	Leucemia linfocítica crónica	Leucemia linfocítica crónica tipo células B	Leucemia linfoide crónica	
+9826/3	Leucemia de células de Burkitt	Leucemia aguda tipo Burkitt	Leucemia linfoblástica aguda de células B maduras	LLA-B	
+9827/3	Leucemia/linfoma de células T adultas (HTLV-1 positivo)	Linfoma de células T adultas	Linfoma/leucemia de células T adultas
+9831/3	Leucemia linfocítica de células T grandes granulares	Linfocitosis de células T de gránulos grandes	Linfocitosis de gránulos grandes, SAI	Trastorno linfoproliferativo crónico de células NK	
+9832/3	Leucemia prolinfocítica, SAI
+9833/3	Leucemia prolinfocítica tipo células B
+9834/3	Leucemia prolinfocítica tipo células T
+9835/3	Leucemia linfoblástica de células precursoras, SAI	FAB L2	Leucemia linfática aguda	Leucemia linfoblástica aguda tipo L2, SAI	Leucemia linfoblástica aguda, SAI	Leucemia linfoblástica aguda de tipo células precursoras	Leucemia linfoblástica de células precursoras de fenotipo sin especificar	Leucemia linfoblástica, SAI	Leucemia linfocítica aguda	Leucemia linfoide aguda	Leucemia-linfoma linfoblástica aguda, SAI	
+9836/3	Leucemia linfoblástica de células B precursoras	LLA común de células B precursoras	LLA Pre-B	LLA pre-pre-B	LLA pro-B	LLA-C
+9837/3	Leucemia linfoblástica de células T precursoras	LLA pre-T	LLA pro-T	LLA T cortical	LLA T madura
+9840/3	Leucemia mieloide aguda tipo M6	Eritremia aguda	Eritroleucemia	FAB M6	Leucemia eritroide aguda	LMA M6	M6A	M6B	Mielosis eritrémica aguda	Mielosis eritrémica, SAI
+9860/3	Leucemia mieloide, SAI	Leucemia granulocítica aleucémica	Leucemia granulocítica subaguda	Leucemia granulocítica, SAI	Leucemia mielocítica, SAI	Leucemia mielógena aleucémica	Leucemia mielógena subaguda	Leucemia mielógena, SAI	Leucemia mieloide aleucémica	Leucemia mieloide subaguda	Leucemia mielomonocítica, SAI	Leucemia monocítica aleucémica	Leucemia monocítica crónica	Leucemia monocítica subaguda	Leucemia monocítica, SAI	Leucemia no linfocítica, SAI
+9861/3	Leucemia mieloide aguda, SAI	Leucemia granulocítica aguda	Leucemia mielocítica aguda	Leucemia mielógena aguda	Leucemia mieloide aguda con CEBPA mutado	Leucemia mieloide aguda con NPM1 mutado
+9863/3	Leucemia mieloide crónica, SAI	Leucemia mielocítica crónica, SAI	Leucemia mielógena crónica, SAI
+9865/3	"Leucemia mieloide aguda con t(6; 9) (p23; q34); DEK-NUP214"
+9866/3	"Leucemia promielocítica aguda t(15;17)(q22;q11-12)"	Leucemia mieloide aguda con PML/RAR-alfa	"Leucemia mieloide aguda con t(15:17) (g22;q11-12)"	Leucemia promielocítica aguda con PML-RAR-alfa	Leucemia promielocítica aguda, SAI
+9867/3	Leucemia mielomonocítica aguda
+9869/3	"Leucemia mieloide aguda con inv(3) (q21q26.2) o con t(3; 3) (q21; q26.2); RPN1-EVI1"
+9870/3	Leucemia basófila aguda
+9871/3	Leucemia mieloide aguda con eosinófilos anormales en médula ósea	Leucemia mieloide aguda con CBF-beta/MYH11	"Leucemia mieloide aguda con inv(16)(p13; q22)"	"Leucemia mieloide aguda con t(16;16)(p13;q11)"	Leucemia mielomonocítica aguda con eosinófilos anormales
+9872/3	Leucemia mieloide aguda con diferenciación mínima	Leucemia mieloblástica aguda	
+9873/3	Leucemia mieloide aguda sin maduración
+9874/3	Leucemia mieloide aguda con maduración
+9875/3	Leucemia mielógena crónica con BCR-ABL positivo	Leucemia granulocítica crónica con cromosoma Filadelfia (Ph1) positivo	"Leucemia granulocítica crónica con t(9;22)(q34;q11)"	Leucemia mielógena crónica con cromosoma Filadelfia (Ph1) positivo	"Leucemia mielógena crónica con t(9;22)(q34;q11)"
+9876/3	Leucemia mieloide crónica atípica con BCR/ABL negativo
+9891/3	Leucemia monocítica aguda	Leucemia monoblástica aguda	Leucemia monoblástica y monocítica aguda	Leucemia monoblástica, SAI	
+9895/3	Leucemia mieloide aguda con cambios relacionados con mielodisplasia	Leucemia mieloide aguda con síndrome mielodisplásico previo	Leucemia mieloide aguda sin síndrome mielodisplásico previo
+9896/3	"Leucemia mieloide aguda con t(8;21)(q22;q22)"	"FAB M2 con t(8;21)(q22;q22)"	"Leucemia mieloide aguda con t(8; 21) (q22; q22); RUNX1-RUNX1T1"	Leucemia mieloide aguda con LMA1(CBF-alfa)/ETO	
+9897/3	Leucemia mieloide aguda, anomalías 11q23	Leucemia mieloide aguda, MLL	
+9898/1	Mielopoyesis anormal transitoria
+9898/3	Leucemia mieloide asociada al síndrome de Down
+9910/3	Leucemia megacarioblástica aguda	Leucemia megacariocítica	
+9911/3	"Leucemia mieloide aguda (megacarioblástica) con t(1;22)(p13;q13); RBM15-MKL1"
+9920/3	Neoplasia mieloide relacionada con tratamiento	Leucemia mieloide aguda relacionada con tratamiento con epipodofilotoxina	Leucemia mieloide aguda relacionada con tratamiento, SAI
+9930/3	Sarcoma mieloide	Sarcoma granulocítico	
+9931/3	Panmielosis aguda con mielofibrosis	Mieloesclerosis maligna	Mielofibrosis aguda	Panmielosis aguda, SAI	
+9940/3	Leucemia de células peludas	Variante de leucemia de células peludas	
+9945/3	Leucemia mielomonocítica crónica, SAI	Leucemia mielomonocítica crónica tipo I	Leucemia mielomonocítica crónica tipo II
+9946/3	Leucemia mielomonocítica juvenil
+9948/3	Leucemia de células NK agresiva
+9950/3	Policitemia vera	Policitemia proliferativa	Policitemia rubra vera
+9960/3	Neoplasia mieloproliferativa, SAI	Enfermedad mieloproliferativa, SAI	Trastorno mieloproliferativo crónico
+9961/3	Mielofibrosis primaria	Mieloesclerosis con metaplasia mieloide	Mieloesclerosis megacariocítica	Mielofibrosis como resultado de enfermedad mieloproliferativa	Mielofibrosis con metaplasia mieloide	Mielofibrosis idiopática crónica
+9962/3	Trombocitemia esencial	Trombocitemia hemorrágica idiopática	Trombocitemia idiopática

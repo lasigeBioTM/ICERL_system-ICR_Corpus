@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 60 76 11	sarcoma de Ewing
+T1	11	sarcoma de Ewing	['9260/3', '9260/3', '12891']
+T2	MORFOLOGIA_NEOPLASIA 203 219 21	sarcoma de Ewing
+T2	21	sarcoma de Ewing	['9260/3', '9260/3', '12891']
+T3	MORFOLOGIA_NEOPLASIA 547 552 41	tumor
+T3	41	tumor	['9562', '8090/1', '8040/1', '8162/3', '8000/1', '8972/3', '8103/0', '8711/0', '8040/0', '8311/1', '9507/0', '9365/3', '9562']
+T4	MORFOLOGIA_NEOPLASIA 676 692 51	sarcoma de Ewing
+T4	51	sarcoma de Ewing	['9260/3', '9260/3', '12891']

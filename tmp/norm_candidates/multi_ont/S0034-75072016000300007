@@ -1,0 +1,38 @@
+ENTITY	text:cáncer	normalName:cáncer	predictedType:MOR_NEO	q:true	qid:Q151	docId:S0034-75072016000300007	origText:cáncer	url:NaN
+CANDIDATE	id:80003	inCount:0	outCount:1	links:	url:8000/3	name:Cncer	normalName:cncer	normalWikiTitle:cncer	predictedType:MOR_NEO
+CANDIDATE	id:40	inCount:10	outCount:1	links:	url:C4A	name:Carcinoma de células de Merkel	normalName:carcinoma_de_células_de_merkel	normalWikiTitle:carcinoma_de_células_de_merkel	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:0	outCount:1	links:	url:D45	name:Policitemia vera	normalName:policitemia_vera	normalWikiTitle:policitemia_vera	predictedType:MOR_NEO
+CANDIDATE	id:47002	inCount:0	outCount:1	links:	url:D47.Z2	name:Enfermedad de Castleman	normalName:enfermedad_de_castleman	normalWikiTitle:enfermedad_de_castleman	predictedType:MOR_NEO
+CANDIDATE	id:91	inCount:9	outCount:1	links:	url:C91	name:Leucemia linfoide	normalName:leucemia_linfoide	normalWikiTitle:leucemia_linfoide	predictedType:MOR_NEO
+CANDIDATE	id:22	inCount:9	outCount:1	links:22	url:D22	name:Nevus melanocítico	normalName:nevus_melanocítico	normalWikiTitle:nevus_melanocítico	predictedType:MOR_NEO
+CANDIDATE	id:9562	inCount:18	outCount:3	links:	url:9562	name:cáncer	normalName:cáncer	normalWikiTitle:cáncer	predictedType:MOR_NEO
+ENTITY	text:implantes de hueso	normalName:implantes_de_hueso	predictedType:MOR_NEO	q:true	qid:Q151	docId:S0034-75072016000300007	origText:implantes de hueso	url:NaN
+CANDIDATE	id:92613	inCount:0	outCount:1	links:	url:9261/3	name:Adamantinoma de huesos largos	normalName:adamantinoma_de_huesos_largos	normalWikiTitle:adamantinoma_de_huesos_largos	predictedType:MOR_NEO
+CANDIDATE	id:80443	inCount:0	outCount:1	links:	url:8044/3	name:Carcinoma de clulas pequeas, tipo intermedio	normalName:carcinoma_de_clulas_pequeas,_tipo_intermedio	normalWikiTitle:carcinoma_de_clulas_pequeas,_tipo_intermedio	predictedType:MOR_NEO
+CANDIDATE	id:83111	inCount:0	outCount:1	links:	url:8311/1	name:Tumor hipernefroide	normalName:tumor_hipernefroide	normalWikiTitle:tumor_hipernefroide	predictedType:MOR_NEO
+CANDIDATE	id:80463	inCount:0	outCount:1	links:	url:8046/3	name:Carcinoma, no de clulas pequeas	normalName:carcinoma,_no_de_clulas_pequeas	normalWikiTitle:carcinoma,_no_de_clulas_pequeas	predictedType:MOR_NEO
+CANDIDATE	id:83193	inCount:0	outCount:1	links:	url:8319/3	name:Carcinoma de tbulos colectores	normalName:carcinoma_de_tbulos_colectores	normalWikiTitle:carcinoma_de_tbulos_colectores	predictedType:MOR_NEO
+CANDIDATE	id:83203	inCount:0	outCount:1	links:	url:8320/3	name:Carcinoma de clulas granulares	normalName:carcinoma_de_clulas_granulares	normalWikiTitle:carcinoma_de_clulas_granulares	predictedType:MOR_NEO
+CANDIDATE	id:86403	inCount:0	outCount:1	links:	url:8640/3	name:Carcinoma de clulas de Sertoli	normalName:carcinoma_de_clulas_de_sertoli	normalWikiTitle:carcinoma_de_clulas_de_sertoli	predictedType:MOR_NEO
+CANDIDATE	id:87270	inCount:0	outCount:1	links:	url:8727/0	name:Nevus displsico	normalName:nevus_displsico	normalWikiTitle:nevus_displsico	predictedType:MOR_NEO
+CANDIDATE	id:87280	inCount:0	outCount:1	links:	url:8728/0	name:Melanocitosis difusa	normalName:melanocitosis_difusa	normalWikiTitle:melanocitosis_difusa	predictedType:MOR_NEO
+CANDIDATE	id:87281	inCount:0	outCount:1	links:	url:8728/1	name:Melanocitoma menngeo	normalName:melanocitoma_menngeo	normalWikiTitle:melanocitoma_menngeo	predictedType:MOR_NEO
+CANDIDATE	id:22	inCount:9	outCount:1	links:22	url:D22	name:Nevus melanocítico	normalName:nevus_melanocítico	normalWikiTitle:nevus_melanocítico	predictedType:MOR_NEO
+CANDIDATE	id:2200	inCount:0	outCount:1	links:	url:C22.0	name:Carcinoma de células hepáticas	normalName:carcinoma_de_células_hepáticas	normalWikiTitle:carcinoma_de_células_hepáticas	predictedType:MOR_NEO
+CANDIDATE	id:3	inCount:10	outCount:1	links:	url:D03	name:Melanoma in situ	normalName:melanoma_in_situ	normalWikiTitle:melanoma_in_situ	predictedType:MOR_NEO
+CANDIDATE	id:2200	inCount:0	outCount:1	links:	url:D22.0	name:Nevus melanocítico de labio	normalName:nevus_melanocítico_de_labio	normalWikiTitle:nevus_melanocítico_de_labio	predictedType:MOR_NEO
+CANDIDATE	id:1701	inCount:0	outCount:1	links:	url:C17.1	name:Neoplasia maligna de yeyuno	normalName:neoplasia_maligna_de_yeyuno	normalWikiTitle:neoplasia_maligna_de_yeyuno	predictedType:MOR_NEO
+CANDIDATE	id:11916	inCount:37	outCount:2	links:	url:11916	name:prótesis e implantes	normalName:prótesis_e_implantes	normalWikiTitle:prótesis_e_implantes	predictedType:MOR_NEO
+CANDIDATE	id:32336	inCount:0	outCount:2	links:	url:32336	name:bancos de huesos	normalName:bancos_de_huesos	normalWikiTitle:bancos_de_huesos	predictedType:MOR_NEO
+CANDIDATE	id:37159	inCount:0	outCount:2	links:	url:37159	name:Ailanthus	normalName:ailanthus	normalWikiTitle:ailanthus	predictedType:MOR_NEO
+CANDIDATE	id:32138	inCount:0	outCount:1	links:	url:32138	name:implantes de Molteno	normalName:implantes_de_molteno	normalWikiTitle:implantes_de_molteno	predictedType:MOR_NEO
+CANDIDATE	id:54281	inCount:1	outCount:1	links:	url:54281	name:neuroestimuladores implantables	normalName:neuroestimuladores_implantables	normalWikiTitle:neuroestimuladores_implantables	predictedType:MOR_NEO
+CANDIDATE	id:5248	inCount:6	outCount:1	links:	url:5248	name:huesos faciales	normalName:huesos_faciales	normalWikiTitle:huesos_faciales	predictedType:MOR_NEO
+CANDIDATE	id:25819	inCount:0	outCount:1	links:	url:25819	name:lecho filtrante	normalName:lecho_filtrante	normalWikiTitle:lecho_filtrante	predictedType:MOR_NEO
+CANDIDATE	id:32015	inCount:0	outCount:1	links:	url:32015	name:estimulantes históricos	normalName:estimulantes_históricos	normalWikiTitle:estimulantes_históricos	predictedType:MOR_NEO
+CANDIDATE	id:35806	inCount:1	outCount:1	links:	url:35806	name:Phyllanthus	normalName:phyllanthus	normalWikiTitle:phyllanthus	predictedType:MOR_NEO
+CANDIDATE	id:50356	inCount:0	outCount:1	links:	url:50356	name:hueso grande del carpo	normalName:hueso_grande_del_carpo	normalWikiTitle:hueso_grande_del_carpo	predictedType:MOR_NEO
+CANDIDATE	id:4405	inCount:0	outCount:1	links:	url:4405	name:Implante Subcutáneo	normalName:implante_subcutáneo	normalWikiTitle:implante_subcutáneo	predictedType:MOR_NEO
+CANDIDATE	id:28907	inCount:0	outCount:1	links:	url:28907	name:implante subperióstico	normalName:implante_subperióstico	normalWikiTitle:implante_subperióstico	predictedType:MOR_NEO
+CANDIDATE	id:4405	inCount:0	outCount:1	links:	url:4405	name:Implantes Subcutáneos	normalName:implantes_subcutáneos	normalWikiTitle:implantes_subcutáneos	predictedType:MOR_NEO
+CANDIDATE	id:4405	inCount:0	outCount:1	links:	url:4405	name:implantes subcutáneos	normalName:implantes_subcutáneos	normalWikiTitle:implantes_subcutáneos	predictedType:MOR_NEO

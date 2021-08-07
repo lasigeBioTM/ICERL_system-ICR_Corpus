@@ -1,0 +1,39 @@
+ENTITY	text:CCIP	normalName:ccip	predictedType:MOR_NEO	q:true	qid:Q572	docId:S0104-11692010000600013	origText:CCIP	url:NaN
+CANDIDATE	id:82313	inCount:0	outCount:1	links:	url:8231/3	name:Carcinoma simples	normalName:carcinoma_simples	normalWikiTitle:carcinoma_simples	predictedType:MOR_NEO
+CANDIDATE	id:84090	inCount:0	outCount:1	links:	url:8409/0	name:Poroma crino	normalName:poroma_crino	normalWikiTitle:poroma_crino	predictedType:MOR_NEO
+CANDIDATE	id:82443	inCount:0	outCount:1	links:	url:8244/3	name:Carcinide composto	normalName:carcinide_composto	normalWikiTitle:carcinide_composto	predictedType:MOR_NEO
+CANDIDATE	id:80103	inCount:0	outCount:1	links:	url:8010/3	name:Carcinoma, SOE	normalName:carcinoma,_soe	normalWikiTitle:carcinoma,_soe	predictedType:MOR_NEO
+CANDIDATE	id:80109	inCount:0	outCount:1	links:	url:8010/9	name:Carcinomatose	normalName:carcinomatose	normalWikiTitle:carcinomatose	predictedType:MOR_NEO
+CANDIDATE	id:80953	inCount:0	outCount:1	links:	url:8095/3	name:Carcinoma metatpico	normalName:carcinoma_metatpico	normalWikiTitle:carcinoma_metatpico	predictedType:MOR_NEO
+CANDIDATE	id:88501	inCount:0	outCount:1	links:	url:8850/1	name:Lipoma atpico	normalName:lipoma_atpico	normalWikiTitle:lipoma_atpico	predictedType:MOR_NEO
+CANDIDATE	id:80223	inCount:0	outCount:1	links:	url:8022/3	name:Carcinoma pleomrfico	normalName:carcinoma_pleomrfico	normalWikiTitle:carcinoma_pleomrfico	predictedType:MOR_NEO
+CANDIDATE	id:85870	inCount:0	outCount:1	links:	url:8587/0	name:Timoma ectpico	normalName:timoma_ectpico	normalWikiTitle:timoma_ectpico	predictedType:MOR_NEO
+CANDIDATE	id:89343	inCount:0	outCount:1	links:	url:8934/3	name:Carcinofibroma	normalName:carcinofibroma	normalWikiTitle:carcinofibroma	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:0	outCount:1	links:	url:8000/3	name:Cncer	normalName:cncer	normalWikiTitle:cncer	predictedType:MOR_NEO
+CANDIDATE	id:82900	inCount:0	outCount:1	links:	url:8290/0	name:Oncocitoma	normalName:oncocitoma	normalWikiTitle:oncocitoma	predictedType:MOR_NEO
+CANDIDATE	id:82403	inCount:0	outCount:1	links:	url:8240/3	name:Carcinide tpico	normalName:carcinide_tpico	normalWikiTitle:carcinide_tpico	predictedType:MOR_NEO
+CANDIDATE	id:84906	inCount:0	outCount:1	links:	url:8490/6	name:CDIS, tipo comedo 	normalName:cdis,_tipo_comedo_	normalWikiTitle:cdis,_tipo_comedo_	predictedType:MOR_NEO
+CANDIDATE	id:94733	inCount:0	outCount:1	links:	url:9473/3	name:C-PNET 	normalName:c-pnet_	normalWikiTitle:c-pnet_	predictedType:MOR_NEO
+CANDIDATE	id:4	inCount:10	outCount:1	links:	url:D04	name:Carcinoma in situ de piel	normalName:carcinoma_in_situ_de_piel	normalWikiTitle:carcinoma_in_situ_de_piel	predictedType:MOR_NEO
+CANDIDATE	id:704	inCount:0	outCount:1	links:	url:D07.4	name:Carcinoma in situ de pene	normalName:carcinoma_in_situ_de_pene	normalWikiTitle:carcinoma_in_situ_de_pene	predictedType:MOR_NEO
+CANDIDATE	id:9104	inCount:3	outCount:1	links:	url:C91.4	name:Leucemia de células peludas	normalName:leucemia_de_células_peludas	normalWikiTitle:leucemia_de_células_peludas	predictedType:MOR_NEO
+CANDIDATE	id:93	inCount:5	outCount:1	links:	url:C93	name:Leucemia monocítica	normalName:leucemia_monocítica	normalWikiTitle:leucemia_monocítica	predictedType:MOR_NEO
+CANDIDATE	id:47001	inCount:0	outCount:1	links:	url:D47.01	name:Mastocitosis cutánea	normalName:mastocitosis_cutánea	normalWikiTitle:mastocitosis_cutánea	predictedType:MOR_NEO
+CANDIDATE	id:3079	inCount:0	outCount:1	links:	url:3079	name:cóccix	normalName:cóccix	normalWikiTitle:cóccix	predictedType:MOR_NEO
+CANDIDATE	id:48	inCount:0	outCount:1	links:	url:48	name:Acacia	normalName:acacia	normalWikiTitle:acacia	predictedType:MOR_NEO
+CANDIDATE	id:3554	inCount:0	outCount:1	links:	url:3554	name:Chipre	normalName:chipre	normalWikiTitle:chipre	predictedType:MOR_NEO
+CANDIDATE	id:7903	inCount:0	outCount:1	links:	url:7903	name:criptón	normalName:criptón	normalWikiTitle:criptón	predictedType:MOR_NEO
+CANDIDATE	id:14954	inCount:0	outCount:1	links:	url:14954	name:micción	normalName:micción	normalWikiTitle:micción	predictedType:MOR_NEO
+CANDIDATE	id:28261	inCount:1	outCount:3	links:	url:28261	name:calcio	normalName:calcio	normalWikiTitle:calcio	predictedType:MOR_NEO
+CANDIDATE	id:3580	inCount:0	outCount:2	links:	url:3580	name:CMP cíclico	normalName:cmp_cíclico	normalWikiTitle:cmp_cíclico	predictedType:MOR_NEO
+CANDIDATE	id:31736	inCount:1	outCount:2	links:	url:31736	name:GMP cíclico	normalName:gmp_cíclico	normalWikiTitle:gmp_cíclico	predictedType:MOR_NEO
+CANDIDATE	id:31741	inCount:0	outCount:2	links:	url:31741	name:IMP cíclico	normalName:imp_cíclico	normalWikiTitle:imp_cíclico	predictedType:MOR_NEO
+CANDIDATE	id:3099	inCount:0	outCount:2	links:	url:3099	name:coerción	normalName:coerción	normalWikiTitle:coerción	predictedType:MOR_NEO
+CANDIDATE	id:53376	inCount:0	outCount:3	links:	url:53376	name:CCP	normalName:ccp	normalWikiTitle:ccp	predictedType:MOR_NEO
+CANDIDATE	id:2297	inCount:0	outCount:2	links:	url:2297	name:CCCP	normalName:cccp	normalWikiTitle:cccp	predictedType:MOR_NEO
+CANDIDATE	id:2299	inCount:0	outCount:2	links:	url:2299	name:FCCP	normalName:fccp	normalWikiTitle:fccp	predictedType:MOR_NEO
+CANDIDATE	id:13906	inCount:2	outCount:1	links:	url:13906	name:Clip	normalName:clip	normalWikiTitle:clip	predictedType:MOR_NEO
+CANDIDATE	id:23193	inCount:0	outCount:2	links:	url:23193	name:CIP7	normalName:cip7	normalWikiTitle:cip7	predictedType:MOR_NEO
+CANDIDATE	id:33782	inCount:0	outCount:1	links:	url:33782	name:YCIP	normalName:ycip	normalWikiTitle:ycip	predictedType:MOR_NEO
+CANDIDATE	id:34212	inCount:0	outCount:1	links:	url:34212	name:CIDP	normalName:cidp	normalWikiTitle:cidp	predictedType:MOR_NEO
+CANDIDATE	id:55170	inCount:0	outCount:1	links:	url:55170	name:CIAP	normalName:ciap	normalWikiTitle:ciap	predictedType:MOR_NEO

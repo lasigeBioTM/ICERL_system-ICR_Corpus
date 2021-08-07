@@ -1,0 +1,43 @@
+ENTITY	text:NIC II / III	normalName:nic_ii_/_iii	predictedType:MOR_NEO	q:true	qid:Q306	docId:S0102-311X2014000901912	origText:NIC II / III	url:NaN
+CANDIDATE	id:95370	inCount:0	outCount:1	links:	url:9537/0	name:Meningioma transicional	normalName:meningioma_transicional	normalWikiTitle:meningioma_transicional	predictedType:MOR_NEO
+CANDIDATE	id:88910	inCount:0	outCount:1	links:	url:8891/0	name:Leiomioma epiteliide	normalName:leiomioma_epiteliide	normalWikiTitle:leiomioma_epiteliide	predictedType:MOR_NEO
+CANDIDATE	id:93611	inCount:0	outCount:1	links:	url:9361/1	name:Pineocitoma	normalName:pineocitoma	normalWikiTitle:pineocitoma	predictedType:MOR_NEO
+CANDIDATE	id:81202	inCount:0	outCount:1	links:	url:8120/2	name:Carcinoma de clulas transicionais in situ	normalName:carcinoma_de_clulas_transicionais_in_situ	normalWikiTitle:carcinoma_de_clulas_transicionais_in_situ	predictedType:MOR_NEO
+CANDIDATE	id:82000	inCount:0	outCount:1	links:	url:8200/0	name:Cilindroma drmico crino	normalName:cilindroma_drmico_crino	normalWikiTitle:cilindroma_drmico_crino	predictedType:MOR_NEO
+CANDIDATE	id:93220	inCount:0	outCount:1	links:	url:9322/0	name:Fibroma odontognico perifrico	normalName:fibroma_odontognico_perifrico	normalWikiTitle:fibroma_odontognico_perifrico	predictedType:MOR_NEO
+CANDIDATE	id:95391	inCount:0	outCount:1	links:	url:9539/1	name:Meningioma atpico	normalName:meningioma_atpico	normalWikiTitle:meningioma_atpico	predictedType:MOR_NEO
+CANDIDATE	id:82803	inCount:0	outCount:1	links:	url:8280/3	name:Carcinoma acidfilo	normalName:carcinoma_acidfilo	normalWikiTitle:carcinoma_acidfilo	predictedType:MOR_NEO
+CANDIDATE	id:88043	inCount:0	outCount:1	links:	url:8804/3	name:Sarcoma epiteliide	normalName:sarcoma_epiteliide	normalWikiTitle:sarcoma_epiteliide	predictedType:MOR_NEO
+CANDIDATE	id:90433	inCount:0	outCount:1	links:	url:9043/3	name:Sarcoma sinovial bifsico	normalName:sarcoma_sinovial_bifsico	normalWikiTitle:sarcoma_sinovial_bifsico	predictedType:MOR_NEO
+CANDIDATE	id:80772	inCount:0	outCount:1	links:	url:8077/2	name:NIV III 	normalName:niv_iii_	normalWikiTitle:niv_iii_	predictedType:MOR_NEO
+CANDIDATE	id:84906	inCount:0	outCount:1	links:	url:8490/6	name:NDI III 	normalName:ndi_iii_	normalWikiTitle:ndi_iii_	predictedType:MOR_NEO
+CANDIDATE	id:80772	inCount:0	outCount:1	links:	url:8077/2	name:NIC III, SOE 	normalName:nic_iii,_soe_	normalWikiTitle:nic_iii,_soe_	predictedType:MOR_NEO
+CANDIDATE	id:80772	inCount:0	outCount:1	links:	url:8077/2	name:NIVA III 	normalName:niva_iii_	normalWikiTitle:niva_iii_	predictedType:MOR_NEO
+CANDIDATE	id:81482	inCount:0	outCount:1	links:	url:8148/2	name:PIN III 	normalName:pin_iii_	normalWikiTitle:pin_iii_	predictedType:MOR_NEO
+CANDIDATE	id:80772	inCount:0	outCount:1	links:	url:8077/2	name:A III 	normalName:a_iii_	normalWikiTitle:a_iii_	predictedType:MOR_NEO
+CANDIDATE	id:95310	inCount:0	outCount:1	links:	url:9531/0	name:Meningioma sincicial	normalName:meningioma_sincicial	normalWikiTitle:meningioma_sincicial	predictedType:MOR_NEO
+CANDIDATE	id:8400	inCount:10	outCount:1	links:	url:C84.0	name:Micosis fungoide	normalName:micosis_fungoide	normalWikiTitle:micosis_fungoide	predictedType:MOR_NEO
+CANDIDATE	id:93	inCount:5	outCount:1	links:	url:C93	name:Leucemia monocítica	normalName:leucemia_monocítica	normalWikiTitle:leucemia_monocítica	predictedType:MOR_NEO
+CANDIDATE	id:95092	inCount:0	outCount:1	links:	url:C95.92	name:Leucemia, no especificada, en recidiva	normalName:leucemia,_no_especificada,_en_recidiva	normalWikiTitle:leucemia,_no_especificada,_en_recidiva	predictedType:MOR_NEO
+CANDIDATE	id:9	inCount:50	outCount:1	links:	url:D00-D09	name:NEOPLASIAS IN SITU 	normalName:neoplasias_in_situ_	normalWikiTitle:neoplasias_in_situ_	predictedType:MOR_NEO
+CANDIDATE	id:91092	inCount:0	outCount:1	links:	url:C91.92	name:Leucemia linfoide, no especificada, en recidiva	normalName:leucemia_linfoide,_no_especificada,_en_recidiva	normalWikiTitle:leucemia_linfoide,_no_especificada,_en_recidiva	predictedType:MOR_NEO
+CANDIDATE	id:7358	inCount:0	outCount:1	links:	url:7358	name:incisivo	normalName:incisivo	normalWikiTitle:incisivo	predictedType:MOR_NEO
+CANDIDATE	id:7413	inCount:0	outCount:1	links:	url:7413	name:infanticidio	normalName:infanticidio	normalWikiTitle:infanticidio	predictedType:MOR_NEO
+CANDIDATE	id:10592	inCount:5	outCount:1	links:	url:10592	name:penicilina G	normalName:penicilina_g	normalWikiTitle:penicilina_g	predictedType:MOR_NEO
+CANDIDATE	id:13602	inCount:0	outCount:2	links:	url:13602	name:inanición	normalName:inanición	normalWikiTitle:inanición	predictedType:MOR_NEO
+CANDIDATE	id:31767	inCount:1	outCount:1	links:	url:31767	name:ácido penicilánico	normalName:ácido_penicilánico	normalWikiTitle:ácido_penicilánico	predictedType:MOR_NEO
+CANDIDATE	id:33142	inCount:0	outCount:1	links:	url:33142	name:intuición	normalName:intuición	normalWikiTitle:intuición	predictedType:MOR_NEO
+CANDIDATE	id:33591	inCount:0	outCount:3	links:	url:33591	name:biotinilación	normalName:biotinilación	normalWikiTitle:biotinilación	predictedType:MOR_NEO
+CANDIDATE	id:37321	inCount:0	outCount:1	links:	url:37321	name:dinamina III	normalName:dinamina_iii	normalWikiTitle:dinamina_iii	predictedType:MOR_NEO
+CANDIDATE	id:56109	inCount:0	outCount:1	links:	url:56109	name:iridiscencia	normalName:iridiscencia	normalWikiTitle:iridiscencia	predictedType:MOR_NEO
+CANDIDATE	id:56696	inCount:0	outCount:1	links:	url:56696	name:edición génica	normalName:edición_génica	normalWikiTitle:edición_génica	predictedType:MOR_NEO
+CANDIDATE	id:29392	inCount:0	outCount:2	links:	url:29392	name:Filipina III	normalName:filipina_iii	normalWikiTitle:filipina_iii	predictedType:MOR_NEO
+CANDIDATE	id:29392	inCount:0	outCount:2	links:	url:29392	name:filipina III	normalName:filipina_iii	normalWikiTitle:filipina_iii	predictedType:MOR_NEO
+CANDIDATE	id:56740	inCount:0	outCount:1	links:	url:56740	name:Dominio FN III	normalName:dominio_fn_iii	normalWikiTitle:dominio_fn_iii	predictedType:MOR_NEO
+CANDIDATE	id:56740	inCount:0	outCount:1	links:	url:56740	name:dominio FN III	normalName:dominio_fn_iii	normalWikiTitle:dominio_fn_iii	predictedType:MOR_NEO
+CANDIDATE	id:9724	inCount:12	outCount:2	links:	url:9724	name:Nicotinic Acids	normalName:nicotinic_acids	normalWikiTitle:nicotinic_acids	predictedType:MOR_NEO
+CANDIDATE	id:10591	inCount:0	outCount:2	links:	url:10591	name:Penicillic Acid	normalName:penicillic_acid	normalWikiTitle:penicillic_acid	predictedType:MOR_NEO
+CANDIDATE	id:24908	inCount:1	outCount:1	links:	url:24908	name:Ciclitis Crónica	normalName:ciclitis_crónica	normalWikiTitle:ciclitis_crónica	predictedType:MOR_NEO
+CANDIDATE	id:24908	inCount:1	outCount:1	links:	url:24908	name:ciclitis crónica	normalName:ciclitis_crónica	normalWikiTitle:ciclitis_crónica	predictedType:MOR_NEO
+CANDIDATE	id:26537	inCount:0	outCount:1	links:	url:26537	name:Pichi-pichi	normalName:pichi-pichi	normalWikiTitle:pichi-pichi	predictedType:MOR_NEO
+CANDIDATE	id:30842	inCount:0	outCount:2	links:	url:30842	name:Lipocortina III	normalName:lipocortina_iii	normalWikiTitle:lipocortina_iii	predictedType:MOR_NEO

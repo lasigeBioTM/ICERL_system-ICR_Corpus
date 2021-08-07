@@ -1,0 +1,60 @@
+ENTITY	text:cáncer	normalName:cáncer	predictedType:MOR_NEO	q:true	qid:Q284	docId:S0102-311X2013000900020	origText:cáncer	url:NaN
+CANDIDATE	id:80003	inCount:0	outCount:1	links:80003	url:8000/3	name:Cncer	normalName:cncer	normalWikiTitle:cncer	predictedType:MOR_NEO
+CANDIDATE	id:40	inCount:10	outCount:1	links:	url:C4A	name:Carcinoma de células de Merkel	normalName:carcinoma_de_células_de_merkel	normalWikiTitle:carcinoma_de_células_de_merkel	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:0	outCount:1	links:	url:D45	name:Policitemia vera	normalName:policitemia_vera	normalWikiTitle:policitemia_vera	predictedType:MOR_NEO
+CANDIDATE	id:47002	inCount:0	outCount:1	links:	url:D47.Z2	name:Enfermedad de Castleman	normalName:enfermedad_de_castleman	normalWikiTitle:enfermedad_de_castleman	predictedType:MOR_NEO
+CANDIDATE	id:91	inCount:9	outCount:1	links:91	url:C91	name:Leucemia linfoide	normalName:leucemia_linfoide	normalWikiTitle:leucemia_linfoide	predictedType:MOR_NEO
+CANDIDATE	id:22	inCount:9	outCount:1	links:	url:D22	name:Nevus melanocítico	normalName:nevus_melanocítico	normalWikiTitle:nevus_melanocítico	predictedType:MOR_NEO
+CANDIDATE	id:9562	inCount:18	outCount:3	links:9562	url:9562	name:cáncer	normalName:cáncer	normalWikiTitle:cáncer	predictedType:MOR_NEO
+ENTITY	text:neoplasias	normalName:neoplasias	predictedType:MOR_NEO	q:true	qid:Q284	docId:S0102-311X2013000900020	origText:neoplasias	url:NaN
+CANDIDATE	id:80000	inCount:0	outCount:1	links:	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:0	outCount:1	links:80003	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:93623	inCount:0	outCount:1	links:	url:9362/3	name:Pineoblastoma	normalName:pineoblastoma	normalWikiTitle:pineoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:	url:8000/6	name:Neoplasia metastsica	normalName:neoplasia_metastsica	normalWikiTitle:neoplasia_metastsica	predictedType:MOR_NEO
+CANDIDATE	id:95700	inCount:0	outCount:1	links:	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95033	inCount:0	outCount:1	links:	url:9503/3	name:Neuroepitelioma, SAI	normalName:neuroepitelioma,_sai	normalWikiTitle:neuroepitelioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88200	inCount:0	outCount:1	links:	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
+CANDIDATE	id:89603	inCount:0	outCount:1	links:	url:8960/3	name:Nefroblastoma, SAI	normalName:nefroblastoma,_sai	normalWikiTitle:nefroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89713	inCount:0	outCount:1	links:	url:8971/3	name:Pancreatoblastoma	normalName:pancreatoblastoma	normalWikiTitle:pancreatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:95003	inCount:0	outCount:1	links:	url:9500/3	name:Neuroblastoma, SAI	normalName:neuroblastoma,_sai	normalWikiTitle:neuroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:9	inCount:50	outCount:1	links:	url:D00-D09	name:NEOPLASIAS IN SITU 	normalName:neoplasias_in_situ_	normalWikiTitle:neoplasias_in_situ_	predictedType:MOR_NEO
+CANDIDATE	id:96	inCount:16	outCount:1	links:	url:C00-C96	name:NEOPLASIAS MALIGNAS 	normalName:neoplasias_malignas_	normalWikiTitle:neoplasias_malignas_	predictedType:MOR_NEO
+CANDIDATE	id:3000	inCount:3	outCount:1	links:	url:D30.0	name:Neoplasia benigna de riñón	normalName:neoplasia_benigna_de_riñón	normalWikiTitle:neoplasia_benigna_de_riñón	predictedType:MOR_NEO
+CANDIDATE	id:3	inCount:3	outCount:1	links:	url:C03	name:Neoplasia maligna de encía	normalName:neoplasia_maligna_de_encía	normalWikiTitle:neoplasia_maligna_de_encía	predictedType:MOR_NEO
+CANDIDATE	id:502	inCount:0	outCount:1	links:	url:C05.2	name:Neoplasia maligna de úvula	normalName:neoplasia_maligna_de_úvula	normalWikiTitle:neoplasia_maligna_de_úvula	predictedType:MOR_NEO
+CANDIDATE	id:9562	inCount:18	outCount:3	links:9562	url:9562	name:neoplasias	normalName:neoplasias	normalWikiTitle:neoplasias	predictedType:MOR_NEO
+ENTITY	text:enfermedad de Hodgkin	normalName:enfermedad_de_hodgkin	predictedType:MOR_NEO	q:true	qid:Q284	docId:S0102-311X2013000900020	origText:enfermedad de Hodgkin	url:NaN
+CANDIDATE	id:96613	inCount:0	outCount:1	links:	url:9661/3	name:Granuloma de Hodgkin	normalName:granuloma_de_hodgkin	normalWikiTitle:granuloma_de_hodgkin	predictedType:MOR_NEO
+CANDIDATE	id:80812	inCount:0	outCount:1	links:	url:8081/2	name:Enfermedad de Bowen	normalName:enfermedad_de_bowen	normalWikiTitle:enfermedad_de_bowen	predictedType:MOR_NEO
+CANDIDATE	id:97013	inCount:0	outCount:1	links:	url:9701/3	name:Enfermedad de Szary	normalName:enfermedad_de_szary	normalWikiTitle:enfermedad_de_szary	predictedType:MOR_NEO
+CANDIDATE	id:97623	inCount:0	outCount:1	links:	url:9762/3	name:Enfermedad de cadenas pesadas, SAI	normalName:enfermedad_de_cadenas_pesadas,_sai	normalWikiTitle:enfermedad_de_cadenas_pesadas,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85403	inCount:0	outCount:1	links:	url:8540/3	name:Enfermedad de Paget, mamaria	normalName:enfermedad_de_paget,_mamaria	normalWikiTitle:enfermedad_de_paget,_mamaria	predictedType:MOR_NEO
+CANDIDATE	id:96523	inCount:0	outCount:1	links:	url:9652/3	name:Linfoma de Hodgkin, celularidad mixta, SAI	normalName:linfoma_de_hodgkin,_celularidad_mixta,_sai	normalWikiTitle:linfoma_de_hodgkin,_celularidad_mixta,_sai	predictedType:MOR_NEO
+CANDIDATE	id:96623	inCount:0	outCount:1	links:	url:9662/3	name:Sarcoma de Hodgkin	normalName:sarcoma_de_hodgkin	normalWikiTitle:sarcoma_de_hodgkin	predictedType:MOR_NEO
+CANDIDATE	id:85423	inCount:0	outCount:1	links:	url:8542/3	name:Enfermedad de Paget extramamaria	normalName:enfermedad_de_paget_extramamaria	normalWikiTitle:enfermedad_de_paget_extramamaria	predictedType:MOR_NEO
+CANDIDATE	id:89650	inCount:0	outCount:1	links:	url:8965/0	name:Adenofibroma nefrognico	normalName:adenofibroma_nefrognico	normalWikiTitle:adenofibroma_nefrognico	predictedType:MOR_NEO
+CANDIDATE	id:97681	inCount:0	outCount:1	links:	url:9768/1	name:Enfermedad linfoproliferativa T-gamma	normalName:enfermedad_linfoproliferativa_t-gamma	normalWikiTitle:enfermedad_linfoproliferativa_t-gamma	predictedType:MOR_NEO
+CANDIDATE	id:97623	inCount:0	outCount:1	links:	url:9762/3	name:Enfermedad de Franklin	normalName:enfermedad_de_franklin	normalWikiTitle:enfermedad_de_franklin	predictedType:MOR_NEO
+CANDIDATE	id:8401	inCount:10	outCount:1	links:	url:C84.1	name:Enfermedad de Sézary	normalName:enfermedad_de_sézary	normalWikiTitle:enfermedad_de_sézary	predictedType:MOR_NEO
+CANDIDATE	id:9406	inCount:0	outCount:1	links:	url:C94.6	name:Enfermedad mielodisplásica, no clasificada	normalName:enfermedad_mielodisplásica,_no_clasificada	normalWikiTitle:enfermedad_mielodisplásica,_no_clasificada	predictedType:MOR_NEO
+CANDIDATE	id:8802	inCount:0	outCount:1	links:	url:C88.2	name:Enfermedad de cadenas pesadas	normalName:enfermedad_de_cadenas_pesadas	normalWikiTitle:enfermedad_de_cadenas_pesadas	predictedType:MOR_NEO
+CANDIDATE	id:8102	inCount:10	outCount:1	links:	url:C81.2	name:Linfoma de Hodgkin de celularidad mixta	normalName:linfoma_de_hodgkin_de_celularidad_mixta	normalWikiTitle:linfoma_de_hodgkin_de_celularidad_mixta	predictedType:MOR_NEO
+CANDIDATE	id:81	inCount:7	outCount:1	links:	url:C81	name:Linfoma de Hodgkin	normalName:linfoma_de_hodgkin	normalWikiTitle:linfoma_de_hodgkin	predictedType:MOR_NEO
+CANDIDATE	id:22497	inCount:0	outCount:1	links:	url:22497	name:enfermedad de Hodgkin	normalName:enfermedad_de_hodgkin	normalWikiTitle:enfermedad_de_hodgkin	predictedType:MOR_NEO
+ENTITY	text:leucemia linfoide	normalName:leucemia_linfoide	predictedType:MOR_NEO	q:true	qid:Q284	docId:S0102-311X2013000900020	origText:leucemia linfoide	url:NaN
+CANDIDATE	id:98203	inCount:0	outCount:1	links:	url:9820/3	name:Leucemia linfoide, SAI	normalName:leucemia_linfoide,_sai	normalWikiTitle:leucemia_linfoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98603	inCount:0	outCount:1	links:	url:9860/3	name:Leucemia mieloide, SAI	normalName:leucemia_mieloide,_sai	normalWikiTitle:leucemia_mieloide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98323	inCount:0	outCount:1	links:	url:9832/3	name:Leucemia prolinfoctica, SAI	normalName:leucemia_prolinfoctica,_sai	normalWikiTitle:leucemia_prolinfoctica,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98003	inCount:0	outCount:1	links:	url:9800/3	name:Leucemia, SAI	normalName:leucemia,_sai	normalWikiTitle:leucemia,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98613	inCount:0	outCount:1	links:	url:9861/3	name:Leucemia mieloide aguda, SAI	normalName:leucemia_mieloide_aguda,_sai	normalWikiTitle:leucemia_mieloide_aguda,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98633	inCount:0	outCount:1	links:	url:9863/3	name:Leucemia mieloide crnica, SAI	normalName:leucemia_mieloide_crnica,_sai	normalWikiTitle:leucemia_mieloide_crnica,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98403	inCount:0	outCount:1	links:	url:9840/3	name:Leucemia mieloide aguda tipo M6	normalName:leucemia_mieloide_aguda_tipo_m6	normalWikiTitle:leucemia_mieloide_aguda_tipo_m6	predictedType:MOR_NEO
+CANDIDATE	id:98913	inCount:0	outCount:1	links:	url:9891/3	name:Leucemia monoctica aguda	normalName:leucemia_monoctica_aguda	normalWikiTitle:leucemia_monoctica_aguda	predictedType:MOR_NEO
+CANDIDATE	id:98333	inCount:0	outCount:1	links:	url:9833/3	name:Leucemia prolinfoctica tipo clulas B	normalName:leucemia_prolinfoctica_tipo_clulas_b	normalWikiTitle:leucemia_prolinfoctica_tipo_clulas_b	predictedType:MOR_NEO
+CANDIDATE	id:98343	inCount:0	outCount:1	links:	url:9834/3	name:Leucemia prolinfoctica tipo clulas T	normalName:leucemia_prolinfoctica_tipo_clulas_t	normalWikiTitle:leucemia_prolinfoctica_tipo_clulas_t	predictedType:MOR_NEO
+CANDIDATE	id:91	inCount:9	outCount:1	links:91	url:C91	name:Leucemia linfoide	normalName:leucemia_linfoide	normalWikiTitle:leucemia_linfoide	predictedType:MOR_NEO
+CANDIDATE	id:92	inCount:10	outCount:1	links:	url:C92	name:Leucemia mieloide	normalName:leucemia_mieloide	normalWikiTitle:leucemia_mieloide	predictedType:MOR_NEO
+CANDIDATE	id:9100	inCount:3	outCount:1	links:	url:C91.Z	name:Otros tipos de leucemia linfoide	normalName:otros_tipos_de_leucemia_linfoide	normalWikiTitle:otros_tipos_de_leucemia_linfoide	predictedType:MOR_NEO
+CANDIDATE	id:9109	inCount:3	outCount:1	links:	url:C91.9	name:Leucemia linfoide, no especificada	normalName:leucemia_linfoide,_no_especificada	normalWikiTitle:leucemia_linfoide,_no_especificada	predictedType:MOR_NEO
+CANDIDATE	id:93	inCount:5	outCount:1	links:	url:C93	name:Leucemia monocítica	normalName:leucemia_monocítica	normalWikiTitle:leucemia_monocítica	predictedType:MOR_NEO
+CANDIDATE	id:23878	inCount:5	outCount:2	links:	url:23878	name:leucemia linfoide	normalName:leucemia_linfoide	normalWikiTitle:leucemia_linfoide	predictedType:MOR_NEO

@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 571 621 41	carcinoma de esquerda esquerdista célula escamosas
+T1	41	carcinoma de esquerda esquerdista célula escamosas	['8071/3', '8120/2', '8084/3', '8070/2', '8072/3', '8070/3', '8073/3', '8172/3', '8320/3', '57580', '32324', '56993', '31593', '30506', '34297', '8407/3', '57536', '53059', '2337', '3963', '8084/3']
+T2	MORFOLOGIA_NEOPLASIA 1076 1090 61	adenocarcinoma
+T2	61	adenocarcinoma	['8262/3', '8211/3', '8440/3', '8160/3', '8140/3', '8933/3', '8333/3', '8410/3', '8401/3', '8413/3', '238', '8211/3']
+T3	MORFOLOGIA_NEOPLASIA 1544 1558 62	adenocarcinoma
+T3	62	adenocarcinoma	['8262/3', '8211/3', '8440/3', '8160/3', '8140/3', '8933/3', '8333/3', '8410/3', '8401/3', '8413/3', '238', '8211/3']

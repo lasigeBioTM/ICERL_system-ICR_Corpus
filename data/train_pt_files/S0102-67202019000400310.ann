@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 983 1007 81	neoplasia intraepitelial
+T1	81	neoplasia intraepitelial	['8082/3', '8082/3', '9413/0', '9503/3', '9523/3', '8010/0', '8562/3', '8000/6', '8100/0', '8011/0', '8982/0', '2330', '8983/0']
+T2	MORFOLOGIA_NEOPLASIA 1078 1110 82	neoplasia intraepitelial de alto
+T2	82	neoplasia intraepitelial de alto	['8082/3', '8082/3', '9503/3', '8144/3', '8010/0', '9413/0', '9523/3', '8562/3', '8936/3', '29574', '14915', '56879', '23845', '12603', '14922', '31265', '9561', '10724', '32119', '8936/1', '9340/0']
+T3	MORFOLOGIA_NEOPLASIA 1405 1429 101	neoplasia intraepitelial
+T3	101	neoplasia intraepitelial	['8082/3', '8082/3', '9413/0', '9503/3', '9523/3', '8010/0', '8562/3', '8000/6', '8100/0', '8011/0', '8982/0', '2330', '8983/0']
+T4	MORFOLOGIA_NEOPLASIA 1538 1562 111	neoplasia intraepitelial
+T4	111	neoplasia intraepitelial	['8082/3', '8082/3', '9413/0', '9503/3', '9523/3', '8010/0', '8562/3', '8000/6', '8100/0', '8011/0', '8982/0', '2330', '8983/0']

@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 31 36 11	tumor
+T1	11	tumor	['9562', '8090/1', '8040/1', '8162/3', '8000/1', '8103/0', '9562', '8711/0', '8040/0', '8311/1', '8972/3', '9507/0', '9365/3']
+T2	MORFOLOGIA_NEOPLASIA 75 96 12	carcinoma basocelular
+T2	12	carcinoma basocelular	['8171/3', '8170/3', '8070/3', '8010/3', '8147/3', '8032/3', '8042/3', '8052/3', '8337/3', '8147/0', '2323']
+T3	MORFOLOGIA_NEOPLASIA 645 666 41	carcinoma basocelular
+T3	41	carcinoma basocelular	['8171/3', '8170/3', '8070/3', '8010/3', '8147/3', '8032/3', '8042/3', '8052/3', '8337/3', '8147/0', '2323']
+T4	MORFOLOGIA_NEOPLASIA 1248 1269 71	carcinoma basocelular
+T4	71	carcinoma basocelular	['8171/3', '8170/3', '8070/3', '8010/3', '8147/3', '8032/3', '8042/3', '8052/3', '8337/3', '8147/0', '2323']

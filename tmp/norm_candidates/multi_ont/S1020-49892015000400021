@@ -1,0 +1,42 @@
+ENTITY	text:cáncer	normalName:cáncer	predictedType:MOR_NEO	q:true	qid:Q816	docId:S1020-49892015000400021	origText:cáncer	url:NaN
+CANDIDATE	id:80003	inCount:0	outCount:1	links:	url:8000/3	name:Cncer	normalName:cncer	normalWikiTitle:cncer	predictedType:MOR_NEO
+CANDIDATE	id:40	inCount:10	outCount:1	links:	url:C4A	name:Carcinoma de células de Merkel	normalName:carcinoma_de_células_de_merkel	normalWikiTitle:carcinoma_de_células_de_merkel	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:0	outCount:1	links:45	url:D45	name:Policitemia vera	normalName:policitemia_vera	normalWikiTitle:policitemia_vera	predictedType:MOR_NEO
+CANDIDATE	id:47002	inCount:0	outCount:1	links:	url:D47.Z2	name:Enfermedad de Castleman	normalName:enfermedad_de_castleman	normalWikiTitle:enfermedad_de_castleman	predictedType:MOR_NEO
+CANDIDATE	id:91	inCount:9	outCount:1	links:91	url:C91	name:Leucemia linfoide	normalName:leucemia_linfoide	normalWikiTitle:leucemia_linfoide	predictedType:MOR_NEO
+CANDIDATE	id:22	inCount:9	outCount:1	links:	url:D22	name:Nevus melanocítico	normalName:nevus_melanocítico	normalWikiTitle:nevus_melanocítico	predictedType:MOR_NEO
+CANDIDATE	id:9562	inCount:18	outCount:3	links:	url:9562	name:cáncer	normalName:cáncer	normalWikiTitle:cáncer	predictedType:MOR_NEO
+ENTITY	text:CM	normalName:cm	predictedType:MOR_NEO	q:true	qid:Q816	docId:S1020-49892015000400021	origText:CM	url:NaN
+CANDIDATE	id:86000	inCount:0	outCount:1	links:	url:8600/0	name:Tecoma, SAI	normalName:tecoma,_sai	normalWikiTitle:tecoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88953	inCount:0	outCount:1	links:	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:81020	inCount:0	outCount:1	links:	url:8102/0	name:Tricolemoma	normalName:tricolemoma	normalWikiTitle:tricolemoma	predictedType:MOR_NEO
+CANDIDATE	id:88003	inCount:0	outCount:1	links:	url:8800/3	name:Sarcoma, SAI	normalName:sarcoma,_sai	normalWikiTitle:sarcoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88403	inCount:0	outCount:2	links:	url:8840/3	name:Mixosarcoma	normalName:mixosarcoma	normalWikiTitle:mixosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:93611	inCount:0	outCount:1	links:	url:9361/1	name:Pineocitoma	normalName:pineocitoma	normalWikiTitle:pineocitoma	predictedType:MOR_NEO
+CANDIDATE	id:93703	inCount:0	outCount:1	links:	url:9370/3	name:Cordoma, SAI	normalName:cordoma,_sai	normalWikiTitle:cordoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93730	inCount:0	outCount:1	links:	url:9373/0	name:Paracordoma	normalName:paracordoma	normalWikiTitle:paracordoma	predictedType:MOR_NEO
+CANDIDATE	id:94321	inCount:0	outCount:1	links:	url:9432/1	name:Pituicitoma	normalName:pituicitoma	normalWikiTitle:pituicitoma	predictedType:MOR_NEO
+CANDIDATE	id:94423	inCount:0	outCount:1	links:	url:9442/3	name:Gliosarcoma	normalName:gliosarcoma	normalWikiTitle:gliosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:85893	inCount:0	outCount:1	links:	url:8589/3	name:CMETT	normalName:cmett	normalWikiTitle:cmett	predictedType:MOR_NEO
+CANDIDATE	id:98403	inCount:0	outCount:1	links:	url:9840/3	name:M6A	normalName:m6a	normalWikiTitle:m6a	predictedType:MOR_NEO
+CANDIDATE	id:98403	inCount:0	outCount:1	links:	url:9840/3	name:M6B	normalName:m6b	normalWikiTitle:m6b	predictedType:MOR_NEO
+CANDIDATE	id:9203	inCount:3	outCount:1	links:	url:C92.3	name:Sarcoma mieloide	normalName:sarcoma_mieloide	normalWikiTitle:sarcoma_mieloide	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:0	outCount:1	links:45	url:D45	name:Policitemia vera	normalName:policitemia_vera	normalWikiTitle:policitemia_vera	predictedType:MOR_NEO
+CANDIDATE	id:46	inCount:8	outCount:1	links:	url:C46	name:Sarcoma de Kaposi	normalName:sarcoma_de_kaposi	normalWikiTitle:sarcoma_de_kaposi	predictedType:MOR_NEO
+CANDIDATE	id:82	inCount:9	outCount:1	links:	url:C82	name:Linfoma folicular	normalName:linfoma_folicular	normalWikiTitle:linfoma_folicular	predictedType:MOR_NEO
+CANDIDATE	id:91	inCount:9	outCount:1	links:91	url:C91	name:Leucemia linfoide	normalName:leucemia_linfoide	normalWikiTitle:leucemia_linfoide	predictedType:MOR_NEO
+CANDIDATE	id:3159	inCount:3	outCount:1	links:	url:3159	name:coma	normalName:coma	normalWikiTitle:coma	predictedType:MOR_NEO
+CANDIDATE	id:2906	inCount:1	outCount:3	links:	url:2906	name:cromo	normalName:cromo	normalWikiTitle:cromo	predictedType:MOR_NEO
+CANDIDATE	id:3006	inCount:13	outCount:3	links:	url:3006	name:clima	normalName:clima	normalWikiTitle:clima	predictedType:MOR_NEO
+CANDIDATE	id:29333	inCount:0	outCount:1	links:	url:29333	name:carmín	normalName:carmín	normalWikiTitle:carmín	predictedType:MOR_NEO
+CANDIDATE	id:34937	inCount:0	outCount:1	links:	url:34937	name:cúmulo	normalName:cúmulo	normalWikiTitle:cúmulo	predictedType:MOR_NEO
+CANDIDATE	id:35667	inCount:0	outCount:2	links:	url:35667	name:Carum	normalName:carum	normalWikiTitle:carum	predictedType:MOR_NEO
+CANDIDATE	id:2138	inCount:0	outCount:3	links:	url:2138	name:cadmio	normalName:cadmio	normalWikiTitle:cadmio	predictedType:MOR_NEO
+CANDIDATE	id:2195	inCount:0	outCount:1	links:	url:2195	name:Camerún	normalName:camerún	normalWikiTitle:camerún	predictedType:MOR_NEO
+CANDIDATE	id:3433	inCount:18	outCount:4	links:	url:3433	name:crimen	normalName:crimen	normalWikiTitle:crimen	predictedType:MOR_NEO
+CANDIDATE	id:4528	inCount:0	outCount:3	links:	url:4528	name:ectima	normalName:ectima	normalWikiTitle:ectima	predictedType:MOR_NEO
+CANDIDATE	id:2307	inCount:0	outCount:1	links:	url:2307	name:CMC	normalName:cmc	normalWikiTitle:cmc	predictedType:MOR_NEO
+CANDIDATE	id:3187	inCount:1	outCount:1	links:	url:3187	name:CSM	normalName:csm	normalWikiTitle:csm	predictedType:MOR_NEO
+CANDIDATE	id:3585	inCount:1	outCount:1	links:	url:3585	name:CMF	normalName:cmf	normalWikiTitle:cmf	predictedType:MOR_NEO
+CANDIDATE	id:3585	inCount:1	outCount:1	links:	url:3585	name:CMP	normalName:cmp	normalWikiTitle:cmp	predictedType:MOR_NEO
+CANDIDATE	id:52055	inCount:1	outCount:1	links:	url:52055	name:CMV	normalName:cmv	normalWikiTitle:cmv	predictedType:MOR_NEO

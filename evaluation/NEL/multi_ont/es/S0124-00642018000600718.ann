@@ -1,0 +1,8 @@
+T1	11	cáncer	['9562', '8000/3', '9562']
+#1	AnnotatorNotes T1
+T2	31	cáncer	['9562', '8000/3', '9562']
+#2	AnnotatorNotes T2
+T3	32	cáncer	['9562', '8000/3', '9562']
+#3	AnnotatorNotes T3
+T4	51	carcinoma de células escamosas	['2337', '8214/3', '2337', '8320/3', '8046/3', '8015/3', '8052/3', '8010/6', '8083/3', '8070/6', '8015/6', '8094/3']
+#4	AnnotatorNotes T4

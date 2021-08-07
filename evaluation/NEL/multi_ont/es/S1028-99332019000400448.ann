@@ -1,0 +1,8 @@
+T1	11	cáncer	['9562', '9562', '8000/3']
+#1	AnnotatorNotes T1
+T2	21	cáncer	['9562', '9562', '8000/3']
+#2	AnnotatorNotes T2
+T3	81	carcinoma epidermoide	['2337', '8314/3', '8070/3', '8070/2', '2337', '8430/3', '8576/3', '8430/6', '8076/3', '8022/3', '8075/3', '8078/3']
+#3	AnnotatorNotes T3
+T4	91	cáncer	['9562', '9562', '8000/3']
+#4	AnnotatorNotes T4

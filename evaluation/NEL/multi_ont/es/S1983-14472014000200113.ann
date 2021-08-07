@@ -1,0 +1,6 @@
+T1	21	cáncer	['8000/3', '8000/3', '9562']
+#1	AnnotatorNotes T1
+T2	51	malignidad	['9562', '9562', '8000/3']
+#2	AnnotatorNotes T2
+T3	61	carcinoma ductal infiltrante	['8504/2', '8082/3', '31593', '8507/2', '8521/3', '8522/6', '8500/6', '8500/3', '8092/3', '8501/2', '8230/2', '8521/3']
+#3	AnnotatorNotes T3

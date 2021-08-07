@@ -1,0 +1,4 @@
+T1	MORFOLOGIA_NEOPLASIA 355 369 31	adenocarcinoma
+T1	31	adenocarcinoma	['8211/3', '8262/3', '8440/3', '8160/3', '8140/3', '8933/3', '8333/3', '8410/3', '8401/3', '8413/3', '238', '8262/3']
+T2	MORFOLOGIA_NEOPLASIA 873 914 61	adenocarcinoma moderadamente diferenciado
+T2	61	adenocarcinoma moderadamente diferenciado	['2320', '8574/3', '8380/3', '8020/3', '8140/6', '8382/3', '8384/3', '31683', '57534', '38855', '31803', '31806', '2184', '31682', '8143/3', '31595', '2320', '8420/3', '8331/3', '9243/3', '239', '52439', '51440']

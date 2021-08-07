@@ -1,0 +1,30 @@
+ENTITY	text:mesotelioma maligno	normalName:mesotelioma_maligno	predictedType:MOR_NEO	q:true	qid:Q347	docId:S0102-311X2018000905016	origText:mesotelioma maligno	url:NaN
+CANDIDATE	id:90503	inCount:0	outCount:1	links:90503	url:9050/3	name:Mesotelioma maligno	normalName:mesotelioma_maligno	normalWikiTitle:mesotelioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:5	outCount:1	links:45	url:C45	name:Mesotelioma	normalName:mesotelioma	normalWikiTitle:mesotelioma	predictedType:MOR_NEO
+CANDIDATE	id:4501	inCount:0	outCount:1	links:	url:C45.1	name:Mesotelioma de peritoneo	normalName:mesotelioma_de_peritoneo	normalWikiTitle:mesotelioma_de_peritoneo	predictedType:MOR_NEO
+CANDIDATE	id:4502	inCount:0	outCount:1	links:	url:C45.2	name:Mesotelioma de pericardio	normalName:mesotelioma_de_pericardio	normalWikiTitle:mesotelioma_de_pericardio	predictedType:MOR_NEO
+CANDIDATE	id:4500	inCount:0	outCount:1	links:	url:C45.0	name:Mesotelioma de pleura	normalName:mesotelioma_de_pleura	normalWikiTitle:mesotelioma_de_pleura	predictedType:MOR_NEO
+CANDIDATE	id:9000	inCount:3	outCount:1	links:	url:C90.0	name:Mieloma múltiple	normalName:mieloma_múltiple	normalWikiTitle:mieloma_múltiple	predictedType:MOR_NEO
+CANDIDATE	id:8830	inCount:1	outCount:2	links:8830	url:8830	name:mesotelioma	normalName:mesotelioma	normalWikiTitle:mesotelioma	predictedType:MOR_NEO
+CANDIDATE	id:31311	inCount:0	outCount:1	links:	url:31311	name:mesotelioma quístico	normalName:mesotelioma_quístico	normalWikiTitle:mesotelioma_quístico	predictedType:MOR_NEO
+CANDIDATE	id:50469	inCount:0	outCount:2	links:	url:50469	name:histiocitoma fibroso maligno	normalName:histiocitoma_fibroso_maligno	normalWikiTitle:histiocitoma_fibroso_maligno	predictedType:MOR_NEO
+CANDIDATE	id:22890	inCount:0	outCount:2	links:	url:22890	name:endotelio linfático	normalName:endotelio_linfático	normalWikiTitle:endotelio_linfático	predictedType:MOR_NEO
+CANDIDATE	id:3267	inCount:0	outCount:1	links:	url:3267	name:estreñimiento	normalName:estreñimiento	normalWikiTitle:estreñimiento	predictedType:MOR_NEO
+CANDIDATE	id:8478	inCount:0	outCount:2	links:	url:8478	name:hipertermia maligna	normalName:hipertermia_maligna	normalWikiTitle:hipertermia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:22246	inCount:0	outCount:2	links:	url:22246	name:metemalbúmina	normalName:metemalbúmina	normalWikiTitle:metemalbúmina	predictedType:MOR_NEO
+CANDIDATE	id:31266	inCount:2	outCount:1	links:	url:31266	name:neoplasias mesoteliales	normalName:neoplasias_mesoteliales	normalWikiTitle:neoplasias_mesoteliales	predictedType:MOR_NEO
+CANDIDATE	id:51614	inCount:0	outCount:1	links:	url:51614	name:dimensionamiento	normalName:dimensionamiento	normalWikiTitle:dimensionamiento	predictedType:MOR_NEO
+CANDIDATE	id:27840	inCount:1	outCount:2	links:	url:27840	name:esterilización	normalName:esterilización	normalWikiTitle:esterilización	predictedType:MOR_NEO
+ENTITY	text:mesotelioma	normalName:mesotelioma	predictedType:MOR_NEO	q:true	qid:Q347	docId:S0102-311X2018000905016	origText:mesotelioma	url:NaN
+CANDIDATE	id:89820	inCount:0	outCount:1	links:	url:8982/0	name:Mioepitelioma	normalName:mioepitelioma	normalWikiTitle:mioepitelioma	predictedType:MOR_NEO
+CANDIDATE	id:88700	inCount:0	outCount:2	links:	url:8870/0	name:Mielolipoma	normalName:mielolipoma	normalWikiTitle:mielolipoma	predictedType:MOR_NEO
+CANDIDATE	id:90500	inCount:0	outCount:1	links:	url:9050/0	name:Mesotelioma benigno	normalName:mesotelioma_benigno	normalWikiTitle:mesotelioma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:90503	inCount:0	outCount:1	links:90503	url:9050/3	name:Mesotelioma maligno	normalName:mesotelioma_maligno	normalWikiTitle:mesotelioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:90551	inCount:0	outCount:1	links:	url:9055/1	name:Mesotelioma qustico, SAI	normalName:mesotelioma_qustico,_sai	normalWikiTitle:mesotelioma_qustico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95013	inCount:0	outCount:1	links:	url:9501/3	name:Meduloepitelioma, SAI	normalName:meduloepitelioma,_sai	normalWikiTitle:meduloepitelioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95620	inCount:0	outCount:1	links:	url:9562/0	name:Neurotecoma	normalName:neurotecoma	normalWikiTitle:neurotecoma	predictedType:MOR_NEO
+CANDIDATE	id:80110	inCount:0	outCount:1	links:	url:8011/0	name:Epitelioma benigno	normalName:epitelioma_benigno	normalWikiTitle:epitelioma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:81000	inCount:0	outCount:1	links:	url:8100/0	name:Tricoepitelioma	normalName:tricoepitelioma	normalWikiTitle:tricoepitelioma	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:5	outCount:1	links:45	url:C45	name:Mesotelioma	normalName:mesotelioma	normalWikiTitle:mesotelioma	predictedType:MOR_NEO
+CANDIDATE	id:8830	inCount:1	outCount:2	links:8830	url:8830	name:mesotelioma	normalName:mesotelioma	normalWikiTitle:mesotelioma	predictedType:MOR_NEO

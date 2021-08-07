@@ -1,0 +1,4 @@
+T1	MORFOLOGIA_NEOPLASIA 1015 1036 41	carcinoma epidermoide
+T1	41	carcinoma epidermoide	['8576/3', '8050/3', '8230/3', '8510/3', '8020/3', '8010/9', '8010/3', '8430/3', '8314/3', '8095/3', '2337']
+T2	MORFOLOGIA_NEOPLASIA 1066 1080 42	adenocarcinoma
+T2	42	adenocarcinoma	['8262/3', '8211/3', '8440/3', '8160/3', '8140/3', '8933/3', '8333/3', '8410/3', '8401/3', '8413/3', '238', '8211/3']

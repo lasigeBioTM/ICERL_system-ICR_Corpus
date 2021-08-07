@@ -1,0 +1,4715 @@
+======= es ========= 
+1	ENT=carcinomas	NaN	ANS=2340
+1	ENT=tumores_malignos	NaN	ANS=9562
+1	ENT=carcinomas_basales	NaN	ANS=2335
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=tumoral	NaN	ANS=8895/0
+1	ENT=carcinomas_de_células_epidermoides	NaN	ANS=2335
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor_maligno	NaN	ANS=9562
+1	ENT=melanoma	NaN	ANS=8895/0
+1	ENT=metástasis_tumoral	NaN	ANS=8000/6
+
+======= preprint ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= preprint_ ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= pt ========= 
+1	ENT=ccr	NaN	ANS=8000/3
+1	ENT=células_neoplásicas	NaN	ANS=8000/3
+1	ENT=câncer_renal_metastático	NaN	ANS=8971/3
+1	ENT=carcinoma_mamário_invasivo	NaN	ANS=8010/2
+1	ENT=tsnc	NaN	ANS=8000/3
+1	ENT=carcinoma_invasivo	NaN	ANS=8337/3
+1	ENT=glioblastoma	NaN	ANS=9430/3
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=leucemias	NaN	ANS=9562/0
+1	ENT=carcinoma_ductal_in_situ	NaN	ANS=8337/3
+1	ENT=carcinoma_in_situ	NaN	ANS=8010/3
+1	ENT=adenocarcinoma_pouco_diferenciado	NaN	ANS=8413/3
+1	ENT=criança-com-câncer	NaN	ANS=9562/0
+1	ENT=leucemia_aguda_linfoblástica	NaN	ANS=9820/3
+1	ENT=leucemia_mielóide	NaN	ANS=9820/3
+1	ENT=tumor_de_ovário_esquerdo_sugestivo	NaN	ANS=8141/3
+1	ENT=neoplasia_endócrina	NaN	ANS=8000/3
+1	ENT=carcinoma_baso-celular	NaN	ANS=8042/3
+1	ENT=tumor_de_walker	NaN	ANS=8103/0
+1	ENT=neoplásicas	NaN	ANS=9562
+1	ENT=mesotelioma_.	NaN	ANS=9562/0
+1	ENT=adenoma	NaN	ANS=8324/0
+1	ENT=carcinoma_de_células_não_pequenas	NaN	ANS=8070/3
+1	ENT=adenocarcinoma	NaN	ANS=8933/3
+1	ENT=leucemia	NaN	ANS=9562/0
+1	ENT=leucemia_crônica_mielóide	NaN	ANS=9860/3
+1	ENT=leucemia_aguda	NaN	ANS=9820/3
+1	ENT=rabdomiossarcoma_apresentavam	NaN	ANS=8894/3
+1	ENT=neoplásica	NaN	ANS=9562
+1	ENT=neoplasias_são	NaN	ANS=9562
+1	ENT=carcinoma_lobular	NaN	ANS=8211/3
+1	ENT=carcinoma_lobular_invasivo_)_foi	NaN	ANS=8211/3
+1	ENT=neoplasia_de_células_de_hürthle	NaN	ANS=8320/3
+1	ENT=neoplasia_mais	NaN	ANS=9562
+1	ENT=carcinomas	NaN	ANS=2320
+1	ENT=carcinoma_epidermóide	NaN	ANS=8231/3
+1	ENT=tumores_ductal	NaN	ANS=9562
+1	ENT=carcinoma_espinocelular_cutâneo	NaN	ANS=8042/3
+1	ENT=leucemia_linfocítica_aguda	NaN	ANS=9820/3
+1	ENT=melanoma_.	NaN	ANS=8561/0
+1	ENT=carcinoma_basocelular	NaN	ANS=8042/3
+1	ENT=carcinoma	NaN	ANS=8042/3
+1	ENT=não_melanoma_.	NaN	ANS=C43
+1	ENT=ccip	NaN	ANS=8000/3
+1	ENT=câncer_de_mama	NaN	ANS=9562/0
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=leucemia_linfoide_aguda	NaN	ANS=9820/3
+1	ENT=metastática	NaN	ANS=8970/3
+1	ENT=carcinoma_diferenciado_.	NaN	ANS=2320
+1	ENT=retinoblastoma	NaN	ANS=9430/3
+1	ENT=cancro_de_mama	NaN	ANS=8971/3
+1	ENT=carcinoma_complexo_,_misto_maligno	NaN	ANS=8440/3
+1	ENT=sarcoma	NaN	ANS=8933/3
+1	ENT=carcinomas_ductais	NaN	ANS=8010/9
+1	ENT=carcinomas_são	NaN	ANS=8140/3
+1	ENT=proteoma_plasmático	NaN	ANS=8140/1
+1	ENT=adenomas	NaN	ANS=8324/0
+1	ENT=neuroependimoma	NaN	ANS=9562/0
+1	ENT=cm_invasivo	NaN	ANS=9800/3
+1	ENT=carcinoma_tubular_in_situ	NaN	ANS=8211/3
+1	ENT=cm	NaN	ANS=9562/0
+1	ENT=câncer_papilar	NaN	ANS=2334
+1	ENT=lesões_pulmonares	NaN	ANS=8711/0
+1	ENT=carcinoma_de_células_escamosas_.	NaN	ANS=2337
+1	ENT=neoplasias_mamárias_malignas	NaN	ANS=8153/3
+1	ENT=melanoma	NaN	ANS=8324/0
+1	ENT=carcinomas_mais	NaN	ANS=8337/3
+1	ENT=carcinoma_ductalinfiltrante_predominou	NaN	ANS=2330
+1	ENT=linfoma_de_hodking	NaN	ANS=8324/0
+1	ENT=câncer	NaN	ANS=9562
+1	ENT=neuroblastoma	NaN	ANS=9562/0
+1	ENT=hepatocarcinomas	NaN	ANS=8970/3
+1	ENT=tumoral	NaN	ANS=8895/0
+1	ENT=cdis	NaN	ANS=9800/3
+1	ENT=osteossarcoma	NaN	ANS=8070
+1	ENT=hemangiossarcoma	NaN	ANS=8070
+1	ENT=carcinoma_invasivo_do	NaN	ANS=8337/3
+1	ENT=maligna	NaN	ANS=9562
+1	ENT=tumores_ósseos_malignos	NaN	ANS=8152/3
+1	ENT=leucemia_ou_linfoma	NaN	ANS=8561/0
+1	ENT=carcinoma_de_hürthle	NaN	ANS=8042/3
+1	ENT=tumor_maligno	NaN	ANS=9562
+1	ENT=cordoma	NaN	ANS=9930/3
+1	ENT=leucemia_linfoblastica_aguda	NaN	ANS=9820/3
+1	ENT=neoplasmas	NaN	ANS=9562
+1	ENT=mesotelioma_maligno	NaN	ANS=9050/3
+1	ENT=cancro	NaN	ANS=8000/3
+1	ENT=linfoma	NaN	ANS=8324/0
+1	ENT=neoplasia_maligna	NaN	ANS=9562
+1	ENT=melanoma_maligno	NaN	ANS=8151/3
+1	ENT=leucemia_linfoblástica_aguda	NaN	ANS=9860/3
+1	ENT=maligno	NaN	ANS=8000/3
+1	ENT=hemangioma	NaN	ANS=9175/0
+1	ENT=tumores_de_células_germinais	NaN	ANS=8120/3
+1	ENT=leucemia_aguda_ou	NaN	ANS=9820/3
+1	ENT=tumores_malignos	NaN	ANS=9562
+1	ENT=adenomas_são	NaN	ANS=8933/3
+1	ENT=neoplásico	NaN	ANS=9562
+1	ENT=hnscc	NaN	ANS=8000/3
+1	ENT=cromosoma	NaN	ANS=8895/3
+1	ENT=neoplasia_.	NaN	ANS=9562
+1	ENT=malignas	NaN	ANS=9562
+1	ENT=tumor_neoplásico	NaN	ANS=8000/3
+1	ENT=cáncer_de_mama	NaN	ANS=9562/0
+1	ENT=ccu	NaN	ANS=8000/3
+1	ENT=coriocarcinomas	NaN	ANS=8010/3
+1	ENT=endotã_©	NaN	ANS=8880/0
+1	ENT=neoplasma	NaN	ANS=9562
+1	ENT=linfomas	NaN	ANS=8324/0
+1	ENT=implante_valvar	NaN	ANS=8000/3
+1	ENT=tumor_misto_maligno	NaN	ANS=8153/3
+1	ENT=tumor_neuroendócrino_pancreático	NaN	ANS=8413/3
+1	ENT=tumor_primitivo	NaN	ANS=8040/1
+1	ENT=adenocarcinomas	NaN	ANS=8933/3
+1	ENT=carcinoma_de_células_claras	NaN	ANS=2337
+1	ENT=linfoma_não_hodgkin	NaN	ANS=8561/0
+1	ENT=leucemia_linfoblástica	NaN	ANS=9820/3
+1	ENT=neoplasias_.	NaN	ANS=9562
+1	ENT=de_estrã_³_genos_nã_£	NaN	ANS=9071/3
+1	ENT=cemo	NaN	ANS=9800/3
+1	ENT=cdis_de_alto_grau	NaN	ANS=9371/3
+1	ENT=tumores	NaN	ANS=9562
+1	ENT=linfoma_de_hodgkin	NaN	ANS=8324/0
+1	ENT=neoplásicas_malignas	NaN	ANS=9562
+1	ENT=tumores_lobular	NaN	ANS=9562
+1	ENT=gbm	NaN	ANS=9073/1
+1	ENT=mesotelioma	NaN	ANS=9562/0
+1	ENT=neoplásica_maligna	NaN	ANS=8151/3
+1	ENT=carcinoma_de_células_de_hürthle	NaN	ANS=2337
+1	ENT=carcinoma_.	NaN	ANS=8160/3
+1	ENT=linfomas_não_hodgkin	NaN	ANS=9175/0
+1	ENT=neoplasia_mais_comum	NaN	ANS=9562
+1	ENT=asc	NaN	ANS=8933/3
+1	ENT=câncer_metastático	NaN	ANS=8971/3
+1	ENT=nic_ii_/_iii	NaN	ANS=8490/6
+1	ENT=carcinomas_basal	NaN	ANS=8010/9
+1	ENT=melanomas	NaN	ANS=8324/0
+1	ENT=alteraã_§	NaN	ANS=8610/0
+1	ENT=neoplasias_malignas	NaN	ANS=9562
+1	ENT=carcinoma_de_células_escamosas	NaN	ANS=2337
+1	ENT=evidã	NaN	ANS=9930/3
+1	ENT=carcinoma_espinocelular	NaN	ANS=8070/3
+1	ENT=sarcomas	NaN	ANS=8933/3
+1	ENT=carcinoma_ductal	NaN	ANS=8042/3
+1	ENT=adenocarcinoma_in_situ	NaN	ANS=8211/3
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=teratoma	NaN	ANS=9562/0
+1	ENT=leucemia_linfoide	NaN	ANS=9800/3
+1	ENT=carcinoma_complexo	NaN	ANS=8042/3
+1	ENT=câncer_diferenciado	NaN	ANS=8020/3
+1	ENT=tumores_benignos	NaN	ANS=8000/0
+1	ENT=cmm	NaN	ANS=9064/3
+1	ENT=mieloma	NaN	ANS=9930/3
+1	ENT=sólido	NaN	ANS=8324/0
+1	ENT=carcinoma_ductal_invasor	NaN	ANS=8337/3
+1	ENT=npnpc	NaN	ANS=8000/3
+1	ENT=astrocitoma	NaN	ANS=9430/3
+1	ENT=neoplásico_.	NaN	ANS=9562
+
+======= S0001-63652006000100004 ========= 
+1	ENT=carcinomas	NaN	ANS=238
+1	ENT=tumoral	NaN	ANS=8040/1
+1	ENT=metástasis_tumoral	NaN	ANS=8040/1
+
+======= S0001-63652007000100011 ========= 
+1	ENT=tumores_malignos	NaN	ANS=9562
+1	ENT=carcinomas_basales	NaN	ANS=2335
+1	ENT=carcinomas_de_células_epidermoides	NaN	ANS=8214/3
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor_maligno	NaN	ANS=9562
+1	ENT=melanoma	NaN	ANS=8714
+
+======= S0034-70942001000300009 ========= 
+1	ENT=neoplasias	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-70942002000100011 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-70942002000200012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-70942002000400014 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+
+======= S0034-70942003000500011 ========= 
+1	ENT=carcinoma	NaN	ANS=2320
+
+======= S0034-70942003000500013 ========= 
+1	ENT=metástases	NaN	ANS=9555
+
+======= S0034-70942004000200013 ========= 
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+1	ENT=cordoma	NaN	ANS=8824/0
+
+======= S0034-70942004000300017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-70942005000600011 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-70942006000200004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-70942006000600005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-70942007000200003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-70942008000300012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-70942009000300012 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0034-70942010000500002 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+
+======= S0034-70942011000500006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=m0	NaN	ANS=1257
+
+======= S0034-70942012000400012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-70942013000100009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=carcinoma	NaN	ANS=2320
+
+======= S0034-70942013000200006 ========= 
+1	ENT=tumores_epidermoides	NaN	ANS=8052/0
+
+======= S0034-70942014000200109 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-70942014000400236 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+
+======= S0034-70942015000200147 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71671998000200009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71671998000300002 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0034-71671999000400010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672002000400010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672003000200003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672003000200004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672003000500012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672003000500020 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+
+======= S0034-71672004000200005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672004000200006 ========= 
+1	ENT=malignidad	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0034-71672004000200009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672004000200018 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672004000300003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672004000600018 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0034-71672005000200018 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672005000400019 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672005000500018 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672006000200003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672006000400008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672006000500012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672007000200005 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+
+======= S0034-71672007000300009 ========= 
+1	ENT=cáncer_invasivo	NaN	ANS=8725/0
+1	ENT=cáncer_invasor	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0034-71672007000300016 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672007000400005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672007000500006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672007000600010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672008000100004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672008000400004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672008000400014 ========= 
+1	ENT=cáncer_cérvico-uterino	NaN	ANS=10080
+
+======= S0034-71672009000100016 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672009000400011 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672009000400014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672009000600010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672010000200002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672010000200019 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672010000200021 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0034-71672010000200026 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672010000400003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672010000400018 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672010000500013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672010000600008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672010000600031 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672011000100008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672011000200027 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672011000300009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672011000300018 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672011000400010 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672011000500014 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0034-71672011000600005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672012000200026 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672012000300010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672012000400003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672012000500013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672013000200017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672013000400007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672013000400018 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672013000600010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672014000100028 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672014000300408 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672014000400623 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672014000400630 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672014000500744 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672014000500752 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672014000600942 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672015000200284 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672015000300391 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672015000500791 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672015000601139 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672016000100067 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672016000100110 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672016000100126 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672016000100150 ========= 
+1	ENT=tumores_malignos	NaN	ANS=9562
+1	ENT=tumores_del_sistema_nervioso_central	NaN	ANS=8895/6
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0034-71672016000200404 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672016000300484 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672016000300559 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672016000400793 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672016000601188 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672017000200271 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672017000300550 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672017000601119 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0034-71672017000601330 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672018000100185 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672018000200252 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672018000200306 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672018000300934 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672018000401899 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672018000502552 ========= 
+1	ENT=neoplásicas	NaN	ANS=9562
+
+======= S0034-71672018000602916 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672018000700585 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672018000901320 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672018000901445 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672019000100125 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672019000100231 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672019000200484 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672019000200531 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672019000300640 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672019000401109 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672019000601464 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672019000601490 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+
+======= S0034-71672019000601519 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672019000601534 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672019000601588 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672019000700122 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672019000700181 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672019000700274 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672019000900025 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672019000900103 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672019000900227 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672020000100154 ========= 
+1	ENT=neoplásicas_malignas	NaN	ANS=9562
+
+======= S0034-71672020000200150 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672020000200171 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672020000400176 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672020000400177 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672020000500304 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672020000600165 ========= 
+1	ENT=tumor	NaN	ANS=9562
+
+======= S0034-71672020000600166 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672020001500154 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672020001600189 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672020001700155 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672020001800164 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672020001800168 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672020001800177 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=lesión_intraepitelial_de_bajo_grado	NaN	ANS=2330
+1	ENT=neoplásicas	NaN	ANS=8000/3
+
+======= S0034-71672020001800179 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-71672020001800500 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-74342014000200006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-75072014000100008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-75072016000300007 ========= 
+1	ENT=implantes_de_hueso	NaN	ANS=8311/1
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-75072019000100010 ========= 
+1	ENT=tumores_malignos	NaN	ANS=9562
+1	ENT=carcinoma_de_células_escamosas	NaN	ANS=2337
+
+======= S0034-75902014000600681 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89101994000300007 ========= 
+1	ENT=adenocarcinoma	NaN	ANS=238
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0034-89101999000300004 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0034-89102008000600015 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102009000200012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102009000300012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102009000400003 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0034-89102009000500013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0034-89102010000200016 ========= 
+1	ENT=adenocarcinoma	NaN	ANS=238
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102010000400006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102010000500011 ========= 
+1	ENT=leucemia	NaN	ANS=9562/0
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102011000300016 ========= 
+1	ENT=cánceres	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102011000400004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102011000500003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102011000600002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cánceres	NaN	ANS=8000/3
+
+======= S0034-89102012000600013 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+
+======= S0034-89102012000700017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102013000100015 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102013000200003 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0034-89102013000200274 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102013000200335 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102013000200368 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102013000300274 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102013000300335 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102013000300368 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102013000300470 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102013000500470 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0034-89102013000700003 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0066-782X2009000300003 ========= 
+1	ENT=tumor_de_wilms	NaN	ANS=8960/3
+1	ENT=adenocarcinoma	NaN	ANS=238
+1	ENT=carcinoma_de_células_claras	NaN	ANS=2337
+1	ENT=tumoral	NaN	ANS=8040/0
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0066-782X2010000100026 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+
+======= S0066-782X2010001300019 ========= 
+1	ENT=adenocarcinoma	NaN	ANS=238
+1	ENT=metastásica	NaN	ANS=28569
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342002000300012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342003000300011 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342004000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342004000300004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342005000200009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342005000400014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342006000200014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342006000300008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342006000400008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342007000100006 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342007000200020 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342007000300023 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342008000200006 ========= 
+1	ENT=neoplasias_de_vías_urinarias	NaN	ANS=10229
+
+======= S0080-62342008000400019 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342009000300012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342009000300030 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342009000400024 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342009000500012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342010000100016 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342010000100026 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342010000200039 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342010000300002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342010000300039 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0080-62342010000400008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342010000400012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342010000400019 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342011000100019 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342011000100039 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cánceres	NaN	ANS=8000/3
+
+======= S0080-62342011000200029 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342011000200031 ========= 
+1	ENT=leucemia_mieloide	NaN	ANS=24404
+
+======= S0080-62342011000600009 ========= 
+1	ENT=tumor	NaN	ANS=8040/1
+1	ENT=tumores	NaN	ANS=8040/0
+
+======= S0080-62342012000100031 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342012000100032 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342012000400005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342012000400031 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342012000400032 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342012000600013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342012000700007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342013000100009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342013000100013 ========= 
+1	ENT=leucemia	NaN	ANS=23872
+1	ENT=linfoma	NaN	ANS=9064/3
+1	ENT=mieloma	NaN	ANS=8880/0
+
+======= S0080-62342013000200012 ========= 
+1	ENT=linfoma_de_hodgkin	NaN	ANS=8561/0
+1	ENT=leucemia	NaN	ANS=23872
+1	ENT=linfoma_no_hodgkin	NaN	ANS=9170/0
+
+======= S0080-62342013000200015 ========= 
+1	ENT=malignas	NaN	ANS=8000/3
+1	ENT=neoplasias	NaN	ANS=8000/3
+1	ENT=neoplásicos	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0080-62342013000300626 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342013000601426 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342014000200264 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342014000200278 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342014000200357 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342014000300394 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342014000400684 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342014000400699 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342014000500922 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342014000600999 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342014000800073 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342015000100082 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342015000200221 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342015000300417 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342015000400564 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342016000100014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342016000200224 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342016000200346 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342016000500792 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342016000600898 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342016000600953 ========= 
+1	ENT=leucemia	NaN	ANS=9562/0
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342016001100068 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342017000100404 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342017000100425 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342017000100460 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342017000100471 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342018000100445 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342018000100455 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342018000100462 ========= 
+1	ENT=malignas	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0080-62342018000100477 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342018000100485 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0080-62342019000100469 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342019000100474 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342019000100476 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342019000100480 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342019000100488 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342019000100493 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342019000100805 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+
+======= S0080-62342020000100401 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342020000100406 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342020000100408 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=neoplasia_maligna	NaN	ANS=8000/3
+
+======= S0080-62342020000100411 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342020000100482 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0080-62342020000100804 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0101-32892016000200107 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-30982008000100004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-30982009000200009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-30982010000200003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-30982015000200277 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+
+======= S0102-30982016000300591 ========= 
+1	ENT=cánceres	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013000300017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013000300019 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013000400019 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013000500020 ========= 
+1	ENT=neoplasias	NaN	ANS=8000/3
+1	ENT=leucemia_linfoide	NaN	ANS=23878
+1	ENT=cáncer	NaN	ANS=8000/3
+1	ENT=enfermedad_de_hodgkin	NaN	ANS=22497
+
+======= S0102-311X2013000600005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013000600010 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+
+======= S0102-311X2013000600021 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013000700012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013000700017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013000700019 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013000800008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013000800019 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013000900016 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013000900020 ========= 
+1	ENT=neoplasias	NaN	ANS=8000/3
+1	ENT=leucemia_linfoide	NaN	ANS=23878
+1	ENT=cáncer	NaN	ANS=8000/3
+1	ENT=enfermedad_de_hodgkin	NaN	ANS=22497
+
+======= S0102-311X2013001000005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013001000010 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+
+======= S0102-311X2013001000021 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013001100004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cánceres	NaN	ANS=8000/3
+
+======= S0102-311X2013001100010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013001100012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013001100019 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013001200008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013001300004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013001300012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013001300016 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013001400021 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013001500004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013001500012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2013001600004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cánceres	NaN	ANS=8000/3
+
+======= S0102-311X2013001600010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2014000100088 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2014000200296 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cánceres	NaN	ANS=8000/3
+
+======= S0102-311X2014000200379 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2014000200415 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2014000300559 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2014000500983 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+
+======= S0102-311X2014000501093 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2014000701537 ========= 
+1	ENT=cáncer_femenino	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0102-311X2014000801537 ========= 
+1	ENT=cáncer_femenino	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0102-311X2014000901912 ========= 
+1	ENT=nic_ii_/_iii	NaN	ANS=9724
+
+======= S0102-311X2014000901987 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2014001001912 ========= 
+1	ENT=nic_ii_/_iii	NaN	ANS=9724
+
+======= S0102-311X2014001001987 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2014001102451 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2014001202451 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2014001202587 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2014001302587 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2015000100026 ========= 
+1	ENT=malignas	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0102-311X2015000100060 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2015000100071 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2015000300507 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0102-311X2015000400667 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2015000601269 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2015000601283 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2015000701517 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2015000801673 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2015000801732 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0102-311X2015000901975 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2015001001975 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2015001102437 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2015001302437 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2016000500706 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2017000205002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cánceres	NaN	ANS=8000/3
+
+======= S0102-311X2017000405011 ========= 
+1	ENT=cáncer_cervicouterino	NaN	ANS=14995
+
+======= S0102-311X2017000505011 ========= 
+1	ENT=cáncer_cervicouterino	NaN	ANS=14995
+
+======= S0102-311X2017000605007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2017000705007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2017000905001 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2017001004002 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0102-311X2017001105001 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2017001205001 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2017001205005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2017001304002 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0102-311X2017001505001 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2017001505005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2018000305016 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0102-311X2018000600501 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2018000600502 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2018000600503 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2018000606002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2018000905007 ========= 
+1	ENT=cáncer_invasivo	NaN	ANS=29575
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2018000905016 ========= 
+1	ENT=mesotelioma_maligno	NaN	ANS=8830
+1	ENT=mesotelioma	NaN	ANS=8830
+
+======= S0102-311X2018001205003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=leucemias	NaN	ANS=9562/0
+1	ENT=linfomas	NaN	ANS=8398
+1	ENT=células_tumorales	NaN	ANS=5236
+
+======= S0102-311X2018001205009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+
+======= S0102-311X2019000105006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2019000106001 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2019000205001 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0102-311X2019000303001 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2019000305002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2019000605004 ========= 
+1	ENT=leucemia	NaN	ANS=9562/0
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=leucemias	NaN	ANS=9562/0
+
+======= S0102-311X2019000705008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2019000905001 ========= 
+1	ENT=neoplasias_malignas	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2019000905011 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=leucemias	NaN	ANS=9562/0
+
+======= S0102-311X2019001005006 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer_renal_metastásico	NaN	ANS=6410
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2019001005007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2019001105008 ========= 
+1	ENT=tumores_malignos	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2019001205001 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2019001205008 ========= 
+1	ENT=tumores_malignos	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2019001304001 ========= 
+1	ENT=câncer_de_mama	NaN	ANS=1968
+
+======= S0102-311X2019001305001 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2019001404001 ========= 
+1	ENT=câncer_de_mama	NaN	ANS=1968
+
+======= S0102-311X2019001405002 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0102-311X2019001405007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2019001505002 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0102-311X2019001505007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-311X2020000105004 ========= 
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0102-311X2020000205004 ========= 
+1	ENT=metastásica	NaN	ANS=28569
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0102-311X2020000305010 ========= 
+1	ENT=leucemia	NaN	ANS=23872
+1	ENT=leucemia_linfoide_aguda	NaN	ANS=52571
+
+======= S0102-311X2020000405010 ========= 
+1	ENT=leucemia	NaN	ANS=23872
+1	ENT=leucemia_linfoide_aguda	NaN	ANS=52571
+
+======= S0102-311X2020001206001 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0102-311X2020001506001 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0102-311X2021000105004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0102-695X2006000100004 ========= 
+1	ENT=câncer_de_mama	NaN	ANS=1968
+
+======= S0102-695X2006000200002 ========= 
+1	ENT=linfoma_de_hodking	NaN	ANS=8398
+1	ENT=leucemia_crônica_mielóide	NaN	ANS=24404
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0102-695X2007000400004 ========= 
+1	ENT=câncer_de_mama	NaN	ANS=1968
+
+======= S0102-71822010000200012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-05822012000200009 ========= 
+1	ENT=tumores_de_sistema_nervioso_central	NaN	ANS=8102/6
+1	ENT=enfermedad_diseminada	NaN	ANS=8081/2
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=osteosarcoma	NaN	ANS=8840/3
+1	ENT=leucemias	NaN	ANS=9562/0
+1	ENT=rabdomiosarcoma	NaN	ANS=8800/3
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0103-05822013000300338 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-05822014000100099 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002005000200006 ========= 
+1	ENT=cáncer_cervical-uterino	NaN	ANS=14995
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002007000400021 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002008000100012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002008000200015 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002009000100015 ========= 
+1	ENT=cáncer_con_metástasis	NaN	ANS=9555
+
+======= S0103-21002009000200007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002009000500016 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002009000500017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002009000700017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002010000100014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002010000100020 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002010000200004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002010000300004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002010000300007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002010000300021 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002010000400007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002010000400017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002010000600014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002011000200003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002011000300015 ========= 
+1	ENT=lesiones_intraepiteliales_de_alto_grado	NaN	ANS=38426
+1	ENT=neoplasias	NaN	ANS=9562
+
+======= S0103-21002011000400008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002011000500002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002011000500006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=carcinoma	NaN	ANS=2320
+
+======= S0103-21002011000600014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002011000600018 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0103-21002012000200009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002012000300020 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002012000400014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002012000500005 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0103-21002012000500021 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002012000800025 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002018000100087 ========= 
+1	ENT=retinoblastoma	NaN	ANS=9510/3
+
+======= S0103-21002018000400382 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002018000400439 ========= 
+1	ENT=mieloma_múltiple	NaN	ANS=9732/3
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=mieloma	NaN	ANS=8870/0
+
+======= S0103-21002018000500564 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002019000200220 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0103-21002019000400416 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002020000100455 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-21002020000101001 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-51502018000100227 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0103-73312010000200010 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0103-863X2008000200013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-863X2010000200010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-863X2012000100014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-863X2012000300010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-863X2013000200253 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-863X2014000100056 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-863X2014000300295 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0103-863X2021000100201 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072005000200012 ========= 
+1	ENT=tumores_malignos	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072005000200017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072006000300006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072006000400005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0104-07072006000400012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072007000100018 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072007000300008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072007000400002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072007000400014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072007000400017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072008000300016 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072008000300018 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072008000400017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072009000100003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072009000400012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072010000200015 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072010000200016 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072010000400019 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072011000100011 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072011000200006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072011000300016 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0104-07072011000400004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072011000400017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072011000500023 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072011000500027 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072012000200006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072012000200018 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0104-07072012000300015 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072012000300022 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072012000400008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072012000400009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072012000400010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072012000400016 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072012000400031 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072013000200017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072013000200023 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072013000200025 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072013000200031 ========= 
+1	ENT=neoplásicas	NaN	ANS=9562
+
+======= S0104-07072013000300010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072013000300013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072013000300018 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072013000300020 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072013000300033 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072013000400010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072013000400017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072014000100029 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072014000200391 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072014000200492 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072014000300720 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072014000400836 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072014000400880 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072014000400935 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072015000100096 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072015000200381 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0104-07072015000200554 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072015000300740 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072015000401112 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072016000100311 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072016000200302 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072016000200322 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072016000300325 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072016000300327 ========= 
+1	ENT=neoplásicas_malignas	NaN	ANS=9562
+1	ENT=neoplásica_maligna	NaN	ANS=9230/3
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072016000400301 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072016000400308 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072016000400501 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072017000100303 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072017000300331 ========= 
+1	ENT=leucemia	NaN	ANS=9562/0
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072017000400611 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072018000200318 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072018000300305 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072018000400319 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072019000100314 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072019000100329 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072019000100358 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072019000100374 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072019000100382 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072019000100400 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072019000100503 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072019000100507 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072019000100510 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072020000100331 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072020000100383 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-07072020000100386 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11691997000300002 ========= 
+1	ENT=cáncer_cérvico-uterino	NaN	ANS=10080
+
+======= S0104-11691998000200009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11691998000400007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11691999000400009 ========= 
+1	ENT=cáncer	NaN	ANS=8000/3
+1	ENT=neoplásico	NaN	ANS=9562
+
+======= S0104-11692001000400008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692001000500010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692002000300004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692002000300007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692002000400012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692003000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692003000100008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692003000500008 ========= 
+1	ENT=câncer_de_mama	NaN	ANS=8000/3
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0104-11692004000300006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692004000300007 ========= 
+1	ENT=câncer_de_mama	NaN	ANS=1968
+
+======= S0104-11692004000500009 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+
+======= S0104-11692004000600005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692005000100008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692005000200013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692005000600005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692005000600006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692006000100005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692006000400006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692006000600007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692007000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692007000100008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692007000200024 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692007000300008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692007000300010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692007000400013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692007000500022 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692007000600012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692007000700011 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692007000700012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692008000300004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692008000300023 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692008000300025 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692008000400011 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0104-11692008000400013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=carcinoma	NaN	ANS=2320
+
+======= S0104-11692008000500011 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692008000600010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692008000600018 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+
+======= S0104-11692009000100014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692009000200011 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692009000300009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692009000400008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692009000400013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692009000500011 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692009000500021 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692010000100009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692010000200019 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692010000300009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692010000300010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692010000400004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692010000400005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692010000400010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692010000500003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692010000500004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692010000500005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692010000600013 ========= 
+1	ENT=ccip	NaN	ANS=13906
+
+======= S0104-11692010000600025 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692011000100011 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692011000200028 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692011000300008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692011000300010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692011000300011 ========= 
+1	ENT=neoplásicas	NaN	ANS=9562
+
+======= S0104-11692011000300012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692011000600019 ========= 
+1	ENT=neoplasia	NaN	ANS=9570/0
+1	ENT=neoplasias	NaN	ANS=8971/3
+
+======= S0104-11692011000600024 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+
+======= S0104-11692012000100006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692012000100013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692012000100017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692012000200019 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692012000200020 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692012000300010 ========= 
+1	ENT=ccr	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0104-11692012000300024 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692012000400006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692012000600012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692013000100010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692013000200539 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692013000300780 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692013000300787 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692014000100028 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692014000100100 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692014000200301 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692014000300401 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692014000300408 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692014000300425 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692014000300432 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692014000400591 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692014000500866 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692015000100082 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692015000100090 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692015000300427 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692015000500971 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692016000100337 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692016000100338 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692016000100379 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692016000100405 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692016000100601 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692016000100606 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692016000100614 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+
+======= S0104-11692017000100307 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692017000100317 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+
+======= S0104-11692017000100333 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692017000100343 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692017000100347 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692017000100351 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692017000100404 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692017000100406 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692017000100414 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+
+======= S0104-11692017000100602 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692018000100316 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692018000100341 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692018000100343 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692018000100369 ========= 
+1	ENT=leucemia	NaN	ANS=9562/0
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692018000100394 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692018000100600 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692018000100604 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692019000100332 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+
+======= S0104-11692019000100352 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692019000100375 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692019000100404 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692019000100603 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692020000100336 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692020000100370 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692020000100416 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692020000100423 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692020000100605 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0104-11692020000100612 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-06902010000400010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-06902011000100009 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0120-06902012000300017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-06902018000300180 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+
+======= S0120-06902018000400295 ========= 
+1	ENT=tumor_mixto_benigno	NaN	ANS=8361/0
+1	ENT=malignas	NaN	ANS=8000/3
+1	ENT=neoplasias_benignas_y_malignas	NaN	ANS=8001/3
+1	ENT=carcinoma_tubular_in_situ	NaN	ANS=8010/9
+1	ENT=tumor_mixto	NaN	ANS=8361/0
+1	ENT=adenomas_quísticos	NaN	ANS=54888
+1	ENT=maligno	NaN	ANS=8000/3
+1	ENT=carcinomas_complejo_,_mixto_maligno	NaN	ANS=8200/3
+1	ENT=carcinomas	NaN	ANS=8231/3
+1	ENT=tumor_mixto_,_tubular_in_situ_,_túbulopapilar	NaN	ANS=8090/1
+1	ENT=malignidad	NaN	ANS=9562
+1	ENT=tumorales	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=8090/1
+1	ENT=adenomas	NaN	ANS=8410/0
+
+======= S0120-100X2018000100043 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-28042009000300003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=células_tumorales	NaN	ANS=5236
+
+======= S0120-28042012000100003 ========= 
+1	ENT=tumorales	NaN	ANS=9562
+
+======= S0120-28042015000100004 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0120-28042019000100005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=leucemia_linfoblástica_aguda	NaN	ANS=24404
+
+======= S0120-28042020000300013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-386X2015000200013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-386X2015000200015 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-386X2016000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-386X2016000300297 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-386X2017000100027 ========= 
+1	ENT=cáncer_cérvico-uterino	NaN	ANS=10080
+
+======= S0120-386X2017000200216 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-386X2017000300335 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-386X2017000300343 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-386X2017000300382 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-386X2018000100005 ========= 
+1	ENT=cáncer	NaN	ANS=8000/3
+1	ENT=neoplásicas	NaN	ANS=8000/3
+
+======= S0120-386X2019000200116 ========= 
+1	ENT=cánceres	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-386X2019000300005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-386X2020000200005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-53072010000200014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-53072012000100003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-53072012000200008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-53072012000300004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-53072013000300004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-53072013000300008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-53072014000100005 ========= 
+1	ENT=leucemia	NaN	ANS=23872
+
+======= S0120-53072014000200004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-53072015000200017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-53072015000300004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-53072015000300010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-53072016000100007 ========= 
+1	ENT=cáncer	NaN	ANS=8000/3
+1	ENT=ccu	NaN	ANS=8000/3
+
+======= S0120-53072016000100015 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-53072016000300537 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-53072017000100109 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-53072017000200221 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0120-53072017000300320 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-53072018000100004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-53072018000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0120-971X2017000100003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-07932015000300005 ========= 
+1	ENT=malignas	NaN	ANS=592
+
+======= S0121-07932015000400007 ========= 
+1	ENT=metástasis	NaN	ANS=9072/6
+1	ENT=adenocarcinoma	NaN	ANS=238
+1	ENT=metástasis_en_carcinomas	NaN	ANS=9072/6
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=células_tumorales	NaN	ANS=5236
+
+======= S0121-07932016000200013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-07932016000300301 ========= 
+1	ENT=leucemia_linfocítica_aguda	NaN	ANS=52571
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-07932016000300323 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-07932016000400445 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-07932016000400503 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-07932017000200131 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cánceres	NaN	ANS=8000/3
+1	ENT=linfomas	NaN	ANS=8271/0
+1	ENT=carcinoma	NaN	ANS=8271/0
+
+======= S0121-07932017000200160 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-11292016000200008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-37092014000100008 ========= 
+1	ENT=neoplásicos_malignos	NaN	ANS=9562
+1	ENT=neoplásicas	NaN	ANS=9562
+
+======= S0121-45002009000200011 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0121-45002011000100002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-45002011000100009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-45002012000100004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-45002012000200009 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0121-45002013000200007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-45002014000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-45002014000200002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-45002016000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-45002016000100009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-45002016000200005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-45002018000300328 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-45002019000100027 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-45002019000200158 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-45002019000300333 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+
+======= S0121-45002020000200149 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+
+======= S0121-52562008000200007 ========= 
+1	ENT=neoplasia	NaN	ANS=8000/3
+1	ENT=malignidad	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=8000/3
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0121-52562008000200008 ========= 
+1	ENT=carcinomas	NaN	ANS=8010/9
+1	ENT=teratoma_maduro	NaN	ANS=14102
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=carcinoma_embrionario	NaN	ANS=8337/3
+1	ENT=tumor_del_saco_vitelino	NaN	ANS=9071/3
+1	ENT=tumores_de_células_germinales	NaN	ANS=8001/0
+1	ENT=coriocarcinomas	NaN	ANS=8010/9
+1	ENT=tumores_seminomatosos	NaN	ANS=8010/9
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0121-52562009000100019 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-52562010000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-52562010000200004 ========= 
+1	ENT=carcinoma	NaN	ANS=2320
+1	ENT=neoplásicas	NaN	ANS=9562
+
+======= S0121-52562010000200010 ========= 
+1	ENT=malignidad	NaN	ANS=9562
+
+======= S0121-52562011000100006 ========= 
+1	ENT=sãntomas	NaN	ANS=8140/0
+
+======= S0121-52562011000200007 ========= 
+1	ENT=carcinomas	NaN	ANS=8337/3
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=carcinomas_corticoadrenales	NaN	ANS=38036
+1	ENT=tumor	NaN	ANS=8090/1
+1	ENT=cáncer_familiar	NaN	ANS=8337/3
+1	ENT=carcinoma	NaN	ANS=8337/3
+1	ENT=adenomas	NaN	ANS=244
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0121-52562012000200005 ========= 
+1	ENT=neuroblastoma	NaN	ANS=9562/0
+1	ENT=enfermedad_diseminada	NaN	ANS=8081/2
+1	ENT=tumor_sólido	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+1	ENT=maligno	NaN	ANS=482
+
+======= S0121-52562012000200009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-52562013000200004 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0121-52562014000100005 ========= 
+1	ENT=cáncer_de_cuello_uterino	NaN	ANS=8413/3
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor_maligno	NaN	ANS=9562
+
+======= S0121-52562014000100007 ========= 
+1	ENT=cáncer_cutáneo_no_melanoma	NaN	ANS=13259
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=carcinoma_cutáneo_de_células_escamosas	NaN	ANS=2337
+1	ENT=carcinoma_epidermoide	NaN	ANS=2337
+1	ENT=carcinoma_basocelular	NaN	ANS=2323
+
+======= S0121-52562016000100007 ========= 
+1	ENT=carcinoma	NaN	ANS=2320
+
+======= S0121-52562017000200063 ========= 
+1	ENT=adenocarcinoma	NaN	ANS=8140/3
+1	ENT=leucemia	NaN	ANS=9562/0
+1	ENT=metastásica	NaN	ANS=28569
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=linfoma	NaN	ANS=8271/0
+1	ENT=melanoma	NaN	ANS=8271/0
+1	ENT=carcinoma	NaN	ANS=8271/0
+
+======= S0121-52562018000200044 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-52562018000200052 ========= 
+1	ENT=carcinomas	NaN	ANS=8337/3
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer_no	NaN	ANS=9562
+1	ENT=carcinoma_espinocelular	NaN	ANS=8337/3
+1	ENT=carcinoma_basocelular	NaN	ANS=8337/3
+1	ENT=melanoma	NaN	ANS=8271/0
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0121-52562018000200060 ========= 
+1	ENT=adenocarcinomas	NaN	ANS=238
+1	ENT=neoplasia	NaN	ANS=8000/3
+1	ENT=neoplasias	NaN	ANS=8000/3
+1	ENT=carcinoma_de_células_escamosas	NaN	ANS=2337
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=linfomas	NaN	ANS=8398
+1	ENT=malignidades	NaN	ANS=8000/3
+
+======= S0121-75772007000100010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-75772007000100013 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0121-75772008000100011 ========= 
+1	ENT=cáncer	NaN	ANS=8000/3
+1	ENT=neoplásicas	NaN	ANS=8000/3
+
+======= S0121-75772008000100012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-75772008000100014 ========= 
+1	ENT=cáncer_invasivo	NaN	ANS=29575
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-75772010000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-75772011000100010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cánceres	NaN	ANS=8000/3
+
+======= S0121-75772011000200011 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-75772012000100010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-75772012000200003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-75772012000200009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-75772013000100002 ========= 
+1	ENT=cáncer	NaN	ANS=8000/3
+1	ENT=neoplásicas	NaN	ANS=8000/3
+1	ENT=neoplasia_intraepitelial_cervical_grado_i	NaN	ANS=10579
+
+======= S0121-75772013000200010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-75772016000200009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0121-75772017000200129 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S0122-74832009000200001 ========= 
+1	ENT=tumorales	NaN	ANS=8001/3
+1	ENT=antitumorales	NaN	ANS=8040/0
+
+======= S0122-74832010000200003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=células_tumorales	NaN	ANS=5236
+
+======= S0122-74832012000300005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=antitumoral	NaN	ANS=22157
+1	ENT=cáncer_de_seno	NaN	ANS=9562/0
+
+======= S0122-93542012000100004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+
+======= S0122-93542014000100005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=carcinoma_ductal_in_situ	NaN	ANS=31805
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0122-93542014000100008 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=carcinoma_inflamatorio	NaN	ANS=2330
+
+======= S0122-93542015000200009 ========= 
+1	ENT=hemangiosarcoma	NaN	ANS=9120/3
+1	ENT=metástasicos	NaN	ANS=8000/6
+1	ENT=metastásico	NaN	ANS=8000/6
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=hemangioma	NaN	ANS=9120/3
+
+======= S0122-93542017000300053 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=tumor_neoplásico	NaN	ANS=8000/3
+1	ENT=neoplasias_malignas	NaN	ANS=9562
+1	ENT=neoplásicos	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0123-31222017000100023 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0123-31222017000100046 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0123-91552011000200008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0123-91552016000100006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0123-91552017000200106 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=maligna	NaN	ANS=9562
+
+======= S0124-00642014000300003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0124-00642014000500005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0124-00642014000500013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cáncer_oral	NaN	ANS=9562/0
+
+======= S0124-00642018000600718 ========= 
+1	ENT=carcinoma_de_células_escamosas	NaN	ANS=2337
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0124-00642019000304104 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0124-00642019000500208 ========= 
+1	ENT=carcinoma_de_células_escamosas	NaN	ANS=2337
+1	ENT=tumor	NaN	ANS=9090/0
+1	ENT=tumores	NaN	ANS=9090/0
+
+======= S0124-59962020000100015 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0124-81462010000200006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0124-81462011000100006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0124-81462012000100007 ========= 
+1	ENT=cáncer	NaN	ANS=8000/3
+1	ENT=maligna	NaN	ANS=8000/3
+1	ENT=malignos	NaN	ANS=8000/3
+
+======= S0124-81462013000200008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0124-86932019000200049 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=m10_,_m14_,_m19	NaN	ANS=9732/3
+
+======= S0325-29572011000200004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0325-29572013000200007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0325-29572013000200011 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0325-29572013000200013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0325-29572013000300009 ========= 
+1	ENT=carcinoma_invasor	NaN	ANS=2320
+
+======= S0325-29572014000100002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0325-29572014000300006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0325-29572014000300007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0325-29572015000100006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0325-29572015000100010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0325-29572016000400009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0325-29572016000400024 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=tumoral	NaN	ANS=9090/0
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0325-29572016000400026 ========= 
+1	ENT=retinoblastoma	NaN	ANS=9510/3
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0325-29572017000400008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cm	NaN	ANS=3433
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0325-29572018000300012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=maligna	NaN	ANS=9562
+
+======= S0376-78922018000200017 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+1	ENT=neoplasia_maligna	NaN	ANS=8000/3
+
+======= S0378-18442002000300005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0378-18442002000900005 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=enfermedad_sistémica	NaN	ANS=8081/2
+1	ENT=linfoma_no_hodgkin	NaN	ANS=9174/0
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=leucemias	NaN	ANS=9562/0
+
+======= S0378-18442006000700006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0378-18442006000900008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0378-18442008000500013 ========= 
+1	ENT=tumoral	NaN	ANS=8895/0
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=linfoma_murino	NaN	ANS=9174/0
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=linfoma	NaN	ANS=8398
+1	ENT=neoplásico	NaN	ANS=9562
+
+======= S0378-18442008000600005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0378-18442009000200007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0378-18442009000900006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0717-95532005000200008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0717-95532009000200006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0717-95532010000100011 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0717-95532011000100008 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S0717-95532011000300008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0717-95532015000200006 ========= 
+1	ENT=metástasis_del_cáncer	NaN	ANS=9555
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S0717-95532016000300061 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0717-95532018000100206 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0717-95532018000100215 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0717-95532019000100205 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0717-95532020000100218 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0717-95532020000100301 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0718-48672019000100037 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0719-367X2016000100003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0719-367X2019000100179 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0864-03192012000100007 ========= 
+1	ENT=neoplasia	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=8000/3
+1	ENT=ccu	NaN	ANS=8000/3
+
+======= S0864-03192012000400003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0864-03192017000400009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0864-03192018000100002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0864-03192018000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0874-02832010000400003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0874-02832011000100013 ========= 
+1	ENT=carcinoma	NaN	ANS=2320
+
+======= S0874-02832011000300017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0874-02832012000200003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0874-02832012000200011 ========= 
+1	ENT=carcinoma	NaN	ANS=2320
+1	ENT=caricinoma	NaN	ANS=8271/0
+
+======= S0874-02832012000300012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0874-02832012000300014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0874-02832014000300013 ========= 
+1	ENT=neoplasia_intraepitelial	NaN	ANS=2330
+
+======= S0874-02832015000100011 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0874-02832015000200014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0874-02832015000700011 ========= 
+1	ENT=leucemia	NaN	ANS=9562/0
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=linfoma	NaN	ANS=8398
+
+======= S0874-02832016000300013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0874-02832016000400007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0874-02832016000400012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0874-02832017000100015 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0874-02832018000200012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0874-02832019000400012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0874-02832020000100012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S0874-02832020000300005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1010-29142016000200012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1018-130X2017000400003 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S1019-94032020000100027 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1020-49892015000400021 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cm	NaN	ANS=3433
+
+======= S1020-49892017000100175 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1020-49892017000100187 ========= 
+1	ENT=cáncer_cervicouterino	NaN	ANS=14995
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1020-49892017000100305 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=neoplasia_maligna	NaN	ANS=8000/3
+
+======= S1020-49892017000100605 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1020-49892017000100607 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1020-49892018000100159 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1020-49892018000100227 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1020-49892018000100230 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1020-49892018000100502 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S1020-49892018000100529 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1020-49892018000100530 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1020-49892019000100550 ========= 
+1	ENT=tumoral	NaN	ANS=29073
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1020-49892020000100458 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1020-49892020000100900 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S1028-48182019000300474 ========= 
+1	ENT=cdi	NaN	ANS=9370/3
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1028-48182019000400624 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1028-48182019000400775 ========= 
+1	ENT=adenocarcinoma	NaN	ANS=238
+1	ENT=carcinoma_de_células_no_pequeñas	NaN	ANS=2337
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=lesiones_pulmonares	NaN	ANS=8972/3
+
+======= S1028-48182019000400835 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1028-48182019000501064 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S1028-48182019000601306 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+1	ENT=astrocitoma	NaN	ANS=8820/0
+
+======= S1028-48182019000601403 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=tumor_neuroendocrino_de_páncreas_con_metástasis	NaN	ANS=31255
+1	ENT=tumor	NaN	ANS=9562
+
+======= S1028-99332018000500955 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+
+======= S1028-99332018000601149 ========= 
+1	ENT=tumores_malignos	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor_maligno	NaN	ANS=9562
+
+======= S1028-99332019000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=carcinoma_basocelular	NaN	ANS=2323
+
+======= S1028-99332019000100044 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1028-99332019000100117 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1028-99332019000200157 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1028-99332019000300413 ========= 
+1	ENT=tumores_malignos	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=melanoma	NaN	ANS=8714
+1	ENT=melanoma_maligno	NaN	ANS=8011/3
+
+======= S1028-99332019000400448 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=carcinoma_epidermoide	NaN	ANS=2337
+
+======= S1028-99332019000400515 ========= 
+1	ENT=adenocarcinoma_de_páncreas_con_metástasis	NaN	ANS=238
+1	ENT=metastásicas	NaN	ANS=28569
+1	ENT=tumor	NaN	ANS=9562
+
+======= S1028-99332019000500556 ========= 
+1	ENT=malignidad	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S1028-99332019000500597 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1028-99332019000500608 ========= 
+1	ENT=cáncer_cervicouterino	NaN	ANS=14995
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1028-99332019000600713 ========= 
+1	ENT=carcinoma_basocelular	NaN	ANS=2323
+
+======= S1028-99332020000100055 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1028-99332020000100071 ========= 
+1	ENT=cáncer	NaN	ANS=8000/3
+1	ENT=neoplásico	NaN	ANS=9562
+
+======= S1409-42582020000100091 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1409-45682017000100026 ========= 
+1	ENT=cáncer_cérvicouterino	NaN	ANS=10080
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1409-45682018000100038 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1409-45682020000100032 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1413-294X2015000100050 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1413-294X2015000400241 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1413-73722007000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1413-73722007000300021 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1413-73722008000100020 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1413-73722008000200005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1413-73722009000200017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1413-73722010000400011 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S1413-73722010000400012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1413-73722013000300015 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1413-73722019000100211 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1413-81232011001300030 ========= 
+1	ENT=tumores_malignos	NaN	ANS=9562
+1	ENT=cancro	NaN	ANS=9114
+
+======= S1413-82712012000100016 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1413-82712013000300013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1413-82712014000200002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1413-82712018000200333 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-32832008000200013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-32832008000400015 ========= 
+1	ENT=cancer	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-32832009000200012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-32832009000300005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-32832011000100010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-32832011000300018 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-32832014000300479 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-32832017000100153 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-32832017000200385 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-32832017000400969 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+
+======= S1414-32832018000100251 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S1414-32832018000300939 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-32832019000100237 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-32832019000100256 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-32832020000100241 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S1414-32832020000200209 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-32832020000300209 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452007000100021 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452007000300004 ========= 
+1	ENT=cemo	NaN	ANS=13267
+
+======= S1414-81452008000100010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452008000100020 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452008000300016 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452008000400009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452008000400012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452009000100018 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452009000100022 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452009000200014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452009000200020 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452009000200026 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452009000300015 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452009000400004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452010000100014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452010000100019 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452010000200013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452010000300007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452010000300020 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452010000300026 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452011000100025 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452011000200026 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cáncer_cervico-uterino	NaN	ANS=14995
+
+======= S1414-81452012000100004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452012000100006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452012000200005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452012000200014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452012000300005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452012000300010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452012000400025 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452013000300446 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452013000300482 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S1414-81452014000100041 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452014000100054 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452014000100107 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452014000200270 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=carcinoma_ductal_invasor	NaN	ANS=2330
+1	ENT=neoplásicas	NaN	ANS=9562
+
+======= S1414-81452014000400578 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452014000400697 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452014000400705 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452015000100066 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452015000200292 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+
+======= S1414-81452015000200316 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452015000300432 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452015000400571 ========= 
+1	ENT=tumoral	NaN	ANS=29073
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452016000200317 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452016000300206 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452016000300218 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452016000400207 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452016000400213 ========= 
+1	ENT=neoplásicas_de_bajo_grado	NaN	ANS=10229
+
+======= S1414-81452016000400218 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452017000100211 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452017000100219 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452017000200202 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452017000400207 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452018000100218 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452018000300603 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452018000400208 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452018000400214 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452018000400225 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452019000200221 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452019000300207 ========= 
+1	ENT=neoplasia_maligna	NaN	ANS=9562
+
+======= S1414-81452019000300212 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=leucemias	NaN	ANS=9562/0
+1	ENT=linfomas	NaN	ANS=8398
+
+======= S1414-81452019000400211 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452019000400215 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452020000100209 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452020000200202 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452020000200203 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452020000200206 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452020000300210 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452020000300217 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452020000400210 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452021000100203 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-81452021000200220 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-98932009000400016 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-98932010000200009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-98932014000401014 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S1414-98932015000200437 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-98932015000300870 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S1414-98932015000300959 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-98932017000100106 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-98932017000400970 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-98932018000100088 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-98932019000100105 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-98932019000100119 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1414-98932020000100144 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S1517-86922004000200004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1517-86922004000400008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1517-86922006000300009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1517-86922006000400009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1517-86922014000300204 ========= 
+1	ENT=tumoral	NaN	ANS=8040/1
+1	ENT=tumor	NaN	ANS=8040/1
+1	ENT=células_tumorales	NaN	ANS=8040/1
+
+======= S1517-86922016000500420 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1517-86922017000500366 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1517-86922018000500377 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1517-86922019000600464 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1517-86922019000600498 ========= 
+1	ENT=neoplásica	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1517-86922020000600498 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1518-76322015000100033 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1645-00862000000100004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1647-21602015000100020 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1647-21602016000300007 ========= 
+1	ENT=tumores_malignos	NaN	ANS=9562
+1	ENT=sarcomas	NaN	ANS=12888
+1	ENT=sarcoma_de_tejidos_blandos	NaN	ANS=8800/9
+
+======= S1657-47022016000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-47022017000200018 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-47022019000100093 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-47022020000100015 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972007000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972010000100006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972010000200004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972011000200003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972011000300003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972013000100008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972013000200008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972013000300002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972014000100003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972014000400005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972015000100002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+
+======= S1657-59972015000200009 ========= 
+1	ENT=cánceres	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972015000400005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972017000300243 ========= 
+1	ENT=tumoral	NaN	ANS=D18.0
+1	ENT=tumorales	NaN	ANS=8102/3
+
+======= S1657-59972017000300257 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972018000100056 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972018000400395 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972019000100016 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+
+======= S1657-59972019000200008 ========= 
+1	ENT=adenocarcinoma	NaN	ANS=238
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972019000300003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-59972019000300007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-70272011000100010 ========= 
+1	ENT=cáncer_cérvico-uterino	NaN	ANS=10080
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cánceres	NaN	ANS=8000/3
+
+======= S1657-70272012000100008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-70272017000100085 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-70272017000200006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-70272018000200057 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-89612015000100001 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1657-89612017000200004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1665-70632016000400253 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1665-70632017000200104 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1665-70632017000400235 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1665-70632018000200124 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1665-70632019000200149 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1665-70632019000200185 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1676-24442019000100032 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1676-24442019000100069 ========= 
+1	ENT=carcinomas	NaN	ANS=8010/9
+1	ENT=tumores_ductales	NaN	ANS=8040/0
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=carcinoma_ductal	NaN	ANS=D05.1
+1	ENT=carcinoma_lobulillar	NaN	ANS=8337/3
+1	ENT=carcinoma_in_situ	NaN	ANS=8337/3
+1	ENT=carcinoma	NaN	ANS=8337/3
+1	ENT=carcinoma_de_mama_ductal_/_tipos_especialesy_lobulillar	NaN	ANS=2323
+1	ENT=tumores	NaN	ANS=9562
+
+======= S1676-24442019000100087 ========= 
+1	ENT=adenocarcinoma	NaN	ANS=238
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor_maligno	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S1676-24442019000200136 ========= 
+1	ENT=lesión_intraepitelial_escamosa_de_bajo_grado	NaN	ANS=8077/2
+1	ENT=adenocarcinoma	NaN	ANS=238
+
+======= S1676-24442019000300246 ========= 
+1	ENT=lesión_intraepitelial_escamosa_de_bajo_grado	NaN	ANS=8148/2
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=lesión_intraepitelial_escamosa_de_alto_grado	NaN	ANS=8077/2
+
+======= S1676-24442019000300321 ========= 
+1	ENT=células_neoplásicas	NaN	ANS=8000/6
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=metastásica	NaN	ANS=8000/6
+1	ENT=tumoral	NaN	ANS=8040/1
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=neoplásico	NaN	ANS=9562
+1	ENT=neoplásicas	NaN	ANS=9562
+
+======= S1676-24442019000600620 ========= 
+1	ENT=fibroadenoma	NaN	ANS=8280/0
+1	ENT=carcinoma_invasivo_de_tipo_no_especial	NaN	ANS=8010/2
+1	ENT=malignas	NaN	ANS=9562
+1	ENT=carcinoma_ductal_in_situ	NaN	ANS=8010/2
+1	ENT=carcinoma_lobular_invasivo	NaN	ANS=8510/3
+
+======= S1676-24442020000100300 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1676-24442020000100301 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+
+======= S1676-24442020000100406 ========= 
+1	ENT=lesiones_escamosas_intraepiteliales_de_bajo_grado	NaN	ANS=8070/2
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=lesiones_escamosas	NaN	ANS=28016
+
+======= S1676-24442020000100409 ========= 
+1	ENT=adenocarcinoma	NaN	ANS=238
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=neoplasias	NaN	ANS=8000/3
+1	ENT=neoplásicos	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1676-24442020000100411 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1676-24442020000100412 ========= 
+1	ENT=carcinoma_invasivo	NaN	ANS=8010/2
+1	ENT=carcinoma_mamario_invasivo	NaN	ANS=8010/2
+1	ENT=cdis	NaN	ANS=31805
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=carcinoma_ductal_in_situ	NaN	ANS=8010/2
+
+======= S1676-24442020000100415 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S1676-24442020000100420 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1676-24442020000100421 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1676-24442020000100424 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1676-24442020000100711 ========= 
+1	ENT=leucemia_linfocítica_aguda	NaN	ANS=52571
+
+======= S1688-03902006000300002 ========= 
+1	ENT=tumoral	NaN	ANS=29073
+1	ENT=neoplásicos	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+1	ENT=cánceres	NaN	ANS=8000/3
+
+======= S1688-03902006000400006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902007000100008 ========= 
+1	ENT=neuroependimoma	NaN	ANS=9562/0
+1	ENT=implantes_ováricos	NaN	ANS=8727/0
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902007000200005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902007000200006 ========= 
+1	ENT=melanomas	NaN	ANS=8895/0
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=melanoma	NaN	ANS=8730/3
+
+======= S1688-03902008000100002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902008000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902009000100002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cánceres	NaN	ANS=8000/3
+
+======= S1688-03902009000200008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902010000100005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902010000200004 ========= 
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902010000300004 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=cm_invasivo	NaN	ANS=8010/9
+1	ENT=tumoral	NaN	ANS=8895/3
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cm	NaN	ANS=8895/3
+1	ENT=carcinoma_ductal	NaN	ANS=8010/3
+1	ENT=tumores_más_indiferenciados	NaN	ANS=2320
+
+======= S1688-03902010000400006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902011000100005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cánceres	NaN	ANS=8000/3
+
+======= S1688-03902012000200004 ========= 
+1	ENT=oclusión_intestinal_maligna	NaN	ANS=8403/3
+
+======= S1688-03902012000200009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S1688-03902012000400002 ========= 
+1	ENT=tumoral	NaN	ANS=8895/3
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cm	NaN	ANS=8895/3
+
+======= S1688-03902012000400003 ========= 
+1	ENT=glioblastoma_multiforme	NaN	ANS=9440/3
+1	ENT=gliomas	NaN	ANS=9440/3
+
+======= S1688-03902012000400004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+
+======= S1688-03902012000400005 ========= 
+1	ENT=malignas	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S1688-03902013000100010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902013000200007 ========= 
+1	ENT=leucemia_aguda_linfoblástica	NaN	ANS=23878
+
+======= S1688-03902015000200003 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cánceres	NaN	ANS=8000/3
+
+======= S1688-03902015000300002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902015000300003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cm	NaN	ANS=3433
+
+======= S1688-03902015000300008 ========= 
+1	ENT=tumoración	NaN	ANS=8271/0
+1	ENT=cáncer_indiferenciado	NaN	ANS=2320
+1	ENT=linfoma	NaN	ANS=8271/0
+1	ENT=linfomas_no_hodking	NaN	ANS=9170/0
+
+======= S1688-03902015000400002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902015000400003 ========= 
+1	ENT=carcinoma_cérvico-uterino	NaN	ANS=31587
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=carcinoma	NaN	ANS=2320
+
+======= S1688-03902015000400004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor_maligno	NaN	ANS=9562
+
+======= S1688-03902015000400005 ========= 
+1	ENT=ccr	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S1688-03902016000200002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902016000200004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902016000200005 ========= 
+1	ENT=cáncer_invasor	NaN	ANS=8000/3
+1	ENT=tumoral	NaN	ANS=9090/0
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumorales	NaN	ANS=9562
+
+======= S1688-03902016000300008 ========= 
+1	ENT=adenocarcinoma	NaN	ANS=238
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902016000400003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cm	NaN	ANS=3433
+
+======= S1688-03902017000100128 ========= 
+1	ENT=cáncer	NaN	ANS=8000/3
+1	ENT=ccu	NaN	ANS=8000/3
+
+======= S1688-03902017000100142 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902017000200017 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cm	NaN	ANS=3433
+1	ENT=carcinoma_ductal	NaN	ANS=38036
+
+======= S1688-03902017000200040 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902017000300038 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=cáncer	NaN	ANS=8000/3
+1	ENT=cánceres	NaN	ANS=8000/3
+
+======= S1688-03902017000300115 ========= 
+1	ENT=tumoración	NaN	ANS=8271/0
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902018000100042 ========= 
+1	ENT=cáncer_de_cabeza_y_cuello	NaN	ANS=8319/3
+1	ENT=tumoral	NaN	ANS=29073
+1	ENT=carcinoma_escamoso_de_cabeza_y_cuello_(_hnscc	NaN	ANS=8319/3
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=hnscc	NaN	ANS=5794
+
+======= S1688-03902018000100064 ========= 
+1	ENT=tumoral	NaN	ANS=D18.0
+1	ENT=carcinoma_espinocelular	NaN	ANS=8337/3
+1	ENT=cánceres	NaN	ANS=9562/0
+1	ENT=carcinoma_basocelular	NaN	ANS=8337/3
+1	ENT=tumorales	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S1688-03902018000100113 ========= 
+1	ENT=leucemia_aguda	NaN	ANS=23872
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S1688-03902018000200029 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902018000200048 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902018000300121 ========= 
+1	ENT=cánceres	NaN	ANS=9562
+
+======= S1688-03902019000400004 ========= 
+1	ENT=cánceres_de_endometrio	NaN	ANS=30323
+1	ENT=cánceres_de_vulva	NaN	ANS=8725/0
+1	ENT=cáncer	NaN	ANS=8000/3
+1	ENT=cánceres	NaN	ANS=8000/3
+
+======= S1688-03902019000400029 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902019000400052 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-03902020000100123 ========= 
+1	ENT=tumoral	NaN	ANS=8895/3
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cm	NaN	ANS=8895/3
+
+======= S1688-03902020000200074 ========= 
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=melanoma	NaN	ANS=8714
+
+======= S1688-03902020000200159 ========= 
+1	ENT=tumoral	NaN	ANS=8102/3
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+
+======= S1688-03902020000400275 ========= 
+1	ENT=metástasis_muscular_de_un_carcinoma_de_células_claras	NaN	ANS=2335
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=carcinoma_de_células_claras	NaN	ANS=2335
+1	ENT=tumoración	NaN	ANS=8040/1
+1	ENT=metástasis_muscular_de_un_carcinoma_renal_de_células_claras	NaN	ANS=2335
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+
+======= S1688-04202019000100085 ========= 
+1	ENT=câncer_de_mama	NaN	ANS=1968
+
+======= S1688-04202020000100270 ========= 
+1	ENT=implante_percutáneo	NaN	ANS=12513
+
+======= S1688-12492020000300139 ========= 
+1	ENT=leucemia_linfoblástica	NaN	ANS=52571
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-12732009000200005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-12732010000100005 ========= 
+1	ENT=neoplasma	NaN	ANS=9562
+
+======= S1688-12732012000100004 ========= 
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1688-12732012000200003 ========= 
+1	ENT=neoplasma	NaN	ANS=9562
+
+======= S1688-70262020000300135 ========= 
+1	ENT=osteossarcoma	NaN	ANS=12888
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1692-35612015000100014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1692-715X2008000100008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1692-72732011000100002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=maligna	NaN	ANS=9562
+
+======= S1692-72732011000200006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1692-72732014000100002 ========= 
+1	ENT=cáncer_diferenciado	NaN	ANS=2489
+1	ENT=cáncer_papilar	NaN	ANS=10171
+1	ENT=neoplasia	NaN	ANS=9562
+
+======= S1692-72732016000300001 ========= 
+1	ENT=neoplasias_malignas	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1692-72732017000100012 ========= 
+1	ENT=recaída_pulmonar	NaN	ANS=8972/3
+1	ENT=tumoral	NaN	ANS=8040/1
+1	ENT=carcinoma_de_células_de_hürthle	NaN	ANS=8312/3
+1	ENT=tumor	NaN	ANS=8972/3
+1	ENT=neoplasia_de_células_de_hürthle	NaN	ANS=8320/3
+1	ENT=carcinoma	NaN	ANS=2320
+
+======= S1692-72732019000200201 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1692-72732020000100037 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1692-72732020000100169 ========= 
+1	ENT=cancro	NaN	ANS=9114
+
+======= S1695-61412010000300007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1695-61412011000100006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1695-61412012000100003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1695-61412012000200026 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1695-61412013000100024 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1695-61412013000300007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1695-61412015000100017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1695-61412015000300003 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S1695-61412015000400014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1695-61412016000300014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1695-61412016000400001 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=lsil_bajo_grado	NaN	ANS=8974/1
+
+======= S1695-61412017000100188 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=neoplasia_maligna	NaN	ANS=8000/3
+
+======= S1695-61412017000200001 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1695-61412017000400024 ========= 
+1	ENT=malignas	NaN	ANS=9562
+
+======= S1695-61412018000100348 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1695-61412018000300019 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1695-61412018000400401 ========= 
+1	ENT=leucemia	NaN	ANS=9562/0
+1	ENT=mieloma_múltiple	NaN	ANS=8360/1
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1695-61412019000100002 ========= 
+1	ENT=tumorales_malignas	NaN	ANS=4335
+
+======= S1695-61412019000200009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1695-61412020000200002 ========= 
+1	ENT=adenocarcinoma_poco_diferenciado	NaN	ANS=238
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=células_en_anillo_de_sello	NaN	ANS=4926
+
+======= S1695-61412020000200009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1695-61412020000400009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1695-61412020000400018 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S1726-569X2008000100007 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S1726-569X2008000200005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1726-569X2014000100003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1726-569X2018000100057 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1726-569X2019000200161 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1794-12372016000100013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1794-44492012000200017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1794-44492013000200006 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1794-44492018000200378 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1794-47242013000300002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1794-47242015000300002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1794-47242015000300003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1794-47242015000300004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1794-47242015000300005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1794-47242015000300007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1794-47242015000300008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1794-47242015000300009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1794-47242015000300010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1794-47242015000300011 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1794-47242015000300012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1794-47242017000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1794-47242019000200331 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1808-18512009000200013 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=cáncer_metastásico	NaN	ANS=9555
+1	ENT=tumor	NaN	ANS=9562
+
+======= S1808-18512012000300008 ========= 
+1	ENT=metástasis	NaN	ANS=8840/6
+1	ENT=metastásica	NaN	ANS=8895/6
+1	ENT=carcinoma	NaN	ANS=2320
+
+======= S1808-18512013000100007 ========= 
+1	ENT=lesiones_lumbares	NaN	ANS=28016
+1	ENT=metástasis	NaN	ANS=8840/6
+1	ENT=lesión_vertebral	NaN	ANS=9562/0
+1	ENT=metastásica	NaN	ANS=8840/6
+1	ENT=mieloma_múltiple	NaN	ANS=8231/3
+1	ENT=tumor	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=carcinoma	NaN	ANS=8231/3
+1	ENT=tumores	NaN	ANS=9562
+1	ENT=lesiones_en_la_columna_vertebral	NaN	ANS=28016
+
+======= S1808-18512015000400324 ========= 
+1	ENT=tumor	NaN	ANS=9562
+
+======= S1808-18512017000100064 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=cáncer_metastásico	NaN	ANS=9555
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1808-18512017000300231 ========= 
+1	ENT=metástasis_vertebrales_por_tumor	NaN	ANS=9555
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=metástasis_de_columna_vertebral	NaN	ANS=9555
+1	ENT=tumor	NaN	ANS=9562
+
+======= S1808-18512020000200137 ========= 
+1	ENT=metástasis	NaN	ANS=8895/6
+1	ENT=metastásicas	NaN	ANS=8840/6
+
+======= S1808-18512020000200148 ========= 
+1	ENT=tumores_malignos	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S1809-29502013000100009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1809-29502013000200002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1809-29502013000200013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1809-29502014000200180 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1809-29502016000100084 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1809-29502016000300263 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S1809-29502018000200209 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1809-58442014000200071 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1850-275X2020000200139 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1852-38622013000100007 ========= 
+1	ENT=linfoma_de_hodgkin	NaN	ANS=9661/3
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=mcp	NaN	ANS=3585
+
+======= S1852-38622015000200007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=enfermedad_valvular_aórtica	NaN	ANS=8851/3
+
+======= S1852-38622016000400005 ========= 
+1	ENT=neoplásicas	NaN	ANS=9562
+
+======= S1852-38622017000200003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1852-38622020000200002 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1853-35232019000600105 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1900-96072015000200009 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=neoplasias	NaN	ANS=8000/3
+1	ENT=tumoral	NaN	ANS=9090/0
+1	ENT=tumores_benignos	NaN	ANS=8000/0
+1	ENT=cáncer	NaN	ANS=8000/3
+1	ENT=malignos	NaN	ANS=8000/3
+
+======= S1900-96072017000300195 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+
+======= S1900-96072018000200157 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1900-96072018000300308 ========= 
+1	ENT=neoplasia	NaN	ANS=9570/0
+1	ENT=neoplasias	NaN	ANS=8971/3
+
+======= S1909-04552019000200030 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=neoplasia_maligna	NaN	ANS=8000/3
+
+======= S1909-97622013000200003 ========= 
+1	ENT=malignos	NaN	ANS=482
+
+======= S1980-65742014000100008 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1980-65742014000300325 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1981-77462016000200399 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472009000400004 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S1983-14472010000100003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472010000100012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472010000200019 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472010000400010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472010000400023 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472010000400024 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472010000400026 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472011000100013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472011000100020 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472011000200026 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472011000300010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472011000400007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472011000400017 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472011000400018 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472012000100023 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472012000300015 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472013000300010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472013000300014 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472013000300024 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472013000400010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472013000400021 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472014000100031 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472014000100116 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472014000200113 ========= 
+1	ENT=carcinoma_ductal_infiltrante	NaN	ANS=8521/3
+1	ENT=malignidad	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S1983-14472014000300111 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472014000300117 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472014000400014 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S1983-14472015000200076 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472015000200089 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+
+======= S1983-14472015000300109 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472015000400037 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472016000100404 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472016000100413 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472016000300411 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472017000100404 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472017000400404 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472018000100400 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472018000100402 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472018000100455 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472018000100457 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472018000100458 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472019000100421 ========= 
+1	ENT=leucemia	NaN	ANS=23872
+
+======= S1983-14472020000100418 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472020000100423 ========= 
+1	ENT=metastásico	NaN	ANS=8010/6
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-14472020000100504 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-80422013000300010 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-80422014000300014 ========= 
+1	ENT=neoplasia_de_pulmón_de_células_no_pequeñas_(_npnpc	NaN	ANS=8352
+1	ENT=npnpc	NaN	ANS=30536
+
+======= S1983-80422017000200392 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-80422017000300554 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-80422017000300563 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-80422018000100119 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-80422018000300451 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S1983-80422019000100067 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-80422019000100173 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S1983-80422020000200265 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2011-30802017000100035 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2077-21612012000100005 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2077-21612015000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2176-66812019000300633 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2215-34702019000200013 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2216-09732014000200012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2216-09732015000100003 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2216-09732016000200009 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2216-09732017000101407 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2216-09732017000301826 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2216-09732019000100202 ========= 
+1	ENT=leucemia_linfoblástica	NaN	ANS=52571
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2216-09732019000100207 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2216-09732019000100208 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2216-09732020000100400 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2216-09732020000100402 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=maligna	NaN	ANS=9562
+
+======= S2223-30322013000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2223-30322018000200011 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2223-30322019000200004 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2237-96222014000300519 ========= 
+1	ENT=neoplasia	NaN	ANS=9562
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S2237-96222014000400599 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2237-96222015000100105 ========= 
+1	ENT=câncer_de_mama	NaN	ANS=1968
+
+======= S2237-96222015000300389 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2237-96222016000200311 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2237-96222017000100071 ========= 
+1	ENT=malignas	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S2237-96222017000300481 ========= 
+1	ENT=neoplasias	NaN	ANS=8000/3
+1	ENT=malignidad	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S2237-96222017000400713 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2237-96222018000100304 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2237-96222018000100306 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2237-96222018000200302 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2237-96222018000300308 ========= 
+1	ENT=malignidad	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S2237-96222018000400308 ========= 
+1	ENT=malignidad	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S2237-96222019000300303 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2237-96222020000400308 ========= 
+1	ENT=carcinomas	NaN	ANS=2320
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2301-12542017000100007 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cáncer_cervico-uterino	NaN	ANS=14995
+1	ENT=melanoma	NaN	ANS=8714
+
+======= S2301-12542018000100046 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=tumores_de_alto_grado	NaN	ANS=8361/0
+1	ENT=carcinomas_ductales_con_grado_histológico_(_gh	NaN	ANS=38036
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=cm	NaN	ANS=8600/0
+1	ENT=cmm	NaN	ANS=8600/0
+1	ENT=tumores	NaN	ANS=9562
+
+======= S2301-12542018000200063 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2301-12542019000100012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2301-12542020000101102 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2301-12542020000201201 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2301-12542020000201202 ========= 
+1	ENT=malignidad	NaN	ANS=8000/3
+1	ENT=cáncer	NaN	ANS=8000/3
+
+======= S2358-18832018000200795 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2393-66062017000100012 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2393-66062019000100048 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S2393-66062020000200085 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2393-66062020000200205 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+
+======= S2393-67972017000200052 ========= 
+1	ENT=metástasis	NaN	ANS=9555
+1	ENT=adenocarcinoma	NaN	ANS=8933/3
+1	ENT=tumoración	NaN	ANS=8561/0
+1	ENT=sarcoma	NaN	ANS=8933/3
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumor_primitivo	NaN	ANS=C84.0
+
+======= S2393-67972018000100023 ========= 
+1	ENT=câncer	NaN	ANS=9562
+
+======= S2393-67972018000200022 ========= 
+1	ENT=cáncer	NaN	ANS=9562
+
+======= S2393-67972018000300020 ========= 
+1	ENT=tumores_malignos	NaN	ANS=9562
+1	ENT=tumoral	NaN	ANS=8895/3
+1	ENT=cáncer	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+1	ENT=condrosarcoma	NaN	ANS=8895/3
+
+======= S2422-42002021000100129 ========= 
+1	ENT=adenocarcinoma	NaN	ANS=8933/3
+1	ENT=neoplasias	NaN	ANS=9562
+1	ENT=cánceres	NaN	ANS=9562
+1	ENT=tumores	NaN	ANS=9562
+1	ENT=adenomas	NaN	ANS=8933/3
+
