@@ -10,13 +10,14 @@ awk '$1=$1' CancerPortuguesePubMedCaseAbstracts2.txt > CancerPortuguesePubMedCas
 rm CancerPortuguesePubMedCaseAbstracts.txt
 rm CancerPortuguesePubMedCaseAbstracts2.txt
 
-python retrieve_pt_train_files.py
+#retrive PT files for training
+python data_retrieval_scripts/retrieve_pt_train_files.py
 
 #retrive PT files for embeddings
-python3 retrieve_pt_files_embeddings.py
+python3 data_retrieval_scripts/retrieve_pt_files_embeddings.py
 
 #retrive ICR_corpus
-python retrieve_icr_corpus.py
+python data_retrieval_scripts/retrieve_icr_corpus.py
 
 #Download CANTEMIST corpus:
 cd data
